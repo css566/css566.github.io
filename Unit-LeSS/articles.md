@@ -15,6 +15,7 @@ LeSS Articles and Presentations
 -	[2015 - InfoQ - Bas Vodde on the LeSS Framework](http://www.infoq.com/articles/singapore-vodde-less)
 -	[2013 - Crosstalk - Scaling Agile Development - Craig Larman, Bas Vodde](http://www.crosstalkonline.org/storage/issue-archives/2013/201305/201305-Larman.pdf)
 -	[2011 - InfoQ - Large-Scale Agile Design & Architecture in LeSS - Craig Larman, Bas Vodde](http://www.infoq.com/articles/large-scale-agile-design-and-architecture)
+
 #PRESENTATIONS
 -	[2015 Oct - Gardening in Large-Scale Scrum - Viktor Grgic - ASAS 2015](http://www.asas.nl/2015/presentation/VVr7lSoAANct33KC/VVr67SoAAMgt328r/viktor-grgic/gardening-in-large-scale-scrum-less/)
 -	[2015 Sep - Rise and Downfall of a Large-Scale Scrum Implementation - Mikey Chik - Scrum Gathering Shanghai](http://www.slideshare.net/casmaron/sgsha-2015-rise-and-downfall-of-a-large-scale-scrum-implementation)
