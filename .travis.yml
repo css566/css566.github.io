@@ -6,4 +6,6 @@ rvm:
 gemfile:
   - Gemfile
 
-script: bundle exec jekyll build
+script: 
+  - bundle exec jekyll build
+  - bundle exec rake test
