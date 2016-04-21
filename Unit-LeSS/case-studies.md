@@ -5,9 +5,6 @@ layout: post
 LeSS Case Studies
 =================
 
-[Bank of America Merill Lynch]
-(HTTPS://LESS.WORKS/CASE-STUDIES/BAML.HTML)
- 
 [A Practical Approach to Large-Scale. Agile Development. An HP case study]
 (http://www.agileleadershipnetwork.org/wp-content/uploads/2012/12/Young-LargeScaleAgielDevelopment-2012-01-20.pdf)
  
