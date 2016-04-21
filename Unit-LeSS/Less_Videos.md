@@ -1,5 +1,11 @@
+---
+layout: post
+---
 
-#Introduction / Key Points of LeSS videos
+LeSS Videos
+=================
+
+#Introduction / Key Points of LeSS Videos
 
 [LeSS of a Story: An Introduction to Large-Scale Scrum (LeSS) - Agile Tour Singapore Nov 2015](http://www.infoq.com/presentations/less)
 This video showcases one of the creators of the LeSS management framework (Bas Vodde) introducing the LeSS management framework during the Agile Tour Singapore convention in November 2015. Bas Vodde gives the history of how the LeSS management framework came to be, why it works, and how it works.
