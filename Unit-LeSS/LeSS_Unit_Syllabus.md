@@ -29,7 +29,7 @@ By the end of this unit, students should be able to:
  8. Student Assessment of LeSS Unit
 
 #Additional LeSS Resources
-Journal Articles
-Books
-Videos
-Case Studies
+- Journal Articles
+- Books
+- Videos
+- Case Studies
