@@ -7,17 +7,19 @@ title: Quality attributes and metrics for a Unit
 Quality Attributes and Metrics for a Unit
 ================================
 
-#CSS 566: Sprint #1
+# CSS 566: Sprint #1
 
-#Overview
+## Overview
 In this document, we define quality attributes and metrics for a Unit.  A Unit is defined as an element of a course we are creating in CSS 566 (the “Product”). Quality attributes are the benchmarks that describe a Unit’s intended behavior within the environment for which it was built. It also provides the means for measuring the fitness and suitability of the Unit within the Product. While defining a Unit’s quality attributes and metrics, we outline generic guidelines that may be applied to any single Unit of the Product. These guidelines are designed to enable developers and other related stakeholders that are responsible for developing a Unit to measure its quality.  
 
 **The objective is divided into 3 sub-tasks as follows:**
-Define usability qualities for a Unit.
-Define design qualities of the Unit’s structure.
-Define what metrics need to be measured for a Unit’s quality.
+	
 
-##Define Usability Qualities For a Unit
+ 1. Define usability qualities for a Unit.
+ 2. Define design qualities of the Unit’s structure.
+ 3. Define what metrics need to be measured for a Unit’s quality.
+
+## 1. Define Usability Qualities For a Unit
 
 Usability of a Unit is a quality attribute that assesses how easy user interfaces are to use. An alternative definition of usability of a Unit is, methods for improving ease-of-use during the design process.
 
@@ -50,8 +52,8 @@ c. **Memorability** – When users return to the Unit after a period of not usin
  - Clear distinction between different hierarchical levels in a Unit. 
  - Use of selective colors that make the website look uniquely attractive.
 
- ##Define Design Qualities of the Unit’s Structure
-	Some of the design qualities for the Unit’s structure overlap with the qualities for its usability as outlined above, but there are fundamental differences. For instance, the Unit’s structure needs to be easily navigable and memorable as previously mentioned, but the actual direction for what goes into a Unit’s composition is governed by established practices around course and syllabus design. Thus, when defining how well a Unit’s structure is constructed, one needs to understand concepts relating to the content and how it influences the structure. This section defines design qualities for structure that are separate from Usability.
+## 2. Define Design Qualities of the Unit’s Structure
+Some of the design qualities for the Unit’s structure overlap with the qualities for its usability as outlined above, but there are fundamental differences. For instance, the Unit’s structure needs to be easily navigable and memorable as previously mentioned, but the actual direction for what goes into a Unit’s composition is governed by established practices around course and syllabus design. Thus, when defining how well a Unit’s structure is constructed, one needs to understand concepts relating to the content and how it influences the structure. This section defines design qualities for structure that are separate from Usability.
 	
 a. **Logical Flow**
 	
@@ -82,7 +84,7 @@ d. **Relevance to course level and difficulty [5]**
 	 - Loose is more apt for a SM course that is structured as an exercise in agile software management
 
 
-##Define What Metrics Need to be Measured For a Unit's Quality
+## 3. Define What Metrics Need to be Measured For a Unit's Quality
 Metrics for a Unit’s quality are related to sections 1 and 2; rather than defining what needs to be defined for quality, we are defining how the Unit needs to be measured. This is difficult since the main measure of a course’s quality (which is naturally composed of various Units) is “if the learner’s performance improved as a direct result of taking the course.” [6]
 
 a. **User Surveys**
@@ -114,13 +116,13 @@ d. **Technical measurements**
 
 
 
-#References
-http://www.softwarearchitectures.com/qa.html
-https://en.wikipedia.org/wiki/Usability
-https://www.nngroup.com/articles/usability-101-introduction-to-usability/
-http://www.washington.edu/teaching/teaching-resources/preparing-to-teach/designing-your-course-and-syllabus/
-http://www.tonybates.ca/2012/06/26/nine-steps-to-quality-online-learning-step-7-design-course-structure-and-learning-activities/
-https://community.articulate.com/discussions/building-better-courses/how-to-measure-quality-of-a-course
-http://publications.sreb.org/2006/06T05_Standards_quality_online_courses.pdf
+# References
+ 1. http://www.softwarearchitectures.com/qa.html
+ 2. https://en.wikipedia.org/wiki/Usability
+ 3. https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+ 4. http://www.washington.edu/teaching/teaching-resources/preparing-to-teach/designing-your-course-and-syllabus/
+ 5. http://www.tonybates.ca/2012/06/26/nine-steps-to-quality-online-learning-step-7-design-course-structure-and-learning-activities/
+ 6. https://community.articulate.com/discussions/building-better-courses/how-to-measure-quality-of-a-course
+ 7. http://publications.sreb.org/2006/06T05_Standards_quality_online_courses.pdf
 
 
