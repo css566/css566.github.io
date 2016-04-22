@@ -12,3 +12,6 @@
 5. Markdown also supports in-line html in case you need to use it.
 
 
+### Notes
+
+1. The CI test system cannot validate links from LinkedIn.com because they're being a whining baby about their data and blocking requests from Travis CI. Refer [issue #215](https://github.com/gjtorikian/html-proofer/issues/215)
