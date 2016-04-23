@@ -3,7 +3,7 @@ layout: post
 title: LeSS Videos
 ---
 
-#Introduction / Key Points of LeSS Videos
+Introduction / Key Points of LeSS Videos
 =================
 
 [LeSS of a Story: An Introduction to Large-Scale Scrum (LeSS) - Agile Tour Singapore Nov 2015](http://www.infoq.com/presentations/less)
