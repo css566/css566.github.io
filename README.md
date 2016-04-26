@@ -1,5 +1,7 @@
 ####Build Status : [![Build Status](https://travis-ci.org/css566/css566.github.io.svg?branch=master)](https://travis-ci.org/css566/css566.github.io)
 
+## More info in the [wiki](https://github.com/css566/css566.github.io/wiki)
+
 
 # Usage instructions
 
