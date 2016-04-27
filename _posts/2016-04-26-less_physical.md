@@ -3,7 +3,6 @@ layout: post
 title: LeSS Framework – Physical Aspects
 ---
 
-LeSS Framework – Physical Aspects
 =================
 
 ## Trends
