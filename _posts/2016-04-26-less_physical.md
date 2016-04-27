@@ -3,7 +3,6 @@ layout: post
 title: LeSS Framework – Physical Aspects
 ---
 
-=================
 
 ## Trends
 -  Tear down the walls!  Not only the silo walls in waterfall, but the physical walls in workspaces.
