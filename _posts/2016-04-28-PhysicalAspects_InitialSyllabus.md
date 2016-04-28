@@ -43,7 +43,7 @@ This section consists of:
     
 # Additional Resources
 
-    - [Journal Articles](http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
-    - [Videos] 
-    - [Case Studies](http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
+  - [Journal Articles](http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
+  - [Videos] 
+  - [Case Studies](http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
         
