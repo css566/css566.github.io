@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Physical aspects- Case studies
+title: Physical aspects- Initial Syllabus
+---
 
 Initial Syllabus for Physical Aspect
 ==========================================
@@ -14,7 +15,7 @@ Understanding the physical environment is essential because it directly determin
 
 # TOPICS
 
-  -The way in which teams work in an agile or Kanban set-up.
+  - The way in which teams work in an agile or Kanban set-up.
   -	The organization of the teams.
   -	The workspace that is needed to follow agile or Kanban.
   -	The need for using tech-tools to establish the online boards for agile and Kanban.
@@ -41,7 +42,7 @@ This section consists of:
   -	A list of case-studies that demonstrate different visions of the physical aspect for different SDLC.
     
 # Additional Resources
-    - [Journal Articles] (http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
-    - [Videos] 
-    - [Case Studies] (http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
+    [Journal Articles] (http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
+    [Videos] 
+    [Case Studies] (http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
         
