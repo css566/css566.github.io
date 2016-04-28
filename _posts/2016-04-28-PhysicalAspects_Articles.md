@@ -2,6 +2,7 @@
 layout: post
 title: Physical aspects- Case studies
 ---
+
 Journals- Physical Aspects
 =================================
 This section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with the Agile and Kanban
