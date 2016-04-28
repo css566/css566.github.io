@@ -57,7 +57,7 @@ Obeya: Dedicated Room with Visual Management
 A variation to traditional fixed walls is rolling whiteboards, as in this photo…
 
  
-![](http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg)
+![enter image description here](http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg)
 
 Dedicated room with rolling whiteboards for walls to support visual management.
 
