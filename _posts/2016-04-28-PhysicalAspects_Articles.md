@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physical aspects- Case studies
+title: Physical aspects- Articles
 ---
 
 Journals- Physical Aspects
