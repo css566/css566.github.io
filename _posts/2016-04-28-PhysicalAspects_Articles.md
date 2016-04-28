@@ -19,7 +19,7 @@ Following are the list of articles relating to the Physical aspect of Software M
 
 3.  [Agile Modeling Design Workshop](http://www.craiglarman.com/wiki/index.php?title=Environment_-_U_Shaped_Tables_Layout) well           illustrates the another dimension to the physical aspect. 
 
-4.  [Continuous Integration (Scaling a CI system)]      (https://less.works/less/technical-excellence/continuous-integration.html#ScalingaCISystem) with respect to the LeSS framework     includes some physical aspects as well.
+4.  [Continuous Integration (Scaling a CI system)](https://less.works/less/technical-excellence/continuous-integration.html#ScalingaCISystem) with respect to the LeSS framework includes some physical aspects as well.
   
 5. [The architecture and design of the system](https://less.works/less/technical-excellence/architecture-design.html) is an important    area to address physical aspects. It is that area in project management that directly impacts software development. 
 
