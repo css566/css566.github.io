@@ -5,13 +5,17 @@ title: Agile/Scrum – Physical Aspects
 
 ## Agile/Scrum Overview
 Agile and Scrum are often described in an interrelated manner, both in the literature and developers’ general perception.  For the purpose of this unit, Agile and Scrum physical aspects are combined.  It should also be recognized that many of the physical aspects describe here also apply to both LeSS and Kanban.  It is further noted that other “Agile” practices, such as Extreme Programming and Test Driven Design, do not employ the same level of “Team” concepts, so may be implemented in environments that do not focus on teams.
+
 ### Scrum Concepts
 Fundamental to the physical aspects of Agile/Scrum are implementing a physical environment to best facilitate implementation of Agile/Scrum theories and practices.  To better understand those theories and practices, the following primer on Scrum is provided.
+
 ### Scrum Theory
 Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
+
 ### The Scrum Team
 The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to optimize flexibility, creativity, and productivity.
 Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of “Done” product ensure a potentially useful version of working product is always available.
+
 ### The Development Team
 The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint. Only members of the Development Team create the Increment.
 Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Development Team’s overall efficiency and effectiveness.
@@ -179,4 +183,5 @@ Electronic Scrum board may also be used.  This approach is particularly useful f
 #### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
+
 #### iceScrum open source set of tools
