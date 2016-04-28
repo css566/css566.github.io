@@ -25,10 +25,11 @@ By the end of this unit, students should be able to:
  2. LeSS Theories
  3. LeSS Principles
  4. LeSS Practices
- 5. Cyber Aspects of LeSS 
- 6. Social Aspects of LeSS
- 7. Software Management using LeSS
- 8. Student Assessment of LeSS Unit
+ 5. Physical Aspects of LeSS
+ 6. Cyber Aspects of LeSS 
+ 7. Social Aspects of LeSS
+ 8. Software Management using LeSS
+ 9. Student Assessment of LeSS Unit
 
 # Additional LeSS Resources
 
