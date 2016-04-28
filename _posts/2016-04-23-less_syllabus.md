@@ -21,18 +21,20 @@ By the end of this unit, students should be able to:
 
 # LeSS Unit Organization
 
- 1. LeSS Framework
+ 1. [LeSS Framework](http://css566.github.io/2016/04/25/Less_Framework_Unit.html)
  2. LeSS Theories
  3. LeSS Principles
  4. LeSS Practices
- 5. Cyber Aspects of LeSS 
- 6. Social Aspects of LeSS
- 7. Software Management using LeSS
- 8. Student Assessment of LeSS Unit
+ 5. [Physical Aspects of LeSS](http://css566.github.io/2016/04/26/less_physical.html)
+ 6. Cyber Aspects of LeSS 
+ 7. Social Aspects of LeSS
+ 8. Software Management using LeSS
+ 9. Student Assessment of LeSS Unit
 
 # Additional LeSS Resources
 
-- [Journal Articles] (http://css566.github.io/2016/04/23/less_articles.html) 
-- [Books] (http://css566.github.io/2016/04/23/less_books.html)
-- [Videos] (http://css566.github.io/2016/04/23/less_videos.html)
-- [Case Studies] (http://css566.github.io/2016/04/23/less_case-studies.html)
+- [Journal Articles](http://css566.github.io/2016/04/23/less_articles.html)
+- [Books](http://css566.github.io/2016/04/23/less_books.html)
+- [Videos](http://css566.github.io/2016/04/23/less_videos.html)
+- [Case Studies](http://css566.github.io/2016/04/23/less_case_studies.html)
+

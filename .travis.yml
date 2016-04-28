@@ -9,3 +9,7 @@ gemfile:
 script: 
   - bundle exec jekyll build
   - bundle exec rake test
+
+notifications:
+  slack:
+    secure: QtJaO3f642HmeAc+rJtuRNUMgzuxS41ceBtlBq2LNBkdiZ/f1ImHNH7GdFVGiuIdJws3jWXmxxT/eP+Plwx+yCVX3K1fM/3d4XOfAV+419XWniRyBldmKf+xE6zfwvz4WJbnVD/2DtQOdSj16/tymDRFkqmJHuPrOaHFlJoIQ55swj9+0X5D89nncpKcyPgwnPWgunQyoB5BwrfgHdfI9U4bIl2FEHH+SL+SsXQ7gQxFjStmtPk7c4KMSh9e40A+vQ5+wBoUJawTcgMqQK1DTes4BOc8RCQck7zndovZNX8Js20YQrBCMnYg64h5vR9uRuUf8uZRe0LV0Y75Mvqu9lwg2wIBAYLLZ/wgisgfkT7CxwaWxdk+Q5V0fYqVYpgTMbu42577n2fKkP5+KBL0DIgXvt9RPN6/WMbYITVOTnBf2NGozB1+jNRJyclPoZEqhsIqMJjht/oz1oX1SajfP045LlZGvbRoMEJH1xJS8kBeX5fMjQzTpIKyXnZlRkw2IMNqXHf6A8nrFo7ddUihZzSflHz+nkX3cYoFgZP1yH2oes+/Vjq8gCTs2EPCi+J1kP9L6SiA24NzVC7R+Gl/GVafKrpJZwyU8u8bUxXV8B2/+sJXHc9jXEdRiTjwEfLEwARLL8uMZXjUHKuElwEUdRfcodCnXPldOSV/HnWnDT0=

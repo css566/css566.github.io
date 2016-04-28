@@ -3,8 +3,6 @@ layout: post
 title: LeSS Books
 ---
 
-LeSS Books
-=================
 In [Large-Scale Scrum](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710), Craig Larman and Bas Vodde offer the most direct, concise, actionable guide to reaping the full benefits of agile in distributed, global enterprises. Larman and Vodde have distilled their immense experience helping geographically distributed development organizations move to agile. Going beyond their previous books, they offer today's fastest, most focused guidance: "brass tacks" advice and field-proven best practices for achieving value fast, and achieving even more value as you move forward.
 
 
