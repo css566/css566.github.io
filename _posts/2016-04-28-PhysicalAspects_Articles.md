@@ -6,6 +6,7 @@ title: Physical aspects- Case studies
 Journals- Physical Aspects
 =================================
 This section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with the Agile and Kanban
+
 Following are the list of articles relating to the Physical aspect of Software Management.
 
 [Teams in Lean Management](https://less.works/less/structure/feature_teams.html)
