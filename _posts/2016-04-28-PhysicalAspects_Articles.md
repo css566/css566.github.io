@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Physical aspects- Articles
+title: Physical Unit - Related Articles
 ---
 
-Journals- Physical Aspects
+Journals - Physical Aspects of SM
 =================================
-This section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with the Agile and Kanban
+This section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with Agile and Kanban
 
 Following are the list of articles relating to the Physical aspect of Software Management.
 
