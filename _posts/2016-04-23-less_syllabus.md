@@ -33,7 +33,10 @@ By the end of this unit, students should be able to:
 
 # Additional LeSS Resources
 
-- [Journal Articles] (http://css566.github.io/2016/04/23/less_articles.html) 
+- [Journal Articles] (http://css566.github.io/2016/04/23/less_articles.html)
+
 - [Books] (http://css566.github.io/2016/04/23/less_books.html)
+
 - [Videos] (http://css566.github.io/2016/04/23/less_videos.html)
+
 - [Case Studies] (http://css566.github.io/2016/04/23/less_case-studies.html)
