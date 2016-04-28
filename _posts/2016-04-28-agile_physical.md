@@ -162,10 +162,11 @@ A fundamental aspect to Scrum is the user of a Scrum board.  Most proponents of 
 - Adequately-size board 
 - May be in room
 - May be in hallway
+
 A physical board supports multiple purposes:
-1.	 Facilitate Scrum processes
+1.	Facilitate Scrum practices and processes 
 2.	Increase conversation among team members
-3.	Provide visibility into project without using computers
+3.	Provide visibility into project and progress without using computers
 
 ### Examples of Physical Scrum Boards
  
