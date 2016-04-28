@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Physical aspects- Initial Syllabus
----
+title: Physical aspects- Case studies
 
 Initial Syllabus for Physical Aspect
 ==========================================
@@ -42,8 +41,7 @@ This section consists of:
   -	A list of case-studies that demonstrate different visions of the physical aspect for different SDLC.
     
 # Additional Resources
-    - [Journal Articles] 
-    - [Books] (http://css566.github.io/2016/04/23/less_books.html)
-    - [Videos] (http://css566.github.io/2016/04/23/less_videos.html)
-    - [Case Studies] (http://css566.github.io/2016/04/23/less_case-studies.html)
+    - [Journal Articles] (http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
+    - [Videos] 
+    - [Case Studies] (http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
         
