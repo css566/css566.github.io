@@ -6,7 +6,6 @@ title: LeSS Case Studies
 LeSS Case Studies
 =================
 
-
 [A Practical Approach to Large-Scale. Agile Development. An HP case study]
 (http://www.agileleadershipnetwork.org/wp-content/uploads/2012/12/Young-LargeScaleAgielDevelopment-2012-01-20.pdf)
  
