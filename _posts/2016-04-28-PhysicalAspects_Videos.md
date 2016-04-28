@@ -4,6 +4,7 @@ title: Physical Unit - Related Videos
 ---
 
 # Physical Attributes of Software Management Videos
+
 ### Stand Up Meeting Space 
 
 [Effective Meetings | Daily Standup Meetings | Website Pipeline](https://www.youtube.com/watch?v=_3VIC8u1UV8&list=PLeDEPDAwtfBR4hvdJPuzOoJ0R5vN0jt4q)  
