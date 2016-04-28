@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Physical aspects- Case studies
+title: Physical aspects- Initial Syllabus
+---
 
 Initial Syllabus for Physical Aspect
 ==========================================
