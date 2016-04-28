@@ -42,7 +42,7 @@ This section consists of:
   -	A list of case-studies that demonstrate different visions of the physical aspect for different SDLC.
     
 # Additional Resources
-    [Journal Articles] (http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
+    [Journal Articles](http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
     [Videos] 
-    [Case Studies] (http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
+    [Case Studies](http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
         
