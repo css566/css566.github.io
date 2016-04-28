@@ -1,19 +1,16 @@
 ---
 layout: post
-title: Physical aspects- Initial Syllabus
+title: Physical Unit - Initial Syllabus
 ---
 
-Initial Syllabus for Physical Aspect
-==========================================
-
-# INTRODUCTION
+#### INTRODUCTION
 
 This syllabus aims to presents important take-aways from exploring the Physical aspect for different SLDC. 
 The effort is oriented to understand the framework as well as be able to gauge the framework for Physical aspects in Physical-Cyber-Social Systems approach. 
 It deals with the different instances of a physical environment like organization of teams, the physical space in which the teams operate, workspaces etc.
 Understanding the physical environment is essential because it directly determines the successful outcome of the software development process. 
 
-# TOPICS
+#### TOPICS
 
   - The way in which teams work in an agile or Kanban set-up.
   -	The organization of the teams.
@@ -22,7 +19,7 @@ Understanding the physical environment is essential because it directly determin
   -	The means of communication with other members in a team.
   -	The way in which different organizations follow any SDLC.
 
-# LEARNING OBECTIVES
+#### LEARNING OBECTIVES
 
 By the end of the unit, the student should be able to:
 
@@ -32,7 +29,7 @@ By the end of the unit, the student should be able to:
   -	Have a comprehensive idea of the physical aspect through the articles, case studies and videos.
   -	Analyze the physical aspect for any given SDLC.
 
-# OUTLINE 
+#### OUTLINE 
 
 This section consists of:	
 
@@ -41,9 +38,9 @@ This section consists of:
   -	A list videos that demonstrate different visions of the physical aspect for different SDLC.
   -	A list of case-studies that demonstrate different visions of the physical aspect for different SDLC.
     
-# Additional Resources
+#### Additional Resources
 
   - [Journal Articles](http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html)
-  - [Videos] 
+  - [Videos](https://css566.github.io/2016/04/28/PhysicalAspects_Videos.html) 
   - [Case Studies](http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html)
         
