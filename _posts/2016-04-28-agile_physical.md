@@ -71,7 +71,7 @@ At any point in time in a Sprint, the total work remaining in the Sprint Backlog
  
 ![enter image description here](http://backlog.fiware.org/guide/_images/SCRUM_summary.png)
 
-## Physical Environment Concepts:
+## Physical Environment Concepts
 An organization's most valuable asset is its people. Create an environment that will attract the live hearts and the live minds.
 Agile methodologies flourish when scrum team members, who are central to the success of the agile project, work closely together in an environment that supports the process. Creating the right environment for the scrum team to operate in goes a long way toward supporting the project's success. You can even hire people who specialize in designing optimal work environments for agile.
 
