@@ -8,6 +8,8 @@ Define roles and assign responsibilities for data management
 
 In this, we will discuss the one of the various practices of Software Management with respect to the social aspect.
 
+For productivity, roles of team members should be defined clearly. These roles may be project manager, team lead, developer, tester etc. Furthermore, authorizations and responsibilities of these roles should be defined very clearly. Task-assignment based development should also be applied for avoiding redundant efforts and chaos.
+
 Best Practice: 
 In addition to the primary researcher(s), there might be others involved in the research process that take part in aspects of data management. By clearly defining the roles and responsibilities of the parties involved, data are more likely to be available for use by the primary researchers and anyone re-using the data. Roles and responsibilities should be clearly defined, rather than assumed; this is especially important for collaborative projects that involve many researchers, institutions, and/or groups.
 
