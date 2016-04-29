@@ -1,6 +1,6 @@
 ---
 layout: post
-ttle: Define roles and assign responsibilities for data management
+title: Define roles and assign responsibilities for data management
 ---
 
 Define roles and assign responsibilities for data management
