@@ -97,7 +97,7 @@ Source of image: Richard Fridrich [5]
 
 Case Studies
 -------------
-###"Mugshot.com"
+### "Mugshot.com" Website
 
 - Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
  - In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project.
