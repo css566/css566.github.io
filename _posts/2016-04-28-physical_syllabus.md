@@ -22,14 +22,6 @@ By the end of the unit, the student should be able to:
   -	Have a comprehensive idea of the physical aspect through the articles, case studies and videos.
   -	Analyze the physical aspect for any given SM Frameworks/Methodologies..
 
-## OUTLINE 
-
-This section consists of:	
-
-  - Detailed discussions of physical aspects for important SM Frameworks/Methodologies.
-  -	A list of articles and journals that demonstrate different visions of the physical aspect for different SM Frameworks/Methodologies..
-  -	A list videos that demonstrate different visions of the physical aspect for different SM Frameworks/Methodologies..
-  -	A list of case-studies that demonstrate different visions of the physical aspect for different SM Frameworks/Methodologies..
 
 ## TOPICS
 
