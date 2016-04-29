@@ -64,6 +64,7 @@ Practices
    - Bug cost is reduced because they are continually tested and squashed instead of looked at far after the code is written [4]
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg)
+
 Image Source: [1]
 
 Theories
