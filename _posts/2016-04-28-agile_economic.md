@@ -97,7 +97,7 @@ Source of image: Richard Fridrich [5]
 
 Case Studies
 -------------
-### 1) "Mugshot.com" Website
+1) "Mugshot.com" Website
 
 - Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
  - In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project.
@@ -142,7 +142,7 @@ Figure 6. Overall Comparison
 
 Overall comparison is shown in figure 6. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.
 
-### 2) SAFe [8]
+2) SAFe [8]
 
 This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team. 
 
