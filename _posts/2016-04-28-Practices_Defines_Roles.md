@@ -25,6 +25,7 @@ Examples of roles in data management:
 10. external data center or archive
 
 Steps for assigning data management responsibilities:
+
 1. For each task identified in your data management plan, identify the skills needed to perform the task
 2. Match skills needed to available staff and identify gaps
 3. Develop training/hiring plan
@@ -35,6 +36,7 @@ Description Rationale:
 A successful data management plan requires that the appropriate staffing resources are available and trained. Identifying specific tasks and responsible parties will help with budgeting, implementation, and preservation of the data resources.
 
 Related Best Practices: 
+
 1. [Plan data management early in your project](https://www.dataone.org/best-practices/plan-data-management-early-your-project)
 2. [Plan for effective multimedia management](https://www.dataone.org/best-practices/plan-effective-multimedia-management)
 3. [Provide budget information for your data management plan](https://www.dataone.org/best-practices/provide-budget-information-your-data-management-plan)
