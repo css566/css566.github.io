@@ -99,9 +99,9 @@ Case Studies
 -------------
 1) "Mugshot.com" Website
 
-- Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
-- In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP. 
-- Some principles that they are going to use are:
+Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
+In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP. 
+Some principles that they are going to use are:
     - Bugs cost more the longer we wait
     - Requirements change
     - Some requirements are wrong
