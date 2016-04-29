@@ -97,17 +97,18 @@ Source of image: Richard Fridrich [5]
 
 Case Studies
 -------------
-1) "Mugshot.com" Website
+1) **"Mugshot.com" Website**
 
 Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
 In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP. 
 
 Some principles that they are going to use are:
-  - Bugs cost more the longer we wait
-  - Requirements change
-  - Some requirements are wrong
-  - Software depreciates
-  - We can choose when to stop developing
+
+- Bugs cost more the longer we wait
+- Requirements change
+- Some requirements are wrong
+- Software depreciates
+- We can choose when to stop developing
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg)
 Figure 1. Team structure and budget planning (Source of image: [4])
@@ -142,7 +143,7 @@ Figure 5. Overall Comparison (Source of image: [4])
 
 Overall comparison is shown in figure 5. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.
 
-2) SAFe [8]
+2) **SAFe [8]**
 
 This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team. 
 
