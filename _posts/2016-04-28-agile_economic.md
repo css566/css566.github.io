@@ -101,15 +101,16 @@ Case Studies
 
 Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
 In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP. 
+
 Some principles that they are going to use are:
-    - Bugs cost more the longer we wait
-    - Requirements change
-    - Some requirements are wrong
-    - Software depreciates
-    - We can choose when to stop developing
+  - Bugs cost more the longer we wait
+  - Requirements change
+  - Some requirements are wrong
+  - Software depreciates
+  - We can choose when to stop developing
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg)
-Figure 1. Team structure and budget planning
+Figure 1. Team structure and budget planning (Source of image: [4])
 
 
 Figure 1 describes the structure of the team that is going to work on developing the website.
@@ -118,38 +119,38 @@ They have taken a team of 6 developers who will be working on developing the web
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_3.jpg)
 
-Figure 2. Traditional Approach - Cost Summary
+Figure 2. Traditional Approach - Cost Summary (Source of image: [4])
 
 
 What this comes down when you plug all these numbers in is, its gonna cost them about almost half a million dollars to develop in a traditional sense (Refer figure 2), with discovery and estimation, implementation, fixing bugs. It is interesting to see that, the bug fixing phase cost them the most. Almost $330000 just to fix the bugs and stabilize for a total cost of half a million dollars.
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg)
-Figure 3: Agile Approach - Cost Summary 
+Figure 3: Agile Approach - Cost Summary (Source of image: [4])
 
 
 Figure 3 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis. 
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_5.jpg)
-Figure 4. Revenue Comparison
+Figure 4. Revenue Comparison (Source of image: [4])
 
 
 From figure 4,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.   
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_6.jpg)
-Figure 6. Overall Comparison
+Figure 5. Overall Comparison (Source of image: [4])
 
 
-Overall comparison is shown in figure 6. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.
+Overall comparison is shown in figure 5. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.
 
 2) SAFe [8]
 
 This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team. 
 
 ![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg)
-Figure 1. SAFe constructs for economic decision-making (Source of Image: [8])
+Figure 6. SAFe constructs for economic decision-making (Source of Image: [8])
 
 
-Figure 1 illustrates how economic framework decision rules are embedded in SAFe. The components are as following:
+Figure 6 illustrates how economic framework decision rules are embedded in SAFe. The components are as following:
 
 - Lean agile budgeting: This is the very first decision and kind of an important one, as lean-agile enterprise moves from project-based cost-center accounting to a more streamlined budget process. In particular, cost for each program increment is largely fixed and scope is varied as necessary to stay within the PI budget.
 - Epic funding and governance: Allocating funds to the value streams is all well and good, but what happens when there are substantial concerns such as significant local investment concerns? The empowerment of funding requires responsibility to communicate any investments that are beyond routine. 
