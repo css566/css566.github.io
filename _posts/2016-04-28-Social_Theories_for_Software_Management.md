@@ -14,3 +14,5 @@ Make everyone a winner.
 # <a name="theory_y">Theory Y</a>
 
 # <a name="theory_z">Theory Z</a>
+
+> Written with [StackEdit](https://stackedit.io/).
