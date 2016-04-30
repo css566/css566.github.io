@@ -172,10 +172,10 @@ A physical board supports multiple purposes:
 ### Examples of Physical Scrum Boards
  
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
-                                https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
+ https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
  
 ![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
-                                http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
+ http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
 
 ## Electronic Scrum Boards
 Electronic Scrum board may also be used.  This approach is particularly useful for team-members who are not co-located.  An electronic Scrub board may also be displayed on a very large display to serve a purpose similar to a physical board.
@@ -183,10 +183,11 @@ Electronic Scrum board may also be used.  This approach is particularly useful f
 ### Examples 
  
  ![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
-                        http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
+ http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
+ 
 #### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
-                                 https://www.icescrum.com/wp-content/uploads/2015/04/home.png
+ https://www.icescrum.com/wp-content/uploads/2015/04/home.png
 
 #### iceScrum open source set of tools
