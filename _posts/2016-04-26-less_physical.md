@@ -39,8 +39,7 @@ Design workshops with agile modeling
 - When?– Consider holding design workshops at the start of building each new item (for example, three design workshops for each of three items in an iteration), and just-in-time whenever else the team finds agile modeling at the walls useful.
 
  ![enter image description here](https://less.works/img/design_&_architecture/design_ws_1.JPG)
- 
- https://less.works/img/design_&_architecture/design_ws_1.JPG
+
 
 design workshop--feature teams model in large ‘whiteboard’ spaces.
 
@@ -139,7 +138,7 @@ Requires physical spaces for co-located teams
 Additional spaces are needed for large projects (more than 8 teams)
  
 ![enter image description here](https://less.works/img/less-huge/requirement-areas.png)
-
+ [LeSS Huge Requirement Areas](https://less.works/less/less-huge/requirement-areas.html)
 System architecture documentation (SAD) workshops at the end of “tiger phase”
 
 
