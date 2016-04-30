@@ -4,10 +4,18 @@ title: Social Theories for Software Management
 ---
 Social Theories for Software Management
 ===
-
+* [Social Exchange Theory](#exchange): Relationships are based on a history of exchanges.
 * [Theory W](#theory_w):  Make everyone a winner.
 * [Theory Y](#theory_y):  Self-directed workers perform better.
 * [Theory Z](#theory_z):  William Ouchi's take on Japanese management practices.
+
+# <a name="exchange">Social Exchange Theory</a>
+People develop relationships with others they exchange with. 
+The way this exchange occurs and how frequently can affect relationship quality. 
+There are two general types of relationships: economic and social
+* Economic exchanges are highly equal, visible, short-term and focused on the thing being exchanged. This is characteristic of employee-employer relationships.
+* Social exchanges are less concerned with the urgency and equality of transactions, and are more concerned with longevity, empathy, and belonging in the relationship. Organizations try to create this in their culture, because it can cause employees to give effort selflessly.
+http://www.jstor.org/stable/2946096
 
 # <a name="theory_w">Theory W</a>
 Software project managers can only be sucessful if they make all project participants a winner. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=29489&isnumber=1257
