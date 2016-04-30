@@ -139,6 +139,7 @@ Additional spaces are needed for large projects (more than 8 teams)
  
 ![enter image description here](https://less.works/img/less-huge/requirement-areas.png)
  [LeSS Huge Requirement Areas](https://less.works/less/less-huge/requirement-areas.html)
+ 
 System architecture documentation (SAD) workshops at the end of “tiger phase”
 
 
