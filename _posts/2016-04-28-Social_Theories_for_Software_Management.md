@@ -14,22 +14,22 @@ People develop relationships with others they exchange with.
 The way this exchange occurs and how frequently can affect relationship quality. 
 There are two general types of relationships: economic and social
 * Economic exchanges are highly equal, visible, short-term and focused on the thing being exchanged. This is characteristic of employee-employer relationships.
-* Social exchanges are less concerned with the urgency and equality of transactions, and are more concerned with longevity, empathy, and belonging in the relationship. Organizations try to create this in their culture, because it can cause employees to give effort selflessly.
+* Social exchanges are less concerned with the urgency and equality of transactions, and are more concerned with longevity, empathy, and belonging in the relationship. Organizations try to create this in their culture, because it can cause employees to give effort selflessly. <br>
 
-http://www.jstor.org/stable/2946096
+See this article on [Social Exchange Theory](http://www.jstor.org/stable/2946096) from the _Annual Review of Sociology_.
 
 # <a name="theory_w">Theory W</a>
-Software project managers can only be sucessful if they make all project participants a winner. 
-http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=29489&isnumber=1257
-This theory employs the principles of [Alignment], [Cohesion], and [Responsibility].
+Software project managers can only be successful if they make all project participants a winner. 
+See this article on [Theory-W software project management principles and examples](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=29489&isnumber=1257) in _IEEE Transactions on Software Engineering_.  <br>
+Theory W employs the principles of [Alignment], [Cohesion], and [Responsibility]. <br>
 # <a name="theory_y">Theory Y</a>
-People perform best when they are allowed to be self-directed, and perform work they have [committed][Commitment] to.  They need to be given the opportunity to take [responsibility] for their own work.
+People perform best when they are allowed to be self-directed, and perform work they have [committed][Commitment] to.  They need to be given the opportunity to take [responsibility] for their own work. <br>
 > McGregor, D. (2000). The Human Side of Enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962
 
 # <a name="theory_z">Theory Z</a>
-William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.  This is in fact an application of [Social Exchange Theory](#exchange) to organizations.
-https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/
-This theory relies on the principles of [Alignnment], [Cohesion], [Commitment], [Collaboration], and [Transparency].
+William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.  This is in fact an application of [Social Exchange Theory](#exchange) to organizations. <br>
+Ouchi's theory is discussed in this textbook on [Theories of Motivation] (https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/). <br>
+This theory relies on the principles of [Alignment], [Cohesion], [Commitment], [Collaboration], and [Transparency].
 
 [Alignment]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#alignment
 
