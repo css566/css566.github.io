@@ -31,7 +31,7 @@ Development Teams have the following characteristics:
 ### Development Team Size 
 Optimal Development Team size is small enough to remain nimble and large enough to complete significant work within a Sprint. Fewer than three Development Team members decrease interaction and results in smaller productivity gains. Smaller Development Teams may encounter skill constraints during the Sprint, causing the Development Team to be unable to deliver a potentially releasable Increment. Having more than nine members requires too much coordination. Large Development Teams generate too much complexity for an empirical process to manage. The Product Owner and Scrum Master roles are not included in this count unless they are also executing the work of the Sprint Backlog. 
 
-See more at: https://www.scrumalliance.org/why-scrum/scrum-guide#sthash.vcJc6JjY.dpuf
+See more at: <https://www.scrumalliance.org/why-scrum/scrum-guide#sthash.vcJc6JjY.dpuf>
 
 ## Scrum Artifacts
 Scrum’s artifacts represent work or value to provide transparency and opportunities for inspection and adaptation. Artifacts defined by Scrum are specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact.
