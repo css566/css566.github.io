@@ -17,27 +17,27 @@ Social Principles for Software Management
 # <a name="alignment">Alignment</a>
 It can be hard to make progress if your team is not aligned to a common goal. 
 This [article](http://www.industryweek.com/companies-amp-executives/your-team-aligned) gives some hints on staying aligned.
-This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w).
+This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w). <br>
 
 # <a name="separation">Separation</a>
 Teams need to have the right balance of skills for the tasks you have committed to performing, and the tasks need to be of sufficient granularity that they can be performed without the team getting in each other's way.
-http://www.idalko.com/display/IW/Separation+of+specifications+and+tasks
+http://www.idalko.com/display/IW/Separation+of+specifications+and+tasks <br>
 
 # <a name="cohesion">Cohesion</a>  
 The team must work together, and be able to reach decisions that all team members support. 
 https://www.boundless.com/management/textbooks/boundless-management-textbook/groups-teams-and-teamwork-6/factors-influencing-team-performance-54/team-cohesiveness-272-3948/
-This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w).
+This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w). <br>
 
 # <a name="commitment">Commitment</a>   
 Team members need to be “all in”.  Everyone needs to be willing to put out the extra effort it takes to achieve your common goal. This can be achieved most easily when the entire team can participate in setting those goals.
 https://www.mountaingoatsoftware.com/blog/commitment-driven-planning
 It is important to get the team members' explicit commitment. Do not assume they have bought in just because they attended the planning session.
-This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}).
+This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}). <br>
 
 # <a name="transparency">Transparency</a>  
 Team members share what they are doing, so no one is surprised or has to question what happened after the fact. This is especially critical when working with a distributed team.
 http://link.springer.com/10.1007/978-3-540-69566-0_28
-This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z).
+This principle relates to [Theory Z]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z). <br>
 
 # <a name="responsibility">Responsibility</a>  
 Each team member takes responsibility for their contribution. 
@@ -45,7 +45,7 @@ Each team member takes responsibility for their contribution.
 > Hans Doorewaard Geert Van Hootegem Rik Huys
 > Personnel review. , 2002, Vol.31(3), p.356-370
 
-This principle relates to [Theory Y]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_y) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w).
+This principle relates to [Theory Y]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_y) and [Theory W]({% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w). <br>
 
 # <a name="collaboration">Collaboration</a>  
 Team members actively seek out help, opinions, or advice from other team members. 
