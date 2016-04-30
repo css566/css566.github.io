@@ -54,6 +54,9 @@ Team members actively seek out help, opinions, or advice from other team members
 This principle relates to [Theory Z].
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
+
 [Theory Y]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_y
+
 [Theory W]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w
+
 > Written with [StackEdit](https://stackedit.io/).
