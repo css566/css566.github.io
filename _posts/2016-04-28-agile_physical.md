@@ -89,7 +89,7 @@ All these practices uphold agile processes. When everyone works in the same area
 The graph created by Alistair Cockburn, one of the Agile Manifesto signatories, shows the effectiveness of different forms of communication. Notice the difference in effectiveness between paper communication and two people at a white board — with collocation, you get the benefit of better communication.
  
 ![enter image description here](http://media.wiley.com/Lux/06/351006.image0.jpg)
-http://media.wiley.com/Lux/06/351006.image0.jpg
+#####http://media.wiley.com/Lux/06/351006.image0.jpg#####
 
 ## Patterns
 
