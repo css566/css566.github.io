@@ -28,7 +28,7 @@ Content
 		 - [Defining Roles and task](#defining-roles-and-task)
 		 - [Save lesson learned info](#save-lesson-learned-info)
 	 - Related Principles
-		 -  [Alignment](#alignment)
+		 - [Alignment](#alignment)
 		 - [Cohesion](#cohesion)
 		 - [Responsibility](#responsibility)
  - [Theory Y](#theory3)
@@ -51,48 +51,48 @@ Content
 [Back to top](#content)
 
 ---
-####  <h4 id=theory1>Theory Z</h4>
+####  <a name="theory1">Theory Z</a>
 
 William Ouchi’s theory taken from Japanese management style. William Ouchi theorized that the key to better performance is employee loyalty. 
 
-More information read [here](2016/04/28/Social_Theories_for_Software_Management.html#theory_z)
+More information read [here][Theory Z]
 
 [Back to top](#content)
 
 ---
 
-####  <h4 id=theory2>Make Everyone a winner: Theory W</h4>
+####  <a name="theory2">Make Everyone a winner: Theory W</a>
 
 Software project managers can only be successful if they make all project participants a winner
 
-More information read [here](2016/04/28/Social_Theories_for_Software_Management.html#theory_w)
+More information read [here][Theory W]
 
 [Back to top](#content)
 
 ---
-####  <h4 id=theory3> Theory Y</h4>
+####  <a name="theory3">Theory Y</a>
 
 Trust your employees and they will perform better.  People perform best when they are allowed to be self-directed, and perform work they have committed to.
 
-More information read [here](2016/04/28/Social_Theories_for_Software_Management.html#theory_y)
+More information read [here][Theory Y]
 
 [Back to top](#content)
 
 ---
-####  <h4 id=theory4>Social Exchange Theory</h4>
+####  <a name="theory4">Social Exchange Theory</a>
 
 People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality
 
-More information read [here](2016/04/28/Social_Theories_for_Software_Management.html#exchange)
+More information read [here][exchange]
 
 [Back to top](#content)
 
 ---
-####  Alignment 
+####  <a name="alignment"> Alignment </a>
 
 Team that is going in the same direction towards the same goal will make better progress.
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#alignment)
+More information read [here][]
 
 
 [Back to top](#content)
@@ -104,7 +104,7 @@ More information read [here](/2016/04/28/Social_Principles_of_Software_Managemen
 
 Team works together, and can reach decisions that all team members support.
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#cohesion
+More information read [here][]
 
 [Back to top](#content)
 
@@ -113,7 +113,7 @@ More information read [here](/2016/04/28/Social_Principles_of_Software_Managemen
 
 Team members are “all in”.  Everyone is willing to work toward the common goal
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#commitment)
+More information read [here][]
 
 [Back to top](#content)
 
@@ -122,7 +122,7 @@ More information read [here](/2016/04/28/Social_Principles_of_Software_Managemen
 
 Team members share what they are doing to other team members. 
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#transparency)
+More information read [here][]
 
 [Back to top](#content)
 
@@ -131,7 +131,7 @@ More information read [here](/2016/04/28/Social_Principles_of_Software_Managemen
 
 Each team member takes responsibility for their contribution.
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#responsibility)
+More information read [here][]
 
 [Back to top](#content)
 
@@ -140,50 +140,50 @@ More information read [here](/2016/04/28/Social_Principles_of_Software_Managemen
 
 Team members actively seek out help, opinions, or advice from other team members.
 
-More information read [here](/2016/04/28/Social_Principles_of_Software_Management.html#collaboration)
+More information read [here][]
 
 [Back to top](#content)
 
 ---
-####<h4 id=defining-roles-and-task>  Define roles and tasks of team members</h4>
+####<a name="defining-roles-and-task">  Define roles and tasks of team members</a>
 
  For productivity, roles of team members should be defined clearly. These roles may be project manager, team lead, developer, tester etc. Furthermore, authorizations and responsibilities of these roles should be defined very clearly. Task-assignment based development should also be applied for avoiding redundant efforts and chaos. 
  Theories related: Theory Z,  Theory X and Y, Theory-W.
 
-More information read [here](/2016/04/28/Practices_Defines_Roles.html)
+More information read [here][]
 
 [Back to top](#content)
 
 ---
-####  Define meeting types
+####  <a name="define-meeting-types">Define meeting types</a>
 
 Meetings are very important if we are talking about software process management and should be defined in detail (meeting participants, context, average duration etc.).
 Theories related: Theory X and Y
 
-More information read [here](/2016/04/28/Practices_Defines_Roles.html)
+More information read [here][]
 
 [Back to top](#content)
 
 ---
-#### <h4 id=save-lesson-learned-info> Save "lessons learned" info for your projects</h4>
+#### <a name="save-lesson-learned-info">Save "lessons learned" info for your projects</a>
 
 Even if there are experienced staff in projects, there may be unforeseen events which may obstruct or retard development process. This can be a complex item configuration, error, production experience etc. Those happenings are highly preferred to be written in "lessons learned" documents and shared in public locations. This will avoid recurrence of time loss and provide more productive software process management. 
 Theories related: Theory X and Y, Theory-W.
 
-More information read [here](/2016/04/28/Practices_Defines_Roles.html)
+More information read [here][]
 
 [Back to top](#content)
 
 ---
-##Related Blogs
-#####<h4 id=blog1>Commitment -Driven Spring Planning</h4>
+##<a name="related-blogs">Related Blogs</a>
+#####<a name="blog1">Commitment -Driven Spring Planning</a>
 
 ----
-#####<h4 id=blog2>How Scrum Created the Greatest Team in the World</h4>
+#####<a name="blog2">How Scrum Created the Greatest Team in the World</a>
 
 ----
 
-#####<h4 id=blog3>Building the trust inside the team</h4>
+#####<a name="blog3">Building the trust inside the team</a>
 
 ----
 [Back to top](#content)
@@ -196,3 +196,8 @@ More information read [here](/2016/04/28/Practices_Defines_Roles.html)
  .[4]:https://dzone.com/articles/10-software-process-management
  .[5]:https://www.dataone.org/best-practices/define-roles-and-assign-responsibilities-data-managementtt
 
+
+[Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
+[Theory Y]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_y
+[Theory W]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w
+[exchange]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#exchange
