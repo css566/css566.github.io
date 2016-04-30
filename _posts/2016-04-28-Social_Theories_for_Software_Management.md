@@ -21,7 +21,7 @@ http://www.jstor.org/stable/2946096
 # <a name="theory_w">Theory W</a>
 Software project managers can only be sucessful if they make all project participants a winner. 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=29489&isnumber=1257
-This theory employs the principles of [Alignment](Alignment), [Cohesion](Cohesion), and [Responsibility](Responsibility).
+This theory employs the principles of [Alignment][Alignment], [Cohesion][Cohesion], and [Responsibility][Responsibility].
 # <a name="theory_y">Theory Y</a>
 People perform best when they are allowed to be self-directed, and perform work they have committed to.
 > McGregor, D. (2000). The Human Side of Enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962
