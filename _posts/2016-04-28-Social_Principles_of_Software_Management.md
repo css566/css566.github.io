@@ -21,22 +21,22 @@ This principle relates to [Theory Z] and [Theory W]. <br>
 
 # <a name="separation">Separation</a>
 Teams need to have the right balance of skills for the tasks you have committed to performing, and the tasks need to be of sufficient granularity that they can be performed without the team getting in each other's way.
-http://www.idalko.com/display/IW/Separation+of+specifications+and+tasks <br>
+[http://www.idalko.com/display/IW/Separation+of+specifications+and+tasks] <br>
 
 # <a name="cohesion">Cohesion</a>  
 The team must work together, and be able to reach decisions that all team members support. 
-https://www.boundless.com/management/textbooks/boundless-management-textbook/groups-teams-and-teamwork-6/factors-influencing-team-performance-54/team-cohesiveness-272-3948/
+[https://www.boundless.com/management/textbooks/boundless-management-textbook/groups-teams-and-teamwork-6/factors-influencing-team-performance-54/team-cohesiveness-272-3948/]
 This principle relates to [Theory Z] and [Theory W]. <br>
 
 # <a name="commitment">Commitment</a>   
 Team members need to be “all in”.  Everyone needs to be willing to put out the extra effort it takes to achieve your common goal. This can be achieved most easily when the entire team can participate in setting those goals.
-https://www.mountaingoatsoftware.com/blog/commitment-driven-planning
+[https://www.mountaingoatsoftware.com/blog/commitment-driven-planning]
 It is important to get the team members' explicit commitment. Do not assume they have bought in just because they attended the planning session.
 This principle relates to [Theory Z]. <br>
 
 # <a name="transparency">Transparency</a>  
 Team members share what they are doing, so no one is surprised or has to question what happened after the fact. This is especially critical when working with a distributed team.
-http://link.springer.com/10.1007/978-3-540-69566-0_28
+[http://link.springer.com/10.1007/978-3-540-69566-0_28]
 This principle relates to [Theory Z]. <br>
 
 # <a name="responsibility">Responsibility</a>  
@@ -49,7 +49,7 @@ This principle relates to [Theory Y] and [Theory W]. <br>
 
 # <a name="collaboration">Collaboration</a>  
 Team members actively seek out help, opinions, or advice from other team members. 
->  J. Alberto Espinosa , Sandra A. Slaughter , Robert E. Kraut & James D.Herbsleb (2007) Team Knowledge and Coordination in Geographically Distributed SoftwareDevelopment, Journal of Management Information Systems, 24:1, 135-169, http://dx.doi.org/10.2753/MIS0742-1222240104
+>  J. Alberto Espinosa , Sandra A. Slaughter , Robert E. Kraut & James D.Herbsleb (2007) Team Knowledge and Coordination in Geographically Distributed SoftwareDevelopment, Journal of Management Information Systems, 24:1, 135-169, [http://dx.doi.org/10.2753/MIS0742-1222240104]
 
 This principle relates to [Theory Z].
 
