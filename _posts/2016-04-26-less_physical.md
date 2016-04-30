@@ -39,9 +39,10 @@ Design workshops with agile modeling
 - When?– Consider holding design workshops at the start of building each new item (for example, three design workshops for each of three items in an iteration), and just-in-time whenever else the team finds agile modeling at the walls useful.
 
  ![enter image description here](https://less.works/img/design_&_architecture/design_ws_1.JPG)
+ 
+	Design workshop--feature teams model in large ‘whiteboard’ spaces.
 
-
-design workshop--feature teams model in large ‘whiteboard’ spaces.
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 
 ----------
@@ -61,19 +62,19 @@ A variation to traditional fixed walls is rolling whiteboards, as in this photo�
 ![enter image description here](http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg)
 
 Dedicated room with rolling whiteboards for walls to support visual management.
-
+[LeSS principles/lean-thinking](https://less.works/less/principles/lean-thinking.html)
 
 ----------
 
 
 ### Massive ‘Whiteboard” space
-Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ space. Standard whiteboards are possible but not usually sufficient–and in fact are often an impediment, because modeling is best done on vast open wall spaces without borders . You will want to cover virtually all wall space with ‘whiteboard’ material, usually about two meters high.
+Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ space. Standard whiteboards are possible but not usually sufficient–and in fact are often an impediment, because modeling is best done on vast open wall spaces without borders . You will want to cover virtually all wall space with ‘whiteboard’ material, usually about two meters high. “We have noticed over the years as we facilitate agile design workshops that there is a linear correlation between their effectiveness and the amount of whiteboard space.”
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/uml_wall.JPG)
 
-“We have noticed over the years as we facilitate agile design workshops that there is a linear correlation between their effectiveness and the amount of whiteboard space.”
-
+useful, simple UML on an excellent UML tool--a wall.
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
 
@@ -82,7 +83,7 @@ Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ sp
 ![enter image description here](https://less.works/img/design_&_architecture/cling_sheet_roll.JPG)
 
 Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteboard wallpaper”
-
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
 
@@ -90,8 +91,8 @@ Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteb
  
 ![enter image description here](https://less.works/img/design_&_architecture/walls_in_halls.JPG)
 
-Example of vast ‘whiteboard’ in hallway.
-
+Example of a vast ‘whiteboard’ in hallway.
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
 
@@ -106,12 +107,20 @@ Multi-team design workshops
 ![enter image description here](https://less.works/img/design_&_architecture/groups_in_ws_2.JPG)
 
 Example of Physical workspace required to facilitate multi-team design workshops
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ### LeSS includes a Continuous Integration (CI) system
  
-Continuous Integration (CI) System (includes Physical aspects)
+
 
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-system.png)
+
+Continuous Integration (CI) System (includes Physical aspects)
+[Source: Technical-excellence/continuous-integration](https://less.works/less/technical-excellence/continuous-integration.html)
+
+
+----------
+
 
 Scaling a CI System
 
@@ -120,6 +129,9 @@ Scaling a CI System
 - Employ a staged-CI system as shown below
  
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-scaled-system-example.png)
+
+CI Example
+[Source: Technical-excellence/continuous-integration](https://less.works/less/technical-excellence/continuous-integration.html)
 
 
 ----------
@@ -130,39 +142,41 @@ Pattern for starting new product:
 ![enter image description here](https://less.works/img/design_&_architecture/start_with_tiger_team.png)
 
 Requires physical spaces for co-located teams
-
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
 
 
-Additional spaces are needed for large projects (more than 8 teams)
+
  
 ![enter image description here](https://less.works/img/less-huge/requirement-areas.png)
- [LeSS Huge Requirement Areas](https://less.works/less/less-huge/requirement-areas.html)
+Additional spaces are needed for large projects (more than 8 teams)
+ [Source: LeSS Huge Requirement Areas](https://less.works/less/less-huge/requirement-areas.html)
  
-System architecture documentation (SAD) workshops at the end of “tiger phase”
-
 
 ----------
 
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png)
- 
+System architecture documentation (SAD) workshops at the end of “tiger phase”
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 
 ----------
 
 
 ![enter image description here](https://less.works/img/design_&_architecture/sad_workshop.jpg)
-
+Multi-team design workshop
+ [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
 
 
 ### Issues
-Adequate physical space(s) may not exist.  Some tenants are permitted to tear down walls, while others are not (particularly if walls are structural!)  Moving to a new facility is expensive and disruptive.
-Not having personal physical workspaces can be problematic, particular for managers (such as if they need privacy relating to human resources issues).
-Architecture/Design is not adequately captured in a maintainable tool or set of tools
 
--	Creating diagram on massive whitespaces does not create architecture in tools that can be maintained; you also cannot use such tools to automatically generate code (such as WSDLs, REST APIs for Web services)
+- Adequate physical space(s) may not exist.  Some tenants are permitted to tear down walls, while others are not (particularly if walls are structural!)  Moving to a new facility is expensive and disruptive.
+
+- Not having personal physical workspaces can be problematic, particular for managers (such as if they need privacy relating to human resources issues).
+
+- Architecture/Design is not adequately captured in a maintainable tool or set of tools
