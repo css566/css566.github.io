@@ -128,7 +128,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  <a name="responsibility ">Responsibility </a>
+####  <a name="responsibility">Responsibility </a>
 
 Each team member takes responsibility for their contribution.
 
@@ -137,7 +137,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  <a name="collaboration  ">Collaboration </a>
+####  <a name="collaboration">Collaboration </a>
 
 Team members actively seek out help, opinions, or advice from other team members.
 
