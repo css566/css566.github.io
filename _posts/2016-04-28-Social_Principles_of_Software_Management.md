@@ -39,6 +39,7 @@ This principle relates to [Theory Z]. <br>
 
 # <a name="responsibility">Responsibility</a>  
 Each team member takes responsibility for their contribution.  <br>
+
 > Team responsibility structure and team performance
 > Hans Doorewaard Geert Van Hootegem Rik Huys
 > Personnel review. , 2002, Vol.31(3), p.356-370
@@ -47,6 +48,7 @@ This principle relates to [Theory Y] and [Theory W]. <br>
 
 # <a name="collaboration">Collaboration</a>  
 Team members actively seek out help, opinions, or advice from other team members. <br>
+
 >  J. Alberto Espinosa , Sandra A. Slaughter , Robert E. Kraut & James D.Herbsleb (2007) Team Knowledge and Coordination in Geographically Distributed SoftwareDevelopment, Journal of Management Information Systems, 24:1, 135-169, [http://dx.doi.org/10.2753/MIS0742-1222240104]
 
 This principle relates to [Theory Z].
