@@ -111,7 +111,7 @@ Agile is a responsive approach, and scrum team members require an environment th
 - Have a large mobile white board.
 With this movable environment, scrum team members can configure and reconfigure their arrangement as needed. Given that scrum team members will be working with different members from day to day, mobility is important. Fixed furniture tends to dictate the communications that take place. Being mobile allows for freer collaboration and more freedom overall.
 
-See more at http://www.dummies.com/how-to/content/how-to-create-a-physical-environment-to-maximize-a.html
+See more at <http://www.dummies.com/how-to/content/how-to-create-a-physical-environment-to-maximize-a.html>
 
 ### Open Space Design
 Open space design can increase team member productivity, so long as work the team is focused on requires a high level of collaboration. If not, then the environment can be counterproductive, due to the increased level of distraction resulting from interruptions and background noise. It is prohibitive to have teams co-located together, if the work they’re doing is disparate. Instead, team members should be co-located with members of their own team, but separated from other teams, to ensure the osmotic communications they are exposed to are relevant to the project at hand. There are a few key concepts and considerations to keep in mind when moving to an open space design. The first concept we will look at is team size.
@@ -144,6 +144,7 @@ There needs to be an initial design that will promote adoption (i.e., team membe
 
 ## Example Room 
 ![enter image description here](http://www.velocitycounts.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-27-at-11.13.21-AM.png) 
+http://www.velocitycounts.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-27-at-11.13.21-AM.png
 
 - Team members can work at desks and swivel their chairs to have a conversion or quick question.
 - Standing desks allow people to stretch their legs and continue to work. 
@@ -154,7 +155,7 @@ Remote Team Members
 
 - It may be necessary to support remote team members
 - Consider remote video feed
-See more at http://www.velocitycounts.com/2014/01/building-best-agile-team-workspace/
+See more at <http://www.velocitycounts.com/2014/01/building-best-agile-team-workspace/>
 
 ## Scrum Boards
 A fundamental aspect to Scrum is the user of a Scrum board.  Most proponents of Scrum highly recommend physical Scrum boards.  To support this, the physical environments needs:
@@ -171,8 +172,10 @@ A physical board supports multiple purposes:
 ### Examples of Physical Scrum Boards
  
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
+                                https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
  
 ![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
+                                http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
 
 ## Electronic Scrum Boards
 Electronic Scrum board may also be used.  This approach is particularly useful for team-members who are not co-located.  An electronic Scrub board may also be displayed on a very large display to serve a purpose similar to a physical board.
@@ -180,9 +183,10 @@ Electronic Scrum board may also be used.  This approach is particularly useful f
 ### Examples 
  
  ![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
-
+                        http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
 #### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
+                                 https://www.icescrum.com/wp-content/uploads/2015/04/home.png
 
 #### iceScrum open source set of tools
