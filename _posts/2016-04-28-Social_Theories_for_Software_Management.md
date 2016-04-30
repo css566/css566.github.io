@@ -30,18 +30,18 @@ People perform best when they are allowed to be self-directed, and perform work 
 William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.  This is in fact an application of [Social Exchange Theory](#exchange) to organizations.
 https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/
 
-[Alignment]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#alignment)
+[Alignment]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#alignment
 
-[Separation]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#separation)
+[Separation]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#separation
 
-[Cohesion]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#cohesion)
+[Cohesion]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#cohesion
 
-[Commitment]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#commitment)
+[Commitment]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#commitment
 
-[Transparency]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#transparency)
+[Transparency]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#transparency
 
-[Responsibility]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#responsibility)
+[Responsibility]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#responsibility
 
-[Collaboration]: ({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#collaboration)
+[Collaboration]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#collaboration
 
 > Written with [StackEdit](https://stackedit.io/).
