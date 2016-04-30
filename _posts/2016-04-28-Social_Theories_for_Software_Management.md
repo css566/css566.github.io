@@ -16,7 +16,7 @@ People perform best when they are allowed to be self-directed, and perform work 
 > McGregor, D. (2000). The Human Side of Enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962
 
 # <a name="theory_z">Theory Z</a>
-William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment.
+William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.
 https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/
 
 > Written with [StackEdit](https://stackedit.io/).
