@@ -40,9 +40,9 @@ This principle relates to [Theory Z]. <br>
 # <a name="responsibility">Responsibility</a>  
 Each team member takes responsibility for their contribution.  <br>
 
-> Team responsibility structure and team performance
-> Hans Doorewaard Geert Van Hootegem Rik Huys
-> Personnel review. , 2002, Vol.31(3), p.356-370
+> Team responsibility structure and team performance <br>
+> Hans Doorewaard Geert Van Hootegem Rik Huys <br>
+> Personnel review. , 2002, Vol.31(3), p.356-370 <br>
 
 This principle relates to [Theory Y] and [Theory W]. <br>
 
