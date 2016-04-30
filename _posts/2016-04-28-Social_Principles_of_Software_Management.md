@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Social Principles for Software Management
+title: Social Principles of Software Management
 ---
-Social Principles for Software Management
+Social Principles of Software Management
 ===
 * <a href="#alignment">__Alignment:__</a>  Team is going in the same direction. 
 * <a href="separation">__Separation:__</a>  Teams have the right balance of skills for the tasks.
