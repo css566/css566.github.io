@@ -13,6 +13,7 @@ Social Aspect of Software Management
 Content
 ---
  [**Overview**](#overview)
+ 
 **Related Theories:**
 
  - [Theory Z](#theory1)
@@ -100,7 +101,7 @@ More information read [here][]
 ---
 
 
-####  Cohesion 
+####   <a name="cohesion">Cohesion </a>
 
 Team works together, and can reach decisions that all team members support.
 
@@ -109,7 +110,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  Commitment 
+####   <a name="commitment">Commitment </a>
 
 Team members are “all in”.  Everyone is willing to work toward the common goal
 
@@ -118,7 +119,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  Transparency 
+####   <a name="Transparency">Transparency </a>
 
 Team members share what they are doing to other team members. 
 
@@ -127,7 +128,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  Responsibility 
+####  <a name="responsibility ">Responsibility </a>
 
 Each team member takes responsibility for their contribution.
 
@@ -136,7 +137,7 @@ More information read [here][]
 [Back to top](#content)
 
 ---
-####  Collaboration 
+####  <a name="collaboration  ">Collaboration </a>
 
 Team members actively seek out help, opinions, or advice from other team members.
 
@@ -191,13 +192,22 @@ More information read [here][]
 ---
 **Refrences**
  .[1]:https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/
+ 
  .[2]:http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=29489&isnumber=1257
+ 
  .[3]:https://www.wrike.com/blog/need-record-project-management-lessons-learned-tips-templates/
+ 
  .[4]:https://dzone.com/articles/10-software-process-management
+ 
  .[5]:https://www.dataone.org/best-practices/define-roles-and-assign-responsibilities-data-managementtt
+ 
 
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
+
 [Theory Y]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_y
+
 [Theory W]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_w
+
 [exchange]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#exchange
+
