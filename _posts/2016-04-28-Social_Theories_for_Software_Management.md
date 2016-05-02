@@ -10,10 +10,8 @@ Social Theories for Software Management
 * [Theory Z](#theory_z):  William Ouchi's take on Japanese management practices.
 
 # <a name="exchange">Social Exchange Theory</a>
-People develop relationships with others they exchange with. 
-The way this exchange occurs and how frequently can affect relationship quality. 
-There are two general types of relationships: economic and social
-* Economic exchanges are highly equal, visible, short-term and focused on the thing being exchanged. This is characteristic of employee-employer relationships.
+People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality. There are two general types of relationships: economic and social.<br>
+* Economic exchanges are highly equal, visible, short-term and focused on the thing being exchanged. This is characteristic of employee-employer relationships.<br>
 * Social exchanges are less concerned with the urgency and equality of transactions, and are more concerned with longevity, empathy, and belonging in the relationship. Organizations try to create this in their culture, because it can cause employees to give effort selflessly. <br>
 
 See this article on [Social Exchange Theory](http://www.jstor.org/stable/2946096) from the _Annual Review of Sociology_.
