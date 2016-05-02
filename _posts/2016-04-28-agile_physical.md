@@ -158,6 +158,15 @@ Remote Team Members
 See more at <http://www.velocitycounts.com/2014/01/building-best-agile-team-workspace/>
 
 ## Scrum Boards
+
+### Physical Scrum Boards
+ 
+![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
+https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
+ 
+![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
+http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
+
 A fundamental aspect to Scrum is the user of a Scrum board.  Most proponents of Scrum highly recommend physical Scrum boards.  To support this, the physical environments needs:
 
 - Adequately-size board 
@@ -169,24 +178,19 @@ A physical board supports multiple purposes:
 2.	Increase conversation among team members
 3.	Provide visibility into project and progress without using computers
 
-### Examples of Physical Scrum Boards
- 
-![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
-https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
- 
-![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
-http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
 
 ## Electronic Scrum Boards
-Electronic Scrum board may also be used.  This approach is particularly useful for team-members who are not co-located.  An electronic Scrub board may also be displayed on a very large display to serve a purpose similar to a physical board.
 
-### Examples 
- 
- ![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
- http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
- #### Trello 
+![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
+http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
+#### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
 https://www.icescrum.com/wp-content/uploads/2015/04/home.png
 
 #### iceScrum open source set of tools
+
+Electronic Scrum board may also be used.  This approach is particularly useful for team-members who are not co-located.  An electronic Scrub board may also be displayed on a very large display to serve a purpose similar to a physical board.
+
+
+
