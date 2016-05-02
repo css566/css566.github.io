@@ -24,10 +24,12 @@ Much like other agile management styles, physical Kanban artifacts are used to r
 ### Product Backlog
 Kanban also employs a physical Product Backlog. This product backlog signifies all the features of a product a customer wants. A product backlog is usually represented as one column in a Kanban Board.
 ![Example Kanban Backlog](http://www.guidedinnovation.com/images/Kanban.jpg)
+http://www.guidedinnovation.com/images/Kanban.jpg
 
 ### Kanban Board
 On the Kanban board there exists Kanban cards. These Kanban cards are used to signify a chunk of work that denotes a feature of the desired product. Kanban cards are assigned to teams to complete and the Kanban cards usually flow from one side of the Kanban board (starting from the product backlog column) to the other side of the Kanban board that usually represents completed work. One special attribute of the Kanban board is the Work in Progress Limit columns of the board (WIP limits). What these special columns signify is the maximum amount of work that is allowed at any stage of the work flow. Having too many cards constantly pushing the WIP limit can easily tell a company where the bottlenecks are in the flow of delivering value.  
 ![Example Kanban Board](http://agiletrail.com/wp-content/uploads/201tickets.jpg)
+http://agiletrail.com/wp-content/uploads/201tickets.jpg
 
 
 ### Monitoring Progress Towards a Goal
@@ -36,3 +38,4 @@ At any point in time, a worker can glance at the physical Kanban board and see t
 ## The Physical Kanban Environment 
 The physical space that works the best for facilitating Kanban management style is an open space that allows for easy visual glances at the Kanban board. Everyone should have an easy sightline to the Kanban board to see the progress of work, and the working environment should allow for collaboration as with other agile management styles and methodologies. The constant delivery of value is key in Kanban. Having a work space that promotes collaboration among individuals and teams allow for a smoother process of work and delivering value to the customer. 
 ![Example Kanban Workspace](http://static.kanbantool.com/blog/how-to-scale-kanban-well.PNG)
+http://static.kanbantool.com/blog/how-to-scale-kanban-well.PNG
