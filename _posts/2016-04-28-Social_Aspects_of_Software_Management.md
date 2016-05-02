@@ -42,9 +42,9 @@ Content
  - [Social Exchange Theory](#theory4)
 	 
  - [Blogs](#related-blogs)
-	 - [Commitment -Driven Spring Planning](#blog1)
-	 - [How Scrum Created the Greatest Team in the World](#blog2)
-	 - [Building the trust inside the team](#blog3)
+	 - Commitment -Driven Spring Planning
+	 - How Scrum Created the Greatest Team in the World
+	 - Building the trust inside the team
 
 #### <a name="overview">Overview</a>
 
