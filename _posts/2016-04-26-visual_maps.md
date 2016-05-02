@@ -23,3 +23,4 @@ Visual Maps of Software Management
 These maps follow the concept of the [Stacey matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey.htm)
 
  ![stacey matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif)
+ http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif
