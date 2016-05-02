@@ -39,7 +39,7 @@ Design workshops with agile modeling
 - When?– Consider holding design workshops at the start of building each new item (for example, three design workshops for each of three items in an iteration), and just-in-time whenever else the team finds agile modeling at the walls useful.
 
  ![enter image description here](https://less.works/img/design_&_architecture/design_ws_1.JPG)
- https://less.works/img/design_&_architecture/design_ws_1.JPG
+ ^https://less.works/img/design_&_architecture/design_ws_1.JPG^
  
 Design workshop--feature teams model in large ‘whiteboard’ spaces.
 
