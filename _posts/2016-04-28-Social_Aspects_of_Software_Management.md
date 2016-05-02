@@ -3,7 +3,7 @@ layout: post
 title: Social Aspects of Software Management
 ---
 
-Social Aspect of Software Management
+Social Aspects of Software Management
 ===
 
 
@@ -189,15 +189,11 @@ More information read [here][practices]
 
 ## <a name="related-blogs">Related Blogs</a>
 
-##### <a name="blog1">Commitment -Driven Spring Planning</a>
+##### [Commitment -Driven Spring Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning) <br>
 
-----
+##### [How Scrum Created the Greatest Team in the World](https://www.rallydev.com/blog/agile-coaching/how-scrum-created-greatest-team-world) <br>
 
-##### <a name="blog2">How Scrum Created the Greatest Team in the World</a>
-
-----
-
-##### <a name="blog3">Building the trust inside the team</a>
+##### [Building the trust inside the team](http://www.agilecafe.org/building-the-trust-inside-the-team/) <br>
 
 ----
 
@@ -205,7 +201,7 @@ More information read [here][practices]
 
 ---
 
-**Refrences**
+**References**
  .[1]:https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/
  
  .[2]:http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=29489&isnumber=1257
