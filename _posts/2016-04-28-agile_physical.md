@@ -68,7 +68,7 @@ As new work is required, the Development Team adds it to the Sprint Backlog. As 
 ### Monitoring Sprint Progress
 At any point in time in a Sprint, the total work remaining in the Sprint Backlog can be summed. The Development Team tracks this total work remaining at least for every Daily Scrum to project the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the Development Team can manage its progress.
 
-![enter image description here](http://dotnetslackers.com/Community/blogs/asiemer/archive/2009/12/30/scrum-on-a-page.aspx)
+![enter image description here](http://backlog.fiware.org/guide/_images/SCRUM_summary.png)
 
 ## Physical Environment Concepts
 An organization's most valuable asset is its people. Create an environment that will attract the live hearts and the live minds.
