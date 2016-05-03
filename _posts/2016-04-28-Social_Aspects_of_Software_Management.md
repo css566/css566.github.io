@@ -1,8 +1,9 @@
 
-
 ---
 layout: post
+
 title: Social Aspects of Software Management
+
 ---
 
 Social Aspects of Software Management
