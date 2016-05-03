@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physical Unit - Physical Aspects of LeSS
+title: Physical Aspects of LeSS
 ---
 
 
