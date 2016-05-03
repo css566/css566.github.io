@@ -1,9 +1,6 @@
-
 ---
 layout: post
-
 title: Social Aspects of Software Management
-
 ---
 
 Social Aspects of Software Management
@@ -72,13 +69,16 @@ Maslow’s hierarchy of needs is a model representing the stages of human develo
 If one were to look at a scrum team ­members’ satisfaction with their job and their contributions to their team, it would be fairly straightforward to argue that in order to extract meaning from their work, to achieve a sense of belonging, and to actualize the potential of their contributions, that they should require approval and association with their peers. Hence, the importance of a well socialized workplace is self evident.
  ---
 
-   ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/7-16-2013-9-14-19-pm.jpg)
+   ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/7-16-2013-9-14-19-pm.jpg)  
+   
+   
+   Theories X, Y, and Z model human management and motivation. According to X and Y,two contrasting managerial styles are formed from the diametrically opposed assumptions of how workers are motivated. While X emphasizes strict supervision, external rewards, and negative reinforcement, Theory Y implies that job satisfaction is the motivation that encourages workers to take on tasks without supervision. Theory Z focuses on employee loyalty and a holistic life ­balanced approach to job satisfaction.
+
 
 
 
 ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/800b20xyz.jpg)  
 
-Theories X, Y, and Z model human management and motivation. According to X and Y,two contrasting managerial styles are formed from the diametrically opposed assumptions of how workers are motivated. While X emphasizes strict supervision, external rewards, and negative reinforcement, Theory Y implies that job satisfaction is the motivation that encourages workers to take on tasks without supervision. Theory Z focuses on employee loyalty and a holistic life ­balanced approach to job satisfaction.
 
 ---
 
