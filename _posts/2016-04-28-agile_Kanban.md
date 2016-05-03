@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physical Unit - Physical Aspects of Kanban
+title: Physical Aspects of Kanban
 ---
 
 # Physical Unit - Physical Aspects of Kanban
