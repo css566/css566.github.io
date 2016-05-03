@@ -31,7 +31,8 @@ Large Waterfall Projects May Require Multiple Environments
 - Combinations of Dev/Test/Production
 
 <!-- ## Workspaces -->
-## <a name="workspaces">Workspaces</a> 
+
+# <a name="workspaces">Workspaces</a> 
 
 Since Waterfall teams do not need to be co-located, Waterfall offers greater flexibility in the layout of workspaces.  Moreover, different teams can work in workspaces having entirely different structures.
 
