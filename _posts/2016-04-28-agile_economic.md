@@ -59,7 +59,7 @@ Practices
    - Risk is “reset” every iteration due to iterative reevaluation of product [4]
    - Bug cost is reduced because they are continually tested and squashed instead of looked at far after the code is written [4]
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg" width="400" height="400" /> 
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg" alt="Agile Development Value Proposition" width="400" height="400" /> 
 
 Figure 1. Charts showing value proposition of Agile Development (red) vs. Traditional Development (gray). Source: VersionOne Enterprise Agile Solutions [1]
 
@@ -82,7 +82,7 @@ Theories
    - Team’s openness and honesty with all stakeholders about the cost of refactoring
 
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg" alt="Reducing complexity and cost by refactoring" width="400" height="400" />
 
 Figure 2. Diagram illustrating how refactoring reduces complexity and costs in agile software development. Source: Richard Fridrich [5]
 
@@ -106,7 +106,7 @@ Some principles that they are going to use are:
 - Software depreciates
 - We can choose when to stop developing
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg" alt="Team structure and budget planning for Mugshot website" width="600" />
 
 Figure 3. Team structure and budget planning for Mugshot website. Source: [4]
 
