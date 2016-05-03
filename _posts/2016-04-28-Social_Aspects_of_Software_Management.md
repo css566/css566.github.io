@@ -198,7 +198,7 @@ More information read [here][practices]
 
 ## <a name="related-blogs">Related Blogs</a>
 
-##### [Commitment -Driven Spring Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning) <br>
+##### [Commitment -Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning) <br>
 
 ##### [How Scrum Created the Greatest Team in the World](https://www.rallydev.com/blog/agile-coaching/how-scrum-created-greatest-team-world) <br>
 
