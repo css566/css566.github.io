@@ -40,7 +40,7 @@ Historically, people working on software development worked in workspaces simila
 
 ![enter image description here](http://www.millerab.com/files/cache/c2a9fa67d1b0e3e2f100e54baecf0eb0_f840.jpg)
 
-Example of a modern cubicle workspace with high walls
+> Example of a modern cubicle workspace with high walls
 
 [Source:  Millerab.com](http://www.millerab.com/blog/open-office-or-cubicle/)
 
