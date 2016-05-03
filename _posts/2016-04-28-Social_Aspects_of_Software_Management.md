@@ -53,9 +53,10 @@ ___
 
 
 3.[**Blogs**](#related-blogs)  
-- [Commitment -Driven Spring Planning][Commitment -Driven Spring Planning]
-- [How Scrum Created the Greatest Team in the World][[How Scrum Created the Greatest Team in the World]]  
-- [Building the trust inside the team][Building the trust inside the team]  
+- [Commitment -Driven Spring Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning)  
+- [How Scrum Created the Greatest Team in the World](https://www.rallydev.com/blog/agile-coaching/how-scrum-created-greatest-team-world)  
+- [Building the trust inside the team](http://www.agilecafe.org/building-the-trust-inside-the-team/)  
+
 
 #### <a name="overview">Overview</a>
 
