@@ -39,7 +39,8 @@ Content
 		 - [Save lesson learned info](#save-lesson-learned-info)
 	 - Related Principles
 		 - [Responsibility](#responsibility)
- - [Social Exchange Theory](#theory4)
+ - [Theory Pi](#theory4) 
+ - [Social Exchange Theory](#theory5)
 	 
  - [Blogs](#related-blogs)
 	 - Commitment -Driven Spring Planning
@@ -83,7 +84,15 @@ More information read [here][Theory Y]
 
 ---
 
-#### <a name="theory4">Social Exchange Theory</a>
+#### <a name="theory4">Theory Pi</a>
+
+In Theory Pi, Mallette asserts that engineers and scientists as a group tend to have characteristics that require a different management style than the average worker.
+
+[Back to top](#content)
+
+---
+
+#### <a name="theory5">Social Exchange Theory</a>
 
 People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality
 
@@ -212,7 +221,17 @@ More information read [here][practices]
  
  .[5]:https://www.dataone.org/best-practices/define-roles-and-assign-responsibilities-data-managementtt
  
+ .[6]:B. W. Boehm, & R. Ross. (1989). Theory-W software project management principles and examples. IEEE Transactions on Software Engineering, 15(7), 902-916. doi:10.1109/32.29489
 
+ .[7]:A. Chagas, M. Santos, C. Santana, & A. Vasconcelos. (2015). The impact of human factors on agile projects. Paper presented at the Agile Conference (AGILE), 2015, pp. 87-91. doi:10.1109/Agile.2015.11
+ 
+ .[8]:S. Kumar, L. C. Ureel, & C. Wallace. (2015). Agile communicators: Cognitive apprenticeship to prepare students for communication-intensive software development. Paper presented at the Agile Conference (AGILE), 2015, pp. 71-75. doi:10.1109/Agile.2015.22
+
+ .[9]:L. A. Mallette. (2005). Theory pi - engineering leadership not your theory X, Y or Z leaders. Paper presented at the 2005 IEEE Aerospace Conference, pp. 4389-4397. doi:10.1109/AERO.2005.1559744
+
+ .[10]:V. Santos, A. Goldman, & C. De Souza. (2015). Fostering effective inter-team knowledge sharing in agile software development.   . Empirical Software Engineering., 20(4), 1006-1051. 
+
+ .[11]:R. Zhang, X. Liu, X. Shang, C. Cheng, Z. Lu, & Y. Ma. (2013). Quantitative simulation and qualitative analysis of theory X, Y and Z. Paper presented at the Service Operations and Logistics, and Informatics (SOLI), 2013 IEEE International Conference on, pp. 215-219. doi:10.1109/SOLI.2013.6611412
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
 
