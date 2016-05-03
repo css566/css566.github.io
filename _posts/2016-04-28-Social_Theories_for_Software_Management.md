@@ -38,7 +38,7 @@ People perform best when they are allowed to be self-directed, and perform work 
 William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.  This is in fact an application of [Social Exchange Theory](#exchange) to organizations. <br>
 Ouchi's theory is discussed in this textbook on [Theories of Motivation] (https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/). <br>
 This theory relies on the principles of [Alignment], [Cohesion], [Commitment], [Collaboration], and [Transparency].<br>
-> W. G. Ouchi. Theory Z. (1981). How American Business can Meet the Japanese Challenge. Reading, MA: Addison-Wesley.
+> W. G. Ouchi. (1981). Theory Z, How American Business can Meet the Japanese Challenge. Reading, MA: Addison-Wesley.
 
 # <a name="theory_pi">Theory Pi</a>
 In Theory Pi, Leo Mallette asserts that, as a group, engineers and scientists tend to have characteristics that require a different management style than the average worker. He argues that they tend be self-motivated and focused, but that their loyalty is to their work, rather than to the organization.<br>
