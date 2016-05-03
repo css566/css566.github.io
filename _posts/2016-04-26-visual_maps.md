@@ -1,10 +1,7 @@
 ---
 layout: post
-title: VISUAL MAPS
+title: Visual Maps of Software Management
 ---
-
-Visual Maps of Software Management
-=================
 
 ### Map of theories
 
