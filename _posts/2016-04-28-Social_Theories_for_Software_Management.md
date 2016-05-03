@@ -8,6 +8,7 @@ Social Theories for Software Management
 * [Theory W](#theory_w):  Make everyone a winner.
 * [Theory Y](#theory_y):  Self-directed workers perform better.
 * [Theory Z](#theory_z):  William Ouchi's take on Japanese management practices.
+* [Theory Pi](#theory_pi): Leo Mallette's theory on managing scientists and engineers.
 
 # <a name="exchange">Social Exchange Theory</a>
 People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality. There are two general types of relationships: economic and social.<br>
@@ -27,7 +28,12 @@ People perform best when they are allowed to be self-directed, and perform work 
 # <a name="theory_z">Theory Z</a>
 William Ouchi theorized that the key to better performance is employee loyalty. After observing management practices in Japanese factories, he wrote that managers can best influence performance by ensuring a secure employment environment for their workers.  This is in fact an application of [Social Exchange Theory](#exchange) to organizations. <br>
 Ouchi's theory is discussed in this textbook on [Theories of Motivation] (https://www.boundless.com/business/textbooks/boundless-business-textbook/motivation-theories-and-applications-11/theories-of-motivation-75/ouchi-s-theory-z-359-8432/). <br>
-This theory relies on the principles of [Alignment], [Cohesion], [Commitment], [Collaboration], and [Transparency].
+This theory relies on the principles of [Alignment], [Cohesion], [Commitment], [Collaboration], and [Transparency].<br>
+
+# <a name="theory_pi">Theory Pi</a>
+In Theory Pi, Leo Mallette asserts that, as a group, engineers and scientists tend to have characteristics that require a different management style than the average worker. He argues that they tend be self-motivated and focused, but that their loyalty is to their work, rather than to the organization.<br>
+> L. A. Mallette. (2005). Theory pi - engineering leadership not your theory X, Y or Z leaders. Paper presented at the 2005 IEEE Aerospace Conference, pp. 4389-4397. doi:10.1109/AERO.2005.1559744 <br>
+
 
 [Alignment]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#alignment
 
