@@ -3,8 +3,6 @@ layout: post
 title: Physical Aspects of Kanban
 ---
 
-# Physical Unit - Physical Aspects of Kanban
-
 ## Quick Kanban Overview
 -----
 Kanban is another management style developed by the Toyota motor corporation in Japan in the 1940s. Kanban is centered around the constant flow of value and Kanban relies heavily on visual cues to see the flow of progress of a project.
