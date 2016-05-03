@@ -1,3 +1,8 @@
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
+
 ---
 layout: post
 title: Social Aspects of Software Management
@@ -13,39 +18,44 @@ Social Aspects of Software Management
 Content
 ---
  [**Overview**](#overview)
- 
-**Related Theories:**
 
- - [Theory Z](#theory1)
-	 - Related Practices
-		 - [Defining Roles and task](#defining-roles-and-task)
-	 - Related Principles
-		 - [Alignment](#alignment)
-		 - [Cohesion](#cohesion)
-		 - [Commitment](#commitment)
-		 - [Collaboration](#collaboration)
- - [Theory W](#theory2)
-	 - Related Practices
-		 - [Defining Roles and task](#defining-roles-and-task)
-		 - [Save lesson learned info](#save-lesson-learned-info)
-	 - Related Principles
-		 - [Alignment](#alignment)
-		 - [Cohesion](#cohesion)
-		 - [Responsibility](#responsibility)
- - [Theory Y](#theory3)
-	 - Related Practices
-		 - [Defining Roles and task](#defining-roles-and-task)
-		 - [Define meeting types](#define-meeting-types)
-		 - [Save lesson learned info](#save-lesson-learned-info)
-	 - Related Principles
-		 - [Responsibility](#responsibility)
- - [Theory Pi](#theory4) 
- - [Social Exchange Theory](#theory5)
-	 
- - [Blogs](#related-blogs)
-	 - Commitment -Driven Spring Planning
-	 - How Scrum Created the Greatest Team in the World
-	 - Building the trust inside the team
+___
+1.[**Visual Models**](#VM)  
+2.[**Related Theories:**](#Theories) 
+
+
+  - [Theory Z](#theory1)
+	  - Related Practices
+		  - [Defining Roles and task](#defining-roles-and-task)
+	  - Related Principles
+		  - [Alignment](#alignment)
+		  - [Cohesion](#cohesion)
+		  - [Commitment](#commitment)
+		  - [Collaboration](#collaboration)
+  - [Theory W](#theory2)
+	  - Related Practices
+		  - [Defining Roles and task](#defining-roles-and-task)
+		  - [Save lesson learned info](#save-lesson-learned-info)
+	  - Related Principles
+		  - [Alignment](#alignment)
+		  - [Cohesion](#cohesion)
+		  - [Responsibility](#responsibility)
+  - [Theory Y](#theory3)
+	  - Related Practices
+		  - [Defining Roles and task](#defining-roles-and-task)
+		  - [Define meeting types](#define-meeting-types)
+		  - [Save lesson learned info](#save-lesson-learned-info)
+	  - Related Principles
+		  - [Responsibility](#responsibility)
+  - [Theory Pi](#theory4) 
+  - [Social Exchange Theory](#theory5)
+ 
+
+
+3.[**Blogs**](#related-blogs)  
+- Commitment -Driven Spring Planning  
+- How Scrum Created the Greatest Team in the World  
+- Building the trust inside the team  
 
 #### <a name="overview">Overview</a>
 
@@ -54,6 +64,27 @@ Content
 
 ---
 
+
+#### <a name="VM">Visual Models</a>
+
+ ![enter image description here](http://4.bp.blogspot.com/-Bg2kozZbqyI/UMsUuBgSvVI/AAAAAAAAA84/x7sLbZ4VPew/s1600/maslow.png)
+
+Maslow’s hierarchy of needs is a model representing the stages of human development.Drawn as a pyramid, the most fundamental physiological needs lie at the bottom, and the psychological needs linear the top. For each need to be realized, all of the levels below it in the hierarchy need to be satisfied as well.An important theory related to the social aspect of LeSS is neatly embedded in this model.
+
+If one were to look at a scrum team ­members’ satisfaction with their job and their contributions to their team, it would be fairly straightforward to argue that in order to extract meaning from their work, to achieve a sense of belonging, and to actualize the potential of their contributions, that they should require approval and association with their peers. Hence, the importance of a well socialized workplace is self evident.
+ ---
+
+   ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/7-16-2013-9-14-19-pm.jpg)
+
+
+
+![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/800b20xyz.jpg)  
+
+Theories X, Y, and Z model human management and motivation. According to X and Y,two contrasting managerial styles are formed from the diametrically opposed assumptions of how workers are motivated. While X emphasizes strict supervision, external rewards, and negative reinforcement, Theory Y implies that job satisfaction is the motivation that encourages workers to take on tasks without supervision. Theory Z focuses on employee loyalty and a holistic life ­balanced approach to job satisfaction.
+
+---
+
+#### <a name="Theories">Related Theories</a>   
 #### <a name="theory1">Theory Z</a>
 
 William Ouchi’s theory taken from Japanese management style. William Ouchi theorized that the key to better performance is employee loyalty. 
@@ -258,4 +289,3 @@ More information read [here][practices]
 [Collaboration]: {% post_url 2016-04-28-Social_Principles_of_Software_Management %}#collaboration
 
 [practices]: {% post_url 2016-04-28-Practices_Defines_Roles %}
-
