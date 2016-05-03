@@ -86,7 +86,7 @@ Requirements teams work frequently with project stakeholders/product owners
 
 - These same benefits apply to a design workshop . In contrast to a requirements workshop it does not include customers, but it does include all members of the feature team–the people with skill in programming, system engineering, architecture, testing, UI design, database design, and so forth.
 
-![](https://media.licdn.com/mpr/mpr/jc/p/2/005/0b5/241/3491d35.jpg)
+![enter image description here](https://media.licdn.com/mpr/mpr/jc/p/2/005/0b5/241/3491d35.jpg)
 
 Requirements Gathering
 
