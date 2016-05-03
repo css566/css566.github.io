@@ -121,18 +121,21 @@ Figure 4. Traditional Approach - Cost Summary. Source of image: [4]
 What this comes down when you plug all these numbers in is, its gonna cost them about almost half a million dollars to develop in a traditional sense (Refer figure 2), with discovery and estimation, implementation, fixing bugs. It is interesting to see that, the bug fixing phase cost them the most. Almost $330000 just to fix the bugs and stabilize for a total cost of half a million dollars.
 
 ![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg)
+
 Figure 5: Agile Approach - Cost Summary. Source: [4]
 
 
 Figure 3 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis. 
 
 ![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/revenue_comparison.png)
+
 Figure 6. Revenue Comparison of Agile vs. Traditioanl development for Mugshot website case study. Source: [4]
 
 
 From figure 4,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.   
 
 ![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/overall_comparison.png)
+
 Figure 7. Overall Comparison. Source: [4]
 
 
@@ -143,6 +146,7 @@ Overall comparison is shown in figure 5. They generated $87000 in waste in tradi
 This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team. 
 
 ![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg)
+
 Figure 8. SAFe constructs for economic decision-making. Source: [8]
 
 
