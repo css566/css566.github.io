@@ -11,17 +11,17 @@ In order to further develop the content for the Software Management (SM) course,
 Much of the economically-focused angle of this Unit is derived from the Manifesto for Agile Software Management:
 
 
-“We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+>“We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
-Individuals and interactions over processes and tools
+>*Individuals and interactions* over processes and tools
 
-Working software over comprehensive documentation
+>*Working software* over comprehensive documentation
 
-Customer collaboration over contract negotiation
+>*Customer collaboration* over contract negotiation
 
-Responding to change over following a plan
+>*Responding to change* over following a plan
 
-That is, while there is value in the items on the right, we value the items on the left more.” [2]
+>That is, while there is value in the items on the right, we value the items on the left more.” [2]
 
 This Unit focuses on the economics aspects of Agile Software Management vs. Waterfall Software Management, as the general topic of Economics in Software Engineering is broad enough for its own course. In particular, since Agile SM is the focus of the Product and it is assumed that “Waterfall is dead” [class discussion with Professor Socha, CSS 566, Spring 2016], many of the points will be presenting advantages of Agile development over Waterfall.
 
@@ -59,7 +59,7 @@ Practices
    - Risk is “reset” every iteration due to iterative reevaluation of product [4]
    - Bug cost is reduced because they are continually tested and squashed instead of looked at far after the code is written [4]
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg)
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg" width="400" height="400" /> 
 
 Figure 1. Charts showing value proposition of Agile Development (red) vs. Traditional Development (gray). Source: VersionOne Enterprise Agile Solutions [1]
 
@@ -82,7 +82,7 @@ Theories
    - Team’s openness and honesty with all stakeholders about the cost of refactoring
 
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg)
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg" width="400" height="400" />
 
 Figure 2. Diagram illustrating how refactoring reduces complexity and costs in agile software development. Source: Richard Fridrich [5]
 
@@ -106,7 +106,8 @@ Some principles that they are going to use are:
 - Software depreciates
 - We can choose when to stop developing
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg)
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg" width="500" />
+
 Figure 3. Team structure and budget planning for Mugshot website. Source: [4]
 
 
