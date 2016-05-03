@@ -229,9 +229,11 @@ More information read [here][practices]
 
  .[9]:L. A. Mallette. (2005). Theory pi - engineering leadership not your theory X, Y or Z leaders. Paper presented at the 2005 IEEE Aerospace Conference, pp. 4389-4397. doi:10.1109/AERO.2005.1559744
 
- .[10]:V. Santos, A. Goldman, & C. De Souza. (2015). Fostering effective inter-team knowledge sharing in agile software development.   . Empirical Software Engineering., 20(4), 1006-1051. 
+  .[10]:W. G. Ouchi. (1981). Theory Z, How American Business can Meet the Japanese Challenge. Reading, MA: Addison-Wesley.<br>
+  
+  .[11]:V. Santos, A. Goldman, & C. De Souza. (2015). Fostering effective inter-team knowledge sharing in agile software development.   . Empirical Software Engineering., 20(4), 1006-1051. 
 
- .[11]:R. Zhang, X. Liu, X. Shang, C. Cheng, Z. Lu, & Y. Ma. (2013). Quantitative simulation and qualitative analysis of theory X, Y and Z. Paper presented at the Service Operations and Logistics, and Informatics (SOLI), 2013 IEEE International Conference on, pp. 215-219. doi:10.1109/SOLI.2013.6611412
+  .[12]:R. Zhang, X. Liu, X. Shang, C. Cheng, Z. Lu, & Y. Ma. (2013). Quantitative simulation and qualitative analysis of theory X, Y and Z. Paper presented at the Service Operations and Logistics, and Informatics (SOLI), 2013 IEEE International Conference on, pp. 215-219. doi:10.1109/SOLI.2013.6611412
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
 
