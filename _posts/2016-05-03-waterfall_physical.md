@@ -48,7 +48,7 @@ More recently, software development companies have migrated towards more open wo
 
 ![enter image description here](http://mscorpmedia.azureedge.net/mscorpmedia/sites/3/2011/05/0028.Thumba_5F00_2011_2D00_05_2D00_02_5F00_20_2D00_22_2D00_26_5F00_4239B82D.jpg)
 
-Example of an open workspace at Microsoft
+> Example of an open workspace at Microsoft
 
 [Source: A tour of my Microsoft workspace](http://blogs.microsoft.com/next/2011/05/03/a-tour-of-my-microsoft-workspace-steve-clayton/#sm.0000b1aygq2kgdnprge16yoluj6hk)
 
@@ -72,7 +72,7 @@ Workspaces may also have a mixture of open spaces, invidual workspaces, and coll
 
 ![enter image description here](http://www.hok.com/uploads/2013/02/13/floorplan.jpg)
 
-Example of a mixed workspace
+> Example of a mixed workspace
 
 [Source: www.hok.com](http://www.hok.com/thought-leadership/workplace-strategies-that-enhance-human-performance-health-and-wellness/)
 
@@ -89,7 +89,7 @@ Requirements teams work frequently with project stakeholders/product owners
 
 ![enter image description here](https://media.licdn.com/mpr/mpr/jc/p/2/005/0b5/241/3491d35.jpg)
 
-Requirements Gathering
+> Requirements Gathering
 
 [Source: Requirements Gathering Techniques for IT Business Analysts](https://www.linkedin.com/pulse/requirements-gathering-techniques-business-analyst-swadeep-nagar)
 
@@ -101,7 +101,7 @@ Requirements may be gathered at a meeting using large, movable sheets, enabling 
 
 ![Example of Gathering Requirements using movable sheets](http://image.slidesharecdn.com/bugpres2-110719083710-phpapp02/95/how-to-run-a-usercentered-requirements-gathering-workshop-17-728.jpg?cb=1429038150)
 
-Example of Gathering Requirements using movable sheets
+> Example of Gathering Requirements using movable sheets
 
 [Source: How to run a user-centered, requirements gathering workshop](http://www.slideshare.net/ferg4ddc/how-to-run-a-usercentered-requirements-gathering-workshop-8635307)
 
@@ -118,7 +118,7 @@ Since many aspects of software design is visual, it is common to have large diag
 
 ![enter image description here](http://www.uxpamagazine.org/wp-content/uploads/2013/03/13-1-khoury3.jpg)
 
-UX team Collaborative Design Space (Walmart)
+> UX team Collaborative Design Space (Walmart)
 
 [Source: uxpamagazine.org](http://uxpamagazine.org/taking-your-seat-at-the-strategy-table/)
 
@@ -132,7 +132,7 @@ Software developers may use a wide variety of workspaces, including open workspa
 
 ![enter image description here](https://duncandavies.files.wordpress.com/2015/05/workspace.jpg?w=690&h=431)
 
-A typical software developer workstation including all of the essentials (dual monitors, phone, Starbucks, and bottled water)
+> A typical software developer workstation including all of the essentials (dual monitors, phone, Starbucks, and bottled water)
 
 [Source https://peoplesofttipster.com/category/how-i-work/](https://peoplesofttipster.com/category/how-i-work/)
 
@@ -148,19 +148,18 @@ Test teams using work in with a test environment, as opposed to the production e
 
 ![enter image description here](http://www.extremetech.com/wp-content/uploads/2012/02/ie-performance-lab-laptops.jpg)
 
+> Internet Explorer Performance Lab at Microsoft
+
+[Source: http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer](http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer)
 
 ----------
 
 
-Internet Explorer Performance Lab at Microsoft
-
-[Source: http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer](http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer)
-
-Testing may also involve multiple test environments, such as show below.
+Testing may also involve multiple test environments, such as shown below.
 
 ![enter image description here](http://testyantra.co.uk/sites/default/files/testyantra_cloud_testing.png)
 
-Separate equipment required for multiple development, test and production environments
+> Separate equipment required for multiple development, test and production environments
 
 [Source: testyantra.co.uk](http://testyantra.co.uk/cloud-testing)
 
@@ -189,7 +188,7 @@ There are also situations under which "all-hands" meetings are conducted.  Depen
 
 ![enter image description here](https://media.glassdoor.com/l/7e/92/50/52/all-hands-meeting-every-friday.jpg)
 
-Example of All-hands meeting on company premises
+> Example of All-hands meeting on company premises
 
 [Source: Pure Storage Office Photos ](https://www.glassdoor.com/Photos/Pure-Storage-Office-Photos-IMG139133.htm)
 
