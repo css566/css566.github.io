@@ -1,8 +1,5 @@
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
-
 ---
 layout: post
 title: Social Aspects of Software Management
