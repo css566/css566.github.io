@@ -41,7 +41,7 @@ Principles
     - This has an indirect financial impact that ties in with less wasted resources
     - Focus on people, both internal and external (employees and customers), results in many social benefits such as sense of ownership, flexibility in approach, dynamic adaptability, and trust with customers. Happier people = better product = happier customers = better business value
 
-Practices
+Practices and Theories
 -------------
 
 - Build continual planning and customer feedback into the process
@@ -63,8 +63,6 @@ Practices
 
 Figure 1. Charts showing value proposition of Agile Development (red) vs. Traditional Development (gray). Source: VersionOne Enterprise Agile Solutions [1]
 
-Theories
--------------
 - Theory of constraints - “The chain is no stronger than its weakest link” [5]
    - Limiting amount of work that causes constraint or bottleneck
    - Diverting work away from the bottleneck
@@ -128,13 +126,13 @@ Figure 5: Agile Approach - Cost Summary. Source: [4]
 
 Figure 3 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis. 
 
-![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_5.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/revenue_comparison.png)
 Figure 6. Revenue Comparison of Agile vs. Traditioanl development for Mugshot website case study. Source: [4]
 
 
 From figure 4,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.   
 
-![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_6.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/overall_comparison.png)
 Figure 7. Overall Comparison. Source: [4]
 
 
