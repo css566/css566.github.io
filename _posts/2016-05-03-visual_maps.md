@@ -21,6 +21,6 @@ These maps follow the concept of the [Stacey matrix](http://www.gp-training.net/
 
 ![stacey matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif)
 
-Stacey Matrix attributes
+> Stacey Matrix attributes
 
 [Source: Stacy Matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif)
