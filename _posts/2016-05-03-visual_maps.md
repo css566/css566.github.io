@@ -3,6 +3,8 @@ layout: post
 title: Visual Maps of Software Management
 ---
 
+=================
+
 ### Map of theories
 
 <iframe width="900" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Vt6rP6G1GAJPIrjQIZLAlXHW3CJGMu_7y6kvj_zM3nM/pubchart?oid=269447730&amp;format=interactive"></iframe>
