@@ -59,7 +59,7 @@ Practices
    - Risk is “reset” every iteration due to iterative reevaluation of product [4]
    - Bug cost is reduced because they are continually tested and squashed instead of looked at far after the code is written [4]
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg" alt="Agile Development Value Proposition" width="400" height="400" /> 
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg" alt="GitHub Logo" width="400" height="400" /> 
 
 Figure 1. Charts showing value proposition of Agile Development (red) vs. Traditional Development (gray). Source: VersionOne Enterprise Agile Solutions [1]
 
@@ -82,7 +82,7 @@ Theories
    - Team’s openness and honesty with all stakeholders about the cost of refactoring
 
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg" alt="Reducing complexity and cost by refactoring" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg" alt="GitHub Logo" width="400" height="400" />
 
 Figure 2. Diagram illustrating how refactoring reduces complexity and costs in agile software development. Source: Richard Fridrich [5]
 
@@ -106,7 +106,7 @@ Some principles that they are going to use are:
 - Software depreciates
 - We can choose when to stop developing
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg" alt="Team structure and budget planning for Mugshot website" width="600" />
+<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg" alt="GitHub Logo" width="600" />
 
 Figure 3. Team structure and budget planning for Mugshot website. Source: [4]
 
@@ -115,26 +115,26 @@ Figure 3 describes the structure of the team that is going to work on developing
 
 They have taken a team of 6 developers who will be working on developing the website. And they are going to include everybody on that team. They have four software engineers, a DBA and a QA. Each of them cost 2000/week. Total comes out to be $12000/week. There are 120 requirements to start with, given a requirement stack. Almost 20% of requirements are invalid. And they are getting approximately two changes a week. Each developer is putting four bugs per day in the code.  The longer the bug sticks around, the more it costs to fix. For the first 7 days, it takes 15 minutes. For first 30 days, it takes 30 minutes. Thereafter, they are gonna take 90 minutes to fix. The purpose of this is to model some of the things that we see in industry and try to compare short-cycle vs long-cycle that is, agile practices  vs more traditional long cycle practices. 
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_3.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_3.jpg)
 
 Figure 4. Traditional Approach - Cost Summary. Source of image: [4]
 
 
 What this comes down when you plug all these numbers in is, its gonna cost them about almost half a million dollars to develop in a traditional sense (Refer figure 2), with discovery and estimation, implementation, fixing bugs. It is interesting to see that, the bug fixing phase cost them the most. Almost $330000 just to fix the bugs and stabilize for a total cost of half a million dollars.
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg)
 Figure 5: Agile Approach - Cost Summary. Source: [4]
 
 
 Figure 3 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis. 
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_5.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_5.jpg)
 Figure 6. Revenue Comparison of Agile vs. Traditioanl development for Mugshot website case study. Source: [4]
 
 
 From figure 4,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.   
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_6.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_6.jpg)
 Figure 7. Overall Comparison. Source: [4]
 
 
@@ -144,7 +144,7 @@ Overall comparison is shown in figure 5. They generated $87000 in waste in tradi
 
 This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team. 
 
-![enter image description here](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg)
 Figure 8. SAFe constructs for economic decision-making. Source: [8]
 
 
