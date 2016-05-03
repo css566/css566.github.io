@@ -5,9 +5,11 @@ title: Physical Aspects of Waterfall
 
 
 ## Introduction
+
 This module covers the physical aspects of Waterfall-based development practices.  The Waterfall development methodology has been a traditional approach for managing the software development life cycle (SDLC) for several decades, and is still a viable and recommended approach today for projects that require significant up-front analysis, design, planning and/or involving large, geographically disparate teams.
 
 ## Concepts
+
 Waterfall teams differ from Agile teams
 
 - Waterfall teams work on particular phases and aspects of the SDLC (e.g., Requirements, Design, Implementation, Test, and Maintenance will typically involve separate teams)
@@ -75,7 +77,7 @@ Example of a mixed workspace
 
 ## Patterns
 
-###Requirements Team
+### Requirements Team
 
 Requirements teams work frequently with project stakeholders/product owners
 
@@ -104,7 +106,8 @@ Example of Gathering Requirements using movable sheets
 
 ----------
 
-###Design Team
+
+### Design Team
 
 The design team includes software architectures, data architects and data models, and other software developers.  Software design teams also may be divided, such as using separate teams for data modeling and back-end design work and front-end (UX) design.  Design team member workstations are generally similar to those used for developers (see below).  Dependent on the design tools used, a design team may need a one or more separate servers to host the design tools and the models they generate.  For example, and example of a design tool typically run on a separate server is DigitalML Ignite.
 
@@ -121,7 +124,7 @@ UX team Collaborative Design Space (Walmart)
 ----------
 
 
-### Development Teams
+### Development Team
 
 Software developers may use a wide variety of workspaces, including open workspaces and individual cubicles, or even individual offices (for lead developers).  Developers also may telecommute or be part of a remote or  offshore team.  Under the Waterfall model, collaboration among team member is less important that for Agile approaches, and does not (generally) require use of shared workspaces to facilitate pair programming or the like. 
 
@@ -135,7 +138,7 @@ A typical software developer workstation including all of the essentials (dual m
 ----------
 
 
-###Test Teams
+### Test Teams
 
 Software testers are often described as their own breed, and have there own preferences for work environments.  Such environments include test "caves," test labs, open space test environments.  It is also becoming more common to have offshore or otherwise remote test teams. 
 
