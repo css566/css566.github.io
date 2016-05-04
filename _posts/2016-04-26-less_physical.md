@@ -41,7 +41,7 @@ Design workshops with agile modeling
  ![enter image description here](https://less.works/img/design_&_architecture/design_ws_1.JPG)
  https://less.works/img/design_&_architecture/design_ws_1.JPG
  
-Design workshop--feature teams model in large ‘whiteboard’ spaces.
+> Design workshop--feature teams model in large ‘whiteboard’ spaces.
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -63,7 +63,7 @@ A variation to traditional fixed walls is rolling whiteboards, as in this photo�
 ![enter image description here](http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg)
 http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg
 
-Dedicated room with rolling whiteboards for walls to support visual management.
+> Dedicated room with rolling whiteboards for walls to support visual management.
 
 [Source: LeSS principles/lean-thinking](https://less.works/less/principles/lean-thinking.html)
 
@@ -77,7 +77,7 @@ Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ sp
 ![enter image description here](https://less.works/img/design_&_architecture/uml_wall.JPG)
 https://less.works/img/design_&_architecture/uml_wall.JPG
 
-useful, simple UML on an excellent UML tool--a wall
+> useful, simple UML on an excellent UML tool--a wall
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -99,7 +99,7 @@ Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteb
 ![enter image description here](https://less.works/img/design_&_architecture/walls_in_halls.JPG)
 https://less.works/img/design_&_architecture/walls_in_halls.JPG
 
-Example of a vast ‘whiteboard’ in hallway
+> Example of a vast ‘whiteboard’ in hallway
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -116,7 +116,7 @@ Multi-team design workshops
 ![enter image description here](https://less.works/img/design_&_architecture/groups_in_ws_2.JPG)
 https://less.works/img/design_&_architecture/groups_in_ws_2.JPG
 
-Example of Physical workspace required to facilitate multi-team design workshops
+> Example of Physical workspace required to facilitate multi-team design workshops
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -127,7 +127,7 @@ Example of Physical workspace required to facilitate multi-team design workshops
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-system.png)
 https://less.works/img/technical-excellence/continuous-integration-system.png
 
-Continuous Integration (CI) System (includes Physical aspects)
+> Continuous Integration (CI) System (includes Physical aspects)
 
 [Source: Technical-excellence/continuous-integration](https://less.works/less/technical-excellence/continuous-integration.html)
 
@@ -144,7 +144,7 @@ Scaling a CI System
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-scaled-system-example.png)
 https://less.works/img/technical-excellence/continuous-integration-scaled-system-example.png
 
-CI Example
+> CI Example
 
 [Source: Technical-excellence/continuous-integration](https://less.works/less/technical-excellence/continuous-integration.html)
 
@@ -157,7 +157,7 @@ Pattern for starting new product:
 ![enter image description here](https://less.works/img/design_&_architecture/start_with_tiger_team.png)
 https://less.works/img/design_&_architecture/start_with_tiger_team.png
 
-Requires physical spaces for co-located teams
+> Requires physical spaces for co-located teams
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -179,7 +179,8 @@ Additional spaces are needed for large projects (more than 8 teams)
  
 ![enter image description here](https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png)
 https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png
-System architecture documentation (SAD) workshops at the end of “tiger phase”
+
+> System architecture documentation (SAD) workshops at the end of “tiger phase”
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -189,7 +190,8 @@ System architecture documentation (SAD) workshops at the end of “tiger phase�
 
 ![enter image description here](https://less.works/img/design_&_architecture/sad_workshop.jpg)
 https://less.works/img/design_&_architecture/sad_workshop.jpg
-Multi-team design workshop
+
+> Multi-team design workshop
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
@@ -203,3 +205,7 @@ Multi-team design workshop
 - Not having personal physical workspaces can be problematic, particular for managers (such as if they need privacy relating to human resources issues).
 
 - Architecture/Design is not adequately captured in a maintainable tool or set of tools
+
+### References
+
+[1] https://less.works
