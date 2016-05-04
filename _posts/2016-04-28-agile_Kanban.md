@@ -33,6 +33,7 @@ Much like other agile management styles, physical Kanban artifacts are used to r
 
 ### Product Backlog
 ![Example Kanban Backlog](https://kodcu.com/wp/wp-content/uploads/2013/07/kanban-board.jpg)  
+
 > A Kanban Board also demonstrating the backlog  
 
 Image source: [3 benefits of control charts with Kanban](https://en.kodcu.com/2013/09/3-benefits-of-control-charts-with-kanban/)  
@@ -45,6 +46,7 @@ Kanban also employs a physical Product Backlog. This product backlog signifies a
 
 ### Kanban Board
 ![Example Kanban Board](http://i1.wp.com/www.everydaykanban.com/wp-content/uploads/2012/03/kanban-board.png)
+
 > An example of a Kanban Board with the backlog on one side, and a done column on the other side. This board uses sticky notes to represent Kanban cards.
 
 Image source: [www.everydaykanban.com](http://www.everydaykanban.com/what-is-kanban/)
@@ -57,6 +59,7 @@ At any point in time, a worker can glance at the physical Kanban board and see t
 
 ## The Physical Kanban Environment 
 ![Example Kanban Workspace](http://static.kanbantool.com/blog/how-to-scale-kanban-well.PNG)  
+
 > an example Kanban office space.
 
 Image source: [How to scale Kanban Well](http://kanbantool.com/blog/how-to-scale-kanban-well)
