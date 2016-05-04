@@ -227,11 +227,11 @@ More information read [here][practices]
 
 ## <a name="related-blogs">Related Blogs</a>
 
-##### [Commitment -Driven Spring Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning) <br>
+##### [Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning) -- An exploration on the effects social cohesion has on the process of committing to project components. <br>
 
-##### [How Scrum Created the Greatest Team in the World](https://www.rallydev.com/blog/agile-coaching/how-scrum-created-greatest-team-world) <br>
+##### [How Scrum Created the Greatest Team in the World](https://www.rallydev.com/blog/agile-coaching/how-scrum-created-greatest-team-world) -- A list of the social attributes of high-functioning teams using rugby as an analogy. <br>
 
-##### [Building the trust inside the team](http://www.agilecafe.org/building-the-trust-inside-the-team/) <br>
+##### [Building the trust inside the team](http://www.agilecafe.org/building-the-trust-inside-the-team/) -- An exploration on the productivity changes experienced when a manager tries trust-building activities with her team.<br>
 
 ----
 
@@ -263,6 +263,8 @@ More information read [here][practices]
   .[11]:V. Santos, A. Goldman, & C. De Souza. (2015). Fostering effective inter-team knowledge sharing in agile software development.   . Empirical Software Engineering., 20(4), 1006-1051. 
 
   .[12]:R. Zhang, X. Liu, X. Shang, C. Cheng, Z. Lu, & Y. Ma. (2013). Quantitative simulation and qualitative analysis of theory X, Y and Z. Paper presented at the Service Operations and Logistics, and Informatics (SOLI), 2013 IEEE International Conference on, pp. 215-219. doi:10.1109/SOLI.2013.6611412
+  
+  .[13]:http://www.altfeldinc.com/pdfs/maslow.pdf
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
 
