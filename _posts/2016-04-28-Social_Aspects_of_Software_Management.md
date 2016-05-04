@@ -47,9 +47,9 @@ Content
 
 
 3.[**Blogs**](#related-blogs)  
-- Commitment -Driven Spring Planning  <br>
-- How Scrum Created the Greatest Team in the World  <br>
-- Building the trust inside the team  <br>
+	- Commitment -Driven Spring Planning  <br>
+	- How Scrum Created the Greatest Team in the World  <br>
+	- Building the trust inside the team  <br>
 
 #### <a name="overview">Overview</a>
 
@@ -81,10 +81,11 @@ If one were to look at a scrum team ­members’ satisfaction with their job and
 
 ---
 
-#### <a name="Theories">Related Theories</a>   
+#### <a name="Theories">Related Theories</a> 
+
 #### <a name="theory1">Theory Z</a>
 
-William Ouchi’s theory taken from Japanese management style. William Ouchi theorized that the key to better performance is employee loyalty. 
+William Ouchi’s theory taken from Japanese management style. William Ouchi theorized that the key to better performance is employee loyalty.[1] [10]
 
 More information read [here][Theory Z]
 
@@ -94,7 +95,7 @@ More information read [here][Theory Z]
 
 #### <a name="theory2">Make Everyone a winner: Theory W</a>
 
-Software project managers can only be successful if they make all project participants a winner
+Software project managers can only be successful if they make all project participants a winner[2] [6]
 
 More information read [here][Theory W]
 
@@ -114,7 +115,7 @@ More information read [here][Theory Y]
 
 #### <a name="theory4">Theory Pi</a>
 
-In Theory Pi, Mallette asserts that engineers and scientists as a group tend to have characteristics that require a different management style than the average worker.
+In Theory Pi, Mallette asserts that engineers and scientists as a group tend to have characteristics that require a different management style than the average worker.[9]
 
 [Back to top](#content)
 
@@ -194,7 +195,7 @@ More information read [here][Collaboration]
 #### <a name="defining-roles-and-task">  Define roles and tasks of team members</a>
 
  For productivity, roles of team members should be defined clearly. These roles may be project manager, team lead, developer, tester etc. Furthermore, authorizations and responsibilities of these roles should be defined very clearly. Task-assignment based development should also be applied for avoiding redundant efforts and chaos. 
- Theories related: Theory Z,  Theory X and Y, Theory-W.
+ Theories related: Theory Z,  Theory X and Y, Theory-W.[4] [5]
 
 More information read [here][practices]
 
@@ -204,7 +205,7 @@ More information read [here][practices]
 
 #### <a name="define-meeting-types">Define meeting types</a>
 
-Meetings are very important if we are talking about software process management and should be defined in detail (meeting participants, context, average duration etc.).
+Meetings are very important if we are talking about software process management and should be defined in detail (meeting participants, context, average duration etc.).[4]
 Theories related: Theory X and Y
 
 More information read [here][practices]
@@ -215,7 +216,7 @@ More information read [here][practices]
 
 #### <a name="save-lesson-learned-info">Save "lessons learned" info for your projects</a>
 
-Even if there are experienced staff in projects, there may be unforeseen events which may obstruct or retard development process. This can be a complex item configuration, error, production experience etc. Those happenings are highly preferred to be written in "lessons learned" documents and shared in public locations. This will avoid recurrence of time loss and provide more productive software process management. 
+Even if there are experienced staff in projects, there may be unforeseen events which may obstruct or retard development process. This can be a complex item configuration, error, production experience etc. Those happenings are highly preferred to be written in "lessons learned" documents and shared in public locations. This will avoid recurrence of time loss and provide more productive software process management. [4]
 Theories related: Theory X and Y, Theory-W.
 
 More information read [here][practices]
