@@ -84,7 +84,7 @@ Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ sp
  
 ![enter image description here](https://less.works/img/design_&_architecture/cling_sheet_roll.JPG)
 
-Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteboard wallpaper”
+> Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteboard wallpaper”
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
