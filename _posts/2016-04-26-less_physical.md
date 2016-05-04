@@ -12,7 +12,7 @@ Agile is being applied to larger and larger projects, requiring a change in the 
 - Old building spaces are being re-engineered to facilitate agile and LeSS.  Examples of this I have personally observed includes office space in Pioneer square (OneHub), and shared office spaces in cities like Seattle and San Francisco (space is actually shared by multiple companies).
 
 ## Concepts
-Teams
+#### Teams
 
 - Teams are the core building block for large product development
 - Teams are self-managed
@@ -24,13 +24,13 @@ Teams
 - Feature Teams
 - ‘Tiger’ Teams
 
-Agile modeling – collaborative sketching, simple-tools
+#### Agile modeling – collaborative sketching, simple-tools
 
 - Model to have a conversation – “The primary value in diagrams is in the discussion while diagraming – we model to have a conversation.”  In order to facilitate good conversations, you need appropriate workspaces.
 
 ## Patterns
 
-Design workshops with agile modeling
+#### Design workshops with agile modeling
 
 - A requirements workshop brings together customers and developers in face-to-face facilitated workshops. They are tremendously helpful, not only to better learn user needs but–key point–to create a common understanding among all participants.
 
@@ -48,11 +48,11 @@ Design workshops with agile modeling
 ----------
 
 
-Requirements workshops – brings together customers and developers in face-to-face facilitated workshops
+#### Requirements workshops – brings together customers and developers in face-to-face facilitated workshops
 
 Design workshops – All members of a feature team – people with skill in programming, system engineering, architecture, testing, UI design, database design, and so forth.  Need physical facilities to facilitate design works
 
-Obeya: Dedicated Room with Visual Management
+#### Obeya: Dedicated Room with Visual Management
 
 - Lean product development encourages a team room (or “big room”—big enough for a team) without internal partitions or walls, where a cross-functional team works and meets, and the entrepreneurial chief engineer sits. Walls are covered with large physical displays of project and engineering information, to support visual management. The team room is in contrast to people working in separate offices or cubicles with communication barriers such as partitions between the team members. Obeya is not the same as a large open-space configuration. It implies there is a dedicated room for a cross-functional team, whose walls are used for visual management.
 
@@ -102,7 +102,8 @@ Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteb
 
 
 It is useful if the walls of each team room are covered in vast ‘whiteboard’ material so that design workshops can be held there. When developers sit to program, they can easily look at the walls for inspiration, or get up for quick modeling conversations, and easily do JIT modeling.
-Multi-team design workshops 
+
+#### Multi-team design workshops 
 
 - People from different teams at the walls sketching together – agile modeling.
 - Multi-team design workshops for broader design issues
@@ -128,7 +129,7 @@ Multi-team design workshops
 ----------
 
 
-Scaling a CI System
+#### Scaling a CI System
 
 - Add hardware – extra computers, extra memory, faster network connections
 - Parallelize and distribute build
@@ -144,7 +145,7 @@ Scaling a CI System
 ----------
 
 
-Pattern for starting new product:
+#### Pattern for starting new product:
  
 ![enter image description here](https://less.works/img/design_&_architecture/start_with_tiger_team.png)
 
