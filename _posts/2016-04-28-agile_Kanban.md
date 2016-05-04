@@ -2,8 +2,8 @@
 layout: post
 title: Physical Aspects of Kanban
 ---
-
-<img src="http://www.technology-ebay.de/imageresize/600h__daily_standup_at_kanban_board.jpg" width=30% height="200">  
+<p>
+<img src="http://www.technology-ebay.de/imageresize/600h__daily_standup_at_kanban_board.jpg" width=30% height="200"> </P>
 
 <img src="http://jpattonassociates.com/wp-content/uploads/2009/04/kanban_board.jpg" width=30% height="200" /> 
 <img src="http://leankit.com/learn/wp-content/uploads/2015/11/kanban-software-collaboration-6f4b7264.jpg" width=30% height="200" />
