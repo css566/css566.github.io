@@ -14,7 +14,6 @@ Content
 ---
  [**Overview**](#overview)
 
-___
 1.[**Visual Models**](#VM)  
 2.[**Related Theories:**](#Theories) 
 
@@ -48,9 +47,9 @@ ___
 
 
 3.[**Blogs**](#related-blogs)  
-- [Commitment -Driven Spring Planning][Commitment -Driven Spring Planning]
-- [How Scrum Created the Greatest Team in the World][[How Scrum Created the Greatest Team in the World]]  
-- [Building the trust inside the team][Building the trust inside the team]  
+- Commitment -Driven Spring Planning  <br>
+- How Scrum Created the Greatest Team in the World  <br>
+- Building the trust inside the team  <br>
 
 #### <a name="overview">Overview</a>
 
@@ -264,7 +263,11 @@ More information read [here][practices]
 
   .[12]:R. Zhang, X. Liu, X. Shang, C. Cheng, Z. Lu, & Y. Ma. (2013). Quantitative simulation and qualitative analysis of theory X, Y and Z. Paper presented at the Service Operations and Logistics, and Informatics (SOLI), 2013 IEEE International Conference on, pp. 215-219. doi:10.1109/SOLI.2013.6611412
   
-  .[13]:http://www.altfeldinc.com/pdfs/maslow.pdf
+  .[13]:http://www.altfeldinc.com/pdfs/maslow.pdf  
+  
+  .[14]:https://mercureaace2013.wordpress.com/2013/07/01/volunteer_3_di_motivationincentives-behavioral-science-part-ii/  
+  
+  .[15]:http://theprojectmgmt4u.blogspot.com/2012/12/motivation-theories.html
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
 
