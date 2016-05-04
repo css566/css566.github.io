@@ -72,7 +72,7 @@ At any point in time in a Sprint, the total work remaining in the Sprint Backlog
 
 > Monitoring Sprint Progress
 
-[Source: fiware.org](http://backlog.fiware.org/guide/_images/SCRUM_summary.png)
+[Source: fiware.org](http://backlog.fiware.org/guide/foundation.html)
 
 ## Physical Environment Concepts
 An organization's most valuable asset is its people. Create an environment that will attract the live hearts and the live minds.
@@ -93,7 +93,8 @@ All these practices uphold agile processes. When everyone works in the same area
 The graph created by Alistair Cockburn, one of the Agile Manifesto signatories, shows the effectiveness of different forms of communication. Notice the difference in effectiveness between paper communication and two people at a white board — with collocation, you get the benefit of better communication.
  
 ![enter image description here](http://media.wiley.com/Lux/06/351006.image0.jpg)
-[Source: wiley.com](http://media.wiley.com/Lux/06/351006.image0.jpg) 
+
+[Source: www.dummies.com](http://www.dummies.com/how-to/content/how-to-create-a-physical-environment-to-maximize-a.html) 
 
 ## Patterns
 
@@ -148,7 +149,8 @@ There needs to be an initial design that will promote adoption (i.e., team membe
 
 ## Example Room 
 ![enter image description here](http://www.velocitycounts.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-27-at-11.13.21-AM.png) 
-http://www.velocitycounts.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-27-at-11.13.21-AM.png
+
+[Source: www.velocitycounts](http://www.velocitycounts.com/category/advice/)
 
 - Team members can work at desks and swivel their chairs to have a conversion or quick question.
 - Standing desks allow people to stretch their legs and continue to work. 
