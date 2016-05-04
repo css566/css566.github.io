@@ -39,7 +39,6 @@ Design workshops with agile modeling
 - When?– Consider holding design workshops at the start of building each new item (for example, three design workshops for each of three items in an iteration), and just-in-time whenever else the team finds agile modeling at the walls useful.
 
  ![enter image description here](https://less.works/img/design_&_architecture/design_ws_1.JPG)
- https://less.works/img/design_&_architecture/design_ws_1.JPG
  
 > Design workshop--feature teams model in large ‘whiteboard’ spaces.
 
@@ -61,7 +60,6 @@ A variation to traditional fixed walls is rolling whiteboards, as in this photo�
 
  
 ![enter image description here](http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg)
-http://less.works/img/lean_thinking/xoffice_after_obeya.JPG.pagespeed.ic.wMx0rOAWeC.jpg
 
 > Dedicated room with rolling whiteboards for walls to support visual management.
 
@@ -75,7 +73,6 @@ Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ sp
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/uml_wall.JPG)
-https://less.works/img/design_&_architecture/uml_wall.JPG
 
 > useful, simple UML on an excellent UML tool--a wall
 
@@ -86,7 +83,6 @@ https://less.works/img/design_&_architecture/uml_wall.JPG
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/cling_sheet_roll.JPG)
-https://less.works/img/design_&_architecture/cling_sheet_roll.JPG
 
 Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteboard wallpaper”
 
@@ -97,7 +93,6 @@ Optional whiteboard materials:  “cling sheet,” “sticky sheet,” “whiteb
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/walls_in_halls.JPG)
-https://less.works/img/design_&_architecture/walls_in_halls.JPG
 
 > Example of a vast ‘whiteboard’ in hallway
 
@@ -114,7 +109,6 @@ Multi-team design workshops
 - How to work on cross-team system-level design and architecture issues? How to work on cross-system “product line” design issues?
  
 ![enter image description here](https://less.works/img/design_&_architecture/groups_in_ws_2.JPG)
-https://less.works/img/design_&_architecture/groups_in_ws_2.JPG
 
 > Example of Physical workspace required to facilitate multi-team design workshops
 
@@ -125,7 +119,6 @@ https://less.works/img/design_&_architecture/groups_in_ws_2.JPG
 
 
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-system.png)
-https://less.works/img/technical-excellence/continuous-integration-system.png
 
 > Continuous Integration (CI) System (includes Physical aspects)
 
@@ -142,7 +135,6 @@ Scaling a CI System
 - Employ a staged-CI system as shown below
  
 ![enter image description here](https://less.works/img/technical-excellence/continuous-integration-scaled-system-example.png)
-https://less.works/img/technical-excellence/continuous-integration-scaled-system-example.png
 
 > CI Example
 
@@ -155,7 +147,6 @@ https://less.works/img/technical-excellence/continuous-integration-scaled-system
 Pattern for starting new product:
  
 ![enter image description here](https://less.works/img/design_&_architecture/start_with_tiger_team.png)
-https://less.works/img/design_&_architecture/start_with_tiger_team.png
 
 > Requires physical spaces for co-located teams
 
@@ -167,8 +158,8 @@ https://less.works/img/design_&_architecture/start_with_tiger_team.png
 
  
 ![enter image description here](https://less.works/img/less-huge/requirement-areas.png)
-https://less.works/img/less-huge/requirement-areas.png
-Additional spaces are needed for large projects (more than 8 teams)
+
+> Additional spaces are needed for large projects (more than 8 teams)
 
  [Source: LeSS Huge Requirement Areas](https://less.works/less/less-huge/requirement-areas.html)
  
@@ -178,7 +169,6 @@ Additional spaces are needed for large projects (more than 8 teams)
 
  
 ![enter image description here](https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png)
-https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png
 
 > System architecture documentation (SAD) workshops at the end of “tiger phase”
 
@@ -189,7 +179,6 @@ https://less.works/img/design_&_architecture/tiger_team_SAD_workshop.png
 
 
 ![enter image description here](https://less.works/img/design_&_architecture/sad_workshop.jpg)
-https://less.works/img/design_&_architecture/sad_workshop.jpg
 
 > Multi-team design workshop
 
