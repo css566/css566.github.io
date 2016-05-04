@@ -72,7 +72,7 @@ At any point in time in a Sprint, the total work remaining in the Sprint Backlog
 
 > Monitoring Sprint Progress
 
-[Source: fiware.org](http://backlog.fiware.org/guide/foundation.html)
+[Source: www.fiware.org](http://backlog.fiware.org/guide/foundation.html)
 
 ## Physical Environment Concepts
 An organization's most valuable asset is its people. Create an environment that will attract the live hearts and the live minds.
@@ -150,7 +150,7 @@ There needs to be an initial design that will promote adoption (i.e., team membe
 ## Example Room 
 ![enter image description here](http://www.velocitycounts.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-27-at-11.13.21-AM.png) 
 
-[Source: www.velocitycounts](http://www.velocitycounts.com/category/advice/)
+[Source: www.velocitycounts.com](http://www.velocitycounts.com/category/advice/)
 
 - Team members can work at desks and swivel their chairs to have a conversion or quick question.
 - Standing desks allow people to stretch their legs and continue to work. 
@@ -168,10 +168,12 @@ See more at <http://www.velocitycounts.com/2014/01/building-best-agile-team-work
 ### Physical Scrum Boards
  
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
-https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg
+
+[Source: www.pinterest.com](https://www.pinterest.com/marisamartins17/lean/)
  
 ![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
-http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
+
+[Source: www.theaveragegamer.com](http://www.theaveragegamer.com/2013/06/20/wheres-my-mickey-disney-studio-tour/)
 
 A fundamental aspect to Scrum is the user of a Scrum board.  Most proponents of Scrum highly recommend physical Scrum boards.  To support this, the physical environments needs:
 
@@ -188,11 +190,12 @@ A physical board supports multiple purposes:
 ## Electronic Scrum Boards
 
 ![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
-http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
+
+[Source: blog.jumoo.co.uk](http://blog.jumoo.co.uk/2013/liverpool-gov-uk-umbraco/)
 #### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
-https://www.icescrum.com/wp-content/uploads/2015/04/home.png
+[Source: www.icescrum.com](https://www.icescrum.com/)
 
 #### iceScrum open source set of tools
 
