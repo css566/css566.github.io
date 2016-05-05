@@ -3,7 +3,7 @@ layout: post
 title: Continuous Improvement
 ---
 
-![CI](http://www.millerab.com/files/cache/c2a9fa67d1b0e3e2f100e54baecf0eb0_f840.jpg)
+![CI](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
 > Continous Improvement
 [Source](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
 
