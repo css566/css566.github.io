@@ -3,9 +3,6 @@ layout: post
 title: LeSS Articles and Presentations
 ---
 
-LeSS Articles and Presentations
-=================
-
 # Articles
 
 -	An interview with Bas Vodde - [2016 Jan - Achieving More with LeSS- interview with Bas Vodde in Softhouse Lean Magazine](http://leanmagazine.net/scrum/interview-with-bas-vodde/)
