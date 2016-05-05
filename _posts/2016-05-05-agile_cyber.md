@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Agile Software Management Economic Aspects
+title: Agile Software Management Cyber Aspects
 ---
 
 
-#Agile Software Management Cyber Aspects
-##CSS 566: Sprint #2
-###Overview
+# Agile Software Management Cyber Aspects
+## CSS 566: Sprint #2
+### Overview
 
 In order to further develop the content for the Software Management (SM) course, we are iteratively creating in CSS 566 a part of the course, known as the Product. Each of the three teams is creating a Unit for Sprint 1 & 2 that is focused on a Physical aspect of SM, a Social aspect of SM, an Economic aspect of SM, or a Cyber aspect of SM. Team “It’s a Secret” is focusing on the Cyber aspect for its Unit, as defined in this document. 
 
-###Topic
+### Topic
 
 This Unit focuses on the cyber aspects of Agile Software Management, as the general topic of Economics in Software Engineering is broad enough for its own course. Moving beyond Agile and into DevOps requires testers and project managers to take on constant collaboration, continuous testing and more. This Unit focuses on the cyber aspects of Software process in Agile Software Management. 
 
-###Principles
+### Principles
 
  - DevOps - blending of tasks performed by a company's application development and systems operations teams [6]
 	 - Continual testing is the norm
@@ -32,7 +32,7 @@ This Unit focuses on the cyber aspects of Agile Software Management, as the gene
 	 - Object-oriented software design modeling usually sketched in UML-ish notation, and database modeling 
 
 
-###Theories and Practices
+### Theories and Practices
 
 Although one of the core principles of Agile software management is to emphasize individuals and interactions over processes and tools,  managing a complex project efficiently relies on using a robust set of tools for management, tracking and collaboration.
 Project management tools can help in the following steps in Agile Software Management:
@@ -58,24 +58,27 @@ Project management tools can help in the following steps in Agile Software Manag
 	 - Speeds up the tests and keep the investment in hardware low
 	 - Use of virtual machines such as VirtualBox or VMWare
 	 - Use of linux virtual containers such as Docker
- - Gaining Insights from Production Applications [3] - 
+ - Gaining Insights from Production Applications [3] 
 	 - Tools like Visual Studio Online Application insights can monitor performance and usage of applications and services hosted in the cloud. 
 	 - This can give insight into how users are interacting with the applications and this can be used for focusing resources on experiences that delight users.
 
 
-###Case Study:
+### Case Study:
 
-**Content Marketing Company Streamlines Development ALM tools [4].**
+**Content Marketing Company Streamlines Development ALM tools [4]**
 
 **Business Problem** 
+
 PaperShare is a company that develops software services for digital content marketing and lead generation. The company earlier used traditional defect management systems to track bugs and work items and lacked a holistic solution to break down stories into tasks, communicate tasks across team members, and give stakeholders views into the status of the tasks. The tools were not built for agile software development, and backlog management became a hard problem. Eventually, it became a challenge to prioritize tasks and accurately schedule work for each sprint. This uncertainty in the schedule made it difficult to communicate feature dates to customers. Papershare wanted to bring more discipline and traceability to its development processes with an ALM (Application Lifecycle Management) solution suited for agile software development.
 
 **Solution**
+
 Papershare upgraded to Microsoft Visual Studio Online for ALM. Moving to a cloud-based ALM solution has made sprint planning much easier for the distributed development team. The entire team uses the toolset as they break down a story into tasks and estimate the cost of each task. Using burndown charts, they can see their progress during the sprint and this process helped improve planning over time.
 
 Quality assurance process improved as well. Code reviews were managed by the ALM solution and could be accessed securely thru the web. Once code is ready for check-in, a gated check-in process runs unit and scenario tests and submits the code only after a successful test pass. This helped prevent regressions and the simplicity of the toolset helped improve code velocity. The solution also ensures the builds are staged for pre-production environment periodically for internal testing. The ALM suite also tracks bugs and work items and helps map code changes to defects and vice-versa, improving traceability. Virtual Kanban boards made daily Scrum meetings a breeze.
 
 **Benefits**
+
 *Disciplined Sprints* - The company is deploying new production code every two weeks. The ALM tools helped them manage development rhythm and made it easier to prioritize tasks and manage backlog.
 
 *Traceability* - The solution enabled the teams to track the progress for each task corresponding to every story, along with integrated code reviews and check-ins. If a bug is found in production, it was easy to to trace it back to the code and see what was changed and why, along with who made the change and when.
@@ -84,7 +87,7 @@ Quality assurance process improved as well. Code reviews were managed by the ALM
 
 As a result of the Agile ALM solution, PaperShare was able to pivot its Software Management practices to get more features into the product faster and with better quality.
 
-###References:
+### References:
 
 1. http://searchsoftwarequality.techtarget.com/tip/Tips-for-effective-software-project-collaboration
 2. http://searchcontentmanagement.techtarget.com/news/4500251063/Microsoft-unveils-Project-GigJam-collaboration-tool
