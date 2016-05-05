@@ -121,7 +121,8 @@ A physical board supports multiple purposes:
 ## Electronic Scrum Boards
 
 ![enter image description here](http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png)
-http://blog.jumoo.co.uk/wp-content/uploads/2013/05/tumblr_mj5mh8CzwD1s61t6so1_1280.png
+
+[Source: blog.jumoo.co.uk](http://blog.jumoo.co.uk/2013/liverpool-gov-uk-umbraco/)
 
 #### Trello 
  
