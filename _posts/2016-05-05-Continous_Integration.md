@@ -5,9 +5,7 @@ title: Continuous Improvement
 
 ![CI](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
 
-> Continous Improvement
-
-> [Source](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
+> Continous Improvement [Source](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
 
 ## Kaizen
 Kaizen (Continuous Improvement) is a strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.
