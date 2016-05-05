@@ -28,7 +28,7 @@ Kaizen (Continuous Improvement) is a strategy where employees at all levels of a
 
 ![CI cycle](https://pbs.twimg.com/media/CcGRYS6UsAAccyU.jpg)
 
-> Continous Integration Cycle [(source](https://pbs.twimg.com/media/CcGRYS6UsAAccyU.jpg)
+> Continous Integration Cycle [(source)](https://pbs.twimg.com/media/CcGRYS6UsAAccyU.jpg)
 
 ## Benefits
 - Say goodbye to long and tense integrations
