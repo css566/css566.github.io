@@ -103,7 +103,8 @@ See more at <http://www.velocitycounts.com/2014/01/building-best-agile-team-work
 [Source: www.pinterest.com](https://www.pinterest.com/pin/220394975484340764/?from_navigate=true)
  
 ![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
-http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg
+
+[Source: www.theaveragegamer.com](http://www.theaveragegamer.com/2013/06/20/wheres-my-mickey-disney-studio-tour/)
 
 A fundamental aspect to Scrum is the user of a Scrum board.  Most proponents of Scrum highly recommend physical Scrum boards.  To support this, the physical environments needs:
 
