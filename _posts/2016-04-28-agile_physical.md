@@ -127,7 +127,8 @@ A physical board supports multiple purposes:
 #### Trello 
  
 ![enter image description here](https://www.icescrum.com/wp-content/uploads/2015/04/home.png)
-https://www.icescrum.com/wp-content/uploads/2015/04/home.png
+
+[Source: www.icescrum.com](https://www.icescrum.com/)
 
 #### iceScrum open source set of tools
 
