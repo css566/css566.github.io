@@ -99,6 +99,7 @@ See more at <http://www.velocitycounts.com/2014/01/building-best-agile-team-work
 ### Physical Scrum Boards
  
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/736x/3c/0f/c9/3c0fc95f7ec8adb287f60daa2239878a.jpg)
+
 [Source: www.pinterest.com](https://www.pinterest.com/pin/220394975484340764/?from_navigate=true)
  
 ![enter image description here](http://www.theaveragegamer.com/wp-content/uploads/2013/06/Disney-Mobile-Scrum-Board-2.jpg)
