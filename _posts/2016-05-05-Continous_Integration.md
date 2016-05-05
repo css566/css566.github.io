@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuous Improvement
+title: Continuous Improvement Overview
 ---
 
 ![CI](https://t1.ftcdn.net/jpg/00/86/02/76/500_F_86027652_ap6Gqn0D7yqUlqxsxqxK0mxtEngAWa2x.jpg)
