@@ -86,11 +86,11 @@ As a result of the Agile ALM solution, PaperShare was able to pivot its Software
 
 ###References:
 
-http://searchsoftwarequality.techtarget.com/tip/Tips-for-effective-software-project-collaboration
-http://searchcontentmanagement.techtarget.com/news/4500251063/Microsoft-unveils-Project-GigJam-collaboration-tool
-https://customers.microsoft.com/Pages/CustomerStory.aspx?recid=1029
-https://customers.microsoft.com/Pages/CustomerStory.aspx?recid=1613
-https://less.works/less/technical-excellence/
-http://searchcloudcomputing.techtarget.com/definition/DevOps
-http://searchcontentmanagement.techtarget.com/news/4500251063/Microsoft-unveils-Project-GigJam-collaboration-tool
+1. http://searchsoftwarequality.techtarget.com/tip/Tips-for-effective-software-project-collaboration
+2. http://searchcontentmanagement.techtarget.com/news/4500251063/Microsoft-unveils-Project-GigJam-collaboration-tool
+3. https://customers.microsoft.com/Pages/CustomerStory.aspx?recid=1029
+4. https://customers.microsoft.com/Pages/CustomerStory.aspx?recid=1613
+5. https://less.works/less/technical-excellence/
+6. http://searchcloudcomputing.techtarget.com/definition/DevOps
+7. http://searchcontentmanagement.techtarget.com/news/4500251063/Microsoft-unveils-Project-GigJam-collaboration-tool
 
