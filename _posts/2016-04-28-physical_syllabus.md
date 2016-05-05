@@ -25,11 +25,11 @@ By the end of the unit, the student should be able to:
 
 ## TOPICS
 
-  - Overview
+  - [Development Environments and Workspaces](http://css566.github.io/2016/05/05/physical-workspaces.html)
   - [Physical Aspects of Agile/Scrum](http://css566.github.io/2016/04/28/agile_physical.html)
   - [Physical Aspects of LeSS](http://css566.github.io/2016/04/26/less_physical.html)
   - [Physical Aspects of Kanban](http://css566.github.io/2016/04/28/agile_Kanban.html)
-  - Physical Aspects of Waterfall
+  - [Physical Aspects of Waterfall](http://css566.github.io/2016/05/03/waterfall_physical.html)
   - Communications
     
 ## Additional Resources
