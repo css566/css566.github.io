@@ -106,7 +106,7 @@ Failing to understand and gain agreement on this last “M” can lead to numero
 - Project budgets are overrun due to the cost of the metrics program infrastructure.
 - Project schedules are overrun due to unplanned staff time for data entry and validation.
 
-###What to Measure is a Function of Time
+### What to Measure is a Function of Time
 
 One characteristic of any metrics program is that it is a function of time in three ways [1] (entire section): 
 
