@@ -12,10 +12,9 @@ Social Aspects of Software Management
 
 Content
 ---
- [**Overview**](#overview)
+[**Overview**](#overview)
 
-1.[**Visual Models**](#VM)  
-2.[**Related Theories:**](#Theories) 
+[**Related Theories:**](#Theories) 
 
 
   - [Theory Z](#theory1)
@@ -47,21 +46,19 @@ Content
 
 
 3.[**Blogs**](#related-blogs)  
-	- Commitment -Driven Spring Planning  <br>
+	- Commitment -Driven Sprint Planning  <br>
 	- How Scrum Created the Greatest Team in the World  <br>
 	- Building the trust inside the team  <br>
 
-#### <a name="overview">Overview</a>
-
-
-[Back to top](#content)
 
 ---
 
 
-#### <a name="VM">Visual Models</a>
+#### <a name="overview">Overview</a>
 
  ![enter image description here](http://4.bp.blogspot.com/-Bg2kozZbqyI/UMsUuBgSvVI/AAAAAAAAA84/x7sLbZ4VPew/s1600/maslow.png)
+ 
+ Picture 1. Maslow's Hierarchy of Needs [23]
 
 Maslow’s hierarchy of needs is a model representing the stages of human development.Drawn as a pyramid, the most fundamental physiological needs lie at the bottom, and the psychological needs linear the top. For each need to be realized, all of the levels below it in the hierarchy need to be satisfied as well.An important theory related to the social aspect of LeSS is neatly embedded in this model.
 
@@ -69,6 +66,7 @@ If one were to look at a scrum team ­members’ satisfaction with their job and
  ---
 
    ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/7-16-2013-9-14-19-pm.jpg)  
+   Picture 2.  Theory X, Y and Z compared together [22]
    
    
    Theories X, Y, and Z model human management and motivation. According to X and Y,two contrasting managerial styles are formed from the diametrically opposed assumptions of how workers are motivated. While X emphasizes strict supervision, external rewards, and negative reinforcement, Theory Y implies that job satisfaction is the motivation that encourages workers to take on tasks without supervision. Theory Z focuses on employee loyalty and a holistic life ­balanced approach to job satisfaction.
@@ -77,6 +75,10 @@ If one were to look at a scrum team ­members’ satisfaction with their job and
 
 
 ![enter image description here](https://mercureaace2013.files.wordpress.com/2013/07/800b20xyz.jpg)  
+
+Picture 3.  Theory X, Y and Z illustration [22]
+
+[Back to top](#content)
 
 
 ---
@@ -105,7 +107,7 @@ More information read [here][Theory W]
 
 #### <a name="theory3">Theory Y</a>
 
-Trust your employees and they will perform better.  People perform best when they are allowed to be self-directed, and perform work they have committed to.
+Trust your employees and they will perform better.  People perform best when they are allowed to be self-directed, and perform work they have committed to. [25]
 
 More information read [here][Theory Y]
 
@@ -123,7 +125,7 @@ In Theory Pi, Mallette asserts that engineers and scientists as a group tend to 
 
 #### <a name="theory5">Social Exchange Theory</a>
 
-People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality
+People develop relationships with others they exchange with. The way this exchange occurs and how frequently can affect relationship quality [24]
 
 More information read [here][exchange]
 
@@ -133,7 +135,7 @@ More information read [here][exchange]
 
 #### <a name="alignment"> Alignment </a>
 
-Team that is going in the same direction towards the same goal will make better progress.
+Team that is going in the same direction towards the same goal will make better progress.[16]
 
 More information read [here][Alignment]
 
@@ -144,7 +146,7 @@ More information read [here][Alignment]
 
 #### <a name="cohesion">Cohesion </a>
 
-Team works together, and can reach decisions that all team members support.
+Team works together, and can reach decisions that all team members support.[17]
 
 More information read [here][Cohesion]
 
@@ -154,7 +156,7 @@ More information read [here][Cohesion]
 
 #### <a name="commitment">Commitment </a>
 
-Team members are “all in”.  Everyone is willing to work toward the common goal
+Team members are “all in”.  Everyone is willing to work toward the common goal[18]
 
 More information read [here][Commitment]
 
@@ -164,7 +166,7 @@ More information read [here][Commitment]
 
 #### <a name="transparency">Transparency</a>
 
-Team members share what they are doing to other team members. 
+Team members share what they are doing to other team members. [19]
 
 More information read [here][Transparency]
 
@@ -174,7 +176,7 @@ More information read [here][Transparency]
 
 #### <a name="responsibility">Responsibility </a>
 
-Each team member takes responsibility for their contribution.
+Each team member takes responsibility for their contribution.[20]
 
 More information read [here][Responsibility]
 
@@ -184,7 +186,7 @@ More information read [here][Responsibility]
 
 #### <a name="collaboration">Collaboration </a>
 
-Team members actively seek out help, opinions, or advice from other team members.
+Team members actively seek out help, opinions, or advice from other team members.[21]
 
 More information read [here][Collaboration]
 
@@ -269,6 +271,17 @@ More information read [here][practices]
   .[14]:https://mercureaace2013.wordpress.com/2013/07/01/volunteer_3_di_motivationincentives-behavioral-science-part-ii/  
   
   .[15]:http://theprojectmgmt4u.blogspot.com/2012/12/motivation-theories.html
+  .[16]http://www.industryweek.com/companies-amp-executives/your-team-aligned.
+  .[17]http://www.idalko.com/display/IW/Separation+of+specifications+and+tasks
+  .[18]https://www.boundless.com/management/textbooks/boundless-management-textbook/groups-teams-and-teamwork-6/factors-influencing-team-performance-54/team-cohesiveness-272-3948/
+  .[19]https://www.mountaingoatsoftware.com/blog/commitment-driven-planning
+  .[20]http://link.springer.com/chapter/10.1007%2F978-3-540-69566-0_28
+  .[21]https://scholar.google.com/scholar?output=instlink&q=info:82xJOWPfZcgJ:scholar.google.com/&hl=en&as_sdt=0,48&as_vis=1&authuser=1&scillfp=10914206937382963954&oi=lle
+  .[22]https://mercureaace2013.wordpress.com/2013/07/01/volunteer_3_di_motivationincentives-behavioral-science-part-ii/
+  .[23]http://theprojectmgmt4u.blogspot.com/2012/12/motivation-theories.html
+  .[24]http://www.jstor.org/stable/2946096?seq=1#page_scan_tab_contents
+  .[25]McGregor, D. (2000). The human side of enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962
+  
 
 [Theory Z]: {% post_url 2016-04-28-Social_Theories_for_Software_Management %}#theory_z
 
