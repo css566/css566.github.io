@@ -30,13 +30,17 @@ Large Waterfall Projects May Require Multiple Environments
 - Production
 - Combinations of Dev/Test/Production
 
-<!-- ## Workspaces -->
-
 <h3> <a name="workspaces">Workspaces</a> </h3>
 
 Since Waterfall teams do not need to be co-located, Waterfall offers greater flexibility in the layout of workspaces.  Moreover, different teams can work in workspaces having entirely different structures.
 
-Historically, people working on software development worked in workspaces similar to other business professionals, such as engineers.  These workspaces include individual offices, cubicles, and a sea of desks (now referred to as open space, noting there are historical differences).  They are still in use today, although advancements in design and management thinking has lead to the deployment of more work-friendly environments.  Cubicle walls may have various heights, with higher walls providing greater privacy and lower walls generally costing less.
+Examples of Different Workspaces and Environments are discussed:
+
+- Cubicles
+
+- Open Spaces
+
+- Mixed WorkSpace Design
 
 ![enter image description here](http://www.millerab.com/files/cache/c2a9fa67d1b0e3e2f100e54baecf0eb0_f840.jpg)
 
@@ -44,27 +48,15 @@ Historically, people working on software development worked in workspaces simila
 
 [Source:  Millerab.com](http://www.millerab.com/blog/open-office-or-cubicle/)
 
-More recently, software development companies have migrated towards more open workspaces.  In fact, a 2010 survey estimates that 70% of business organizations now employ open workspaces [1].  
+
+----------
+
 
 ![enter image description here](http://mscorpmedia.azureedge.net/mscorpmedia/sites/3/2011/05/0028.Thumba_5F00_2011_2D00_05_2D00_02_5F00_20_2D00_22_2D00_26_5F00_4239B82D.jpg)
 
 > Example of an open workspace at Microsoft
 
 [Source: A tour of my Microsoft workspace](http://blogs.microsoft.com/next/2011/05/03/a-tour-of-my-microsoft-workspace-steve-clayton/#sm.0000b1aygq2kgdnprge16yoluj6hk)
-
-This has both advantages and drawback:
-
-Advantages:
-
-- Increase teamwork, information flow, and comradery
-- Ideas can be easily exchanged, making interaction more frequent
-- employees feel more "in the know" and members of a team
-
-Disadvantages:
-
-- Lack of privacy
-- Distractions, both from people causing interruptions and noise in general
-- Some developers are naturally introverts and work better in environments providing more isolation
 
 Mixed WorkSpace Designs
 
