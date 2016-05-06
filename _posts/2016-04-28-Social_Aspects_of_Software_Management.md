@@ -45,7 +45,7 @@ Content
  
 
 
-3.[**Blogs**](#related-blogs)  
+[**Blogs**](#related-blogs)  
 	- Commitment -Driven Sprint Planning  <br>
 	- How Scrum Created the Greatest Team in the World  <br>
 	- Building the trust inside the team  <br>
