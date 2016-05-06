@@ -12,7 +12,7 @@ In order to further develop the content for the Software Management (SM) course,
 
 ### Topic
 
-This Unit focuses on the cyber aspects of Agile Software Management, as the general topic of Economics in Software Engineering is broad enough for its own course. Moving beyond Agile and into DevOps requires testers and project managers to take on constant collaboration, continuous testing and more. This Unit focuses on the cyber aspects of Software process in Agile Software Management. 
+This Unit focuses on the cyber aspects of Agile Software Management, as the general topic of "Cyber in Software Engineering" is broad enough for its own course. Moving beyond Agile and into DevOps requires testers and project managers to take on constant collaboration, continuous testing and more. This Unit focuses on the cyber aspects of Software process in Agile Software Management. 
 
 ### Principles
 
@@ -81,7 +81,7 @@ Quality assurance process improved as well. Code reviews were managed by the ALM
 
 *Disciplined Sprints* - The company is deploying new production code every two weeks. The ALM tools helped them manage development rhythm and made it easier to prioritize tasks and manage backlog.
 
-*Traceability* - The solution enabled the teams to track the progress for each task corresponding to every story, along with integrated code reviews and check-ins. If a bug is found in production, it was easy to to trace it back to the code and see what was changed and why, along with who made the change and when.
+*Traceability* - The solution enabled the teams to track the progress for each task corresponding to every story, along with integrated code reviews and check-ins. If a bug is found in production, it was easy to trace it back to the code and see what was changed and why, along with who made the change and when.
 
 *Productivity* - With this solution, the development team no longer had to use standalone applications and co-ordinate between them. Developers and product managers were able to do everything they need without leaving the solution. The ALM solution also made productivity measurable. By looking at historic performance,  teams were able to better forecast future stories sprints and releases, resulting in better estimation and planning.
 
