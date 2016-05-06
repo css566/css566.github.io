@@ -144,7 +144,18 @@ Test teams using work in with a test environment, as opposed to the production e
 
 [Source: http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer](http://www.extremetech.com/extreme/118549-microsoft-creates-mini-internet-to-reliably-test-and-improve-internet-explorer)
 
+-----------
 
+Testing may also involve multiple test environments, such as shown below.
+
+![enter image description here](http://testyantra.co.uk/sites/default/files/testyantra_cloud_testing.png)
+ 
+> Separate equipment required for multiple development, test and production environments
+
+[Source: testyantra.co.uk](http://testyantra.co.uk/cloud-testing)
+
+-----------
+ 
 
 
 ### Operations/Maintenance Teams
