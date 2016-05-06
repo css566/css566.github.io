@@ -13,13 +13,13 @@ Much of the economically-focused angle of this Unit is derived from the Manifest
 
 >“We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
->*Individuals and interactions* over processes and tools
+> - Individuals and interactions over processes and tools
 
->*Working software* over comprehensive documentation
+> - Working software over comprehensive documentation
 
->*Customer collaboration* over contract negotiation
+> - Customer collaboration over contract negotiation
 
->*Responding to change* over following a plan
+> - Responding to change over following a plan
 
 >That is, while there is value in the items on the right, we value the items on the left more.” [2]
 
@@ -41,9 +41,9 @@ Principles
     - This has an indirect financial impact that ties in with less wasted resources
     - Focus on people, both internal and external (employees and customers), results in many social benefits such as sense of ownership, flexibility in approach, dynamic adaptability, and trust with customers. Happier people = better product = happier customers = better business value
 
-<img src="https://raw.githubusercontent.com/css566/css566.github.io/master/images/Fotolia_73150274_XS-300x200.jpg" alt="GitHub Logo" />
+<img src="/images/Customer-Focused-Approach.png" alt="GitHub Logo" width="500" />
 
-Figure 1. Customer collaboration and focus on people results in a win-win. Source: [11]
+Figure 1. Agile focus on customers and people allows for rapid adaptation to customer expectations, as illustrated. Source: [11]
 
 Practices and Theories
 -------------
@@ -176,4 +176,4 @@ Related Links
 
 9. http://agility.iqbusiness.net/thought-leadership
 10. https://www.youtube.com/watch?v=pLeSvduRPrQ
-11. http://www.theacagroup.com/wp-content/uploads/Fotolia_73150274_XS-300x200.jpg
+11. http://www.pmp.net/about/mission-values/
