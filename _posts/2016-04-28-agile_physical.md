@@ -1,6 +1,6 @@
 ---
 layout: post
-Physical Aspects of Agile/Scrum
+title: Physical Aspects of Agile/Scrum
 ---
 
 ## Agile/Scrum Overview
