@@ -11,7 +11,7 @@ The following are a list of case studies relating to the Physical aspect of Soft
 Designing a good Kanban board is quite challenging. This case study describes the dos and don’ts while 
 creating a Kanban board and how to do it well.
 
-[Joes org case study](http://www.joe.org/joe/2005october/a4.php)  
+Joes org case study(http://www.joe.org/joe/2005october/a4.php <- LINK IS BROKEN   
 This case study describes the development of teams from different organizations and disciplines.
 
 [Qualcomm Whiteboard case study](https://developer.qualcomm.com/case-study/whiteboard)  
