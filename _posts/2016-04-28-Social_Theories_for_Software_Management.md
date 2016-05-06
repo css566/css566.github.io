@@ -24,7 +24,7 @@ See this article on [Theory-W software project management principles and example
 Theory W employs the principles of [alignment]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#alignment), [cohesion]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#cohesion), and [responsibility]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#responsibility). <br>
 
 <h1><a name="theory_y">Theory Y</a> </h1>
-People perform best when they are allowed to be self-directed, and perform work they have [committed]{% post_url 2016-04-28-Social_Principles_of_Software_Management %}#commitment to.  They need to be given the opportunity to take [responsibility]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#responsibility) for their own work. <br>
+People perform best when they are allowed to be self-directed, and perform work they have [committed]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#commitment) to.  They need to be given the opportunity to take [responsibility]({% post_url 2016-04-28-Social_Principles_of_Software_Management %}#responsibility) for their own work. <br>
 <blockquote>McGregor, D. (2000). The Human Side of Enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962 </blockquote>
 
 <h1><a name="theory_z">Theory Z</a> </h1>
