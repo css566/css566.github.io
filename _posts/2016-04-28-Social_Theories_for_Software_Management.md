@@ -22,7 +22,8 @@ See this article on [Social Exchange Theory](http://www.jstor.org/stable/2946096
 Software project managers can only be successful if they make all project participants a winner. 
 See this article on [Theory-W software project management principles and examples](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=29489&isnumber=1257) in _IEEE Transactions on Software Engineering_.  <br>
 Theory W employs the principles of [Alignment], [Cohesion], and [Responsibility]. <br>
-# <a name="theory_y">Theory Y</a> <br>
+
+<h1><a name="theory_y">Theory Y</a> </h1>
 People perform best when they are allowed to be self-directed, and perform work they have [committed][Commitment] to.  They need to be given the opportunity to take [responsibility] for their own work. <br>
 <blockquote>McGregor, D. (2000). The Human Side of Enterprise. Reflections, 2(1), 6-15. doi:10.1162/152417300569962 </blockquote>
 
