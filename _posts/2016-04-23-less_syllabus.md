@@ -3,10 +3,8 @@ layout: post
 title: LeSS Unit Syllabus
 ---
 
-LeSS Unit Syllabus
-=================
 
-# Unit Overview
+# Overview
 
 This unit is about “LeSS” – Large Scale Scrum, which is an agile approach that extends aspects of single team Scrum to larger teams.  This unit covers theories, principles, and practices of LeSS that are designed to enable project/product managers, developers, and other related stakeholders to guide software projects toward successful implementation, and to manage the highly complex software-enabled systems being built today using LeSS. This unit also considers the physical-cyber-social systems (PCSSs) aspects of LeSS.
 
@@ -19,7 +17,7 @@ By the end of this unit, students should be able to:
  - Observe LeSS from the viewpoint of LeSS as a Physical System, LeSS and a Cyber Systems, and LeSS as a Social System. 
  - Understand tools and techniques defined by LeSS for managing a software project
 
-# LeSS Unit Organization
+# Organization
 
  1. [LeSS Framework]({% post_url 2016-04-25-Less_Framework_Unit %}) 
  2. LeSS Theories
