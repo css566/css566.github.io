@@ -25,7 +25,7 @@ By the end of the unit, the student should be able to:
 
 ## TOPICS
 
-  - [Development Environments and Workspaces](http://css566.github.io/2016/05/05/physical-workspaces.html)
+  - [Development Environments and Workspaces]({% post_url 2016-05-05-physical-workspaces %})
   - [Physical Aspects of Agile/Scrum](http://css566.github.io/2016/04/28/agile_physical.html)
   - [Physical Aspects of LeSS](http://css566.github.io/2016/04/26/less_physical.html)
   - [Physical Aspects of Kanban](http://css566.github.io/2016/04/28/agile_Kanban.html)
