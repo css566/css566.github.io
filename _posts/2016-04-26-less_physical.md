@@ -4,7 +4,7 @@ title: Physical Aspects of LeSS
 ---
 
 
-## Trends
+## <a name="trends">Trends</a>
 -  Tear down the walls!  Not only the silo walls in waterfall, but the physical walls in workspaces.
 Agile is being applied to larger and larger projects, requiring a change in the physical layout of workspaces – individual offices and online team members need not apply!  Collaboration needs to be in person.
 - Just-in-Time (JIT) modeling on physical (not-computer) mediums (whiteboards and walls).  Workspaces need to support JIT modeling.
