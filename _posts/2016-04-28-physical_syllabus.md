@@ -23,7 +23,7 @@ By the end of the unit, the student should be able to:
   -	Analyze the physical aspect for any given SM Frameworks/Methodologies.
 
 
-## TOPICS
+## ORGANIZATION
 
   - [Development Environments and Workspaces]({% post_url 2016-05-05-physical-workspaces %})
   - [Physical Aspects of Agile/Scrum]({% post_url 2016-04-28-agile_physical %})
