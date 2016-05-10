@@ -11,7 +11,8 @@ Agile is being applied to larger and larger projects, requiring a change in the 
 - The more usable whitespace, the better.
 - Old building spaces are being re-engineered to facilitate agile and LeSS.  Examples of this I have personally observed includes office space in Pioneer square (OneHub), and shared office spaces in cities like Seattle and San Francisco (space is actually shared by multiple companies).
 
-## Concepts
+## <a name="concepts">Concepts</a>
+
 #### Teams
 
 - Teams are the core building block for large product development
@@ -28,7 +29,7 @@ Agile is being applied to larger and larger projects, requiring a change in the 
 
 - Model to have a conversation – “The primary value in diagrams is in the discussion while diagraming – we model to have a conversation.”  In order to facilitate good conversations, you need appropriate workspaces.
 
-## Patterns
+## <a name="patterns">Patterns</a>
 
 #### Design workshops with agile modeling
 
@@ -68,7 +69,7 @@ A variation to traditional fixed walls is rolling whiteboards, as in this photo�
 ----------
 
 
-### Massive ‘Whiteboard” space
+###  <a name="Whiteboard">Massive 'Whiteboard' space</a>
 Vast ‘whiteboards’ –A design workshop requires massive ‘whiteboard’ space. Standard whiteboards are possible but not usually sufficient–and in fact are often an impediment, because modeling is best done on vast open wall spaces without borders . You will want to cover virtually all wall space with ‘whiteboard’ material, usually about two meters high. “We have noticed over the years as we facilitate agile design workshops that there is a linear correlation between their effectiveness and the amount of whiteboard space.”
 
  
@@ -199,3 +200,5 @@ It is useful if the walls of each team room are covered in vast ‘whiteboard’
 ### References
 
 [1] https://less.works
+
+[Patterns]: {% post_url 2016-04-26-less_physical %}#patterns
