@@ -20,17 +20,16 @@ By the end of the unit, the student should be able to:
   -	Identify different physical environments needed for different SM Frameworks/Methodologies..
   -	Identify the different ways in which teams can be organized to suit varying organizational needs.
   -	Have a comprehensive idea of the physical aspect through the articles, case studies and videos.
-  -	Analyze the physical aspect for any given SM Frameworks/Methodologies..
+  -	Analyze the physical aspect for any given SM Frameworks/Methodologies.
 
 
 ## TOPICS
 
   - [Development Environments and Workspaces]({% post_url 2016-05-05-physical-workspaces %})
-  - [Physical Aspects of Agile/Scrum](http://css566.github.io/2016/04/28/agile_physical.html)
-  - [Physical Aspects of LeSS](http://css566.github.io/2016/04/26/less_physical.html)
-  - [Physical Aspects of Kanban](http://css566.github.io/2016/04/28/agile_Kanban.html)
-  - [Physical Aspects of Waterfall](http://css566.github.io/2016/05/03/waterfall_physical.html)
-  - Communications
+  - [Physical Aspects of Agile/Scrum]({% post_url 2016-04-28-agile_physical %})
+  - [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %})
+  - [Physical Aspects of Kanban]({% post_url 2016-04-28-agile_Kanban %})
+  - [Physical Aspects of Waterfall]({% post_url 2016-05-03-waterfall_physical %})
     
 ## Additional Resources
 
