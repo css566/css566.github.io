@@ -12,7 +12,7 @@ Social Aspects of Software Management
 
 Content
 ---
-[**Overvie**](#overview)
+[**Overview**](#overview)
 
 [**Related Theories:**](#Theories) 
 
