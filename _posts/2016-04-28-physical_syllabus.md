@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Physical Unit Syllabus
-date: 2016-05-10
 ---
 
 
