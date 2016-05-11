@@ -8,7 +8,7 @@ Managing Distributed Teams
 ===
 
 <h2>Contents</h2>
-
+* <a href="#overview">Overview</a>
 * <a href="#theories">Theories</a>
   * Social Identity Theory
   * Technocracy
@@ -25,6 +25,9 @@ Managing Distributed Teams
   * Videos
   * Blogs
 * <a href="#references">References</a>
+
+<h2><a name="overview">Overview</a></h2>
+Software management for distributed teams has unique challenges.  Distributed teams are geographically separated.  There may also have cultural or language barriers. Communication requires additional effort.
 
 <h2><a name="theories">Theories</a></h2>
 <h3>Social Identity Theory</h3>
