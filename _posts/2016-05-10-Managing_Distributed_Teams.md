@@ -10,6 +10,10 @@ Managing Distributed Teams
 <h2>Contents</h2>
 
 * <a href="#theories">Theories</a>
+ * Social Identity Theory
+ * Technocracy
+ * Swift Trust Theory
+ * Media Richness Theory (MRT)
 * <a href="#principles">Principles</a>
  * Building trust
  * Time zone, language, and cultural barriers
@@ -23,16 +27,17 @@ Managing Distributed Teams
 * <a href="#references">References</a>
 
 <h2><a name="theories">Theories</a></h2>
-Social Identity Theory
+<h3>Social Identity Theory</h3>
 People are allocated to more one culture at a time, but different cultures are seen as being mutually exclusive. The theory predicts inter-group behavior on the basis of perceived group state differences, the perceived legitimacy and stability of those differences, and the perceived ability to move from one group to another.
 
-Technocracy
+<h3>Technocracy</h3>
 The term was originally used to promote applying the scientific method to solving social problems, but is also an organizational structure of governance where decision-makers are selected on the basis of technological knowledge and merit. Technocrats are individuals with technical training and occupations who perceive many important social problems as being solvable, often while proposing technology-focused solutions. A technocrat is primarily driven by their cognitive "problem-solution mindset." 
-Swift Trust Theory
+
+<h3>Swift Trust Theory</h3>
 Swift trust is a form of trust occurring in temporary organizational structures, which can include quick starting groups or teams. It was first explored by Debra Meyerson and colleagues in 1996. In swift trust theory, a group or team assumes trust initially, and later verifies and adjusts trust beliefs accordingly.
 Traditionally, trust has been examined in the context of long-term relationships. The establishment of trust has been thought to rely largely on the history of a group and the interactions between members. This traditional view of trust generally assumes that trust builds over time. However, this view is becoming problematic with the increase in globalization, change in technologies, and an increased reliance on temporary teams by organizations. Meyerson et al. propose that swift trust provides the necessary, initial, cognitive confidence for a temporary team to interact as if trust were present. However, swift trust requires an individual to verify that a team can manage vulnerabilities and expectations.
 
-Media Richness Theory (MRT)
+<h3>Media Richness Theory (MRT)</h3>
 This theory is based on the work of Daft and Lengel (1984 and 1986) and Daft, Lengel and Trevino (1987). MRT is a theory that can be used to describe the ability of communication media to transfer information. It assumes that organisations process information to reduce uncertainty and equivocality (Weiman,P 2010).
 
 <h2><a name="principles">Principles</a></h2>
