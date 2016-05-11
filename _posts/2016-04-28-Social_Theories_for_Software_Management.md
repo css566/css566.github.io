@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Theories for Software Management
+date: 2016-05-05
 ---
 Social Theories for Software Management
 ===
