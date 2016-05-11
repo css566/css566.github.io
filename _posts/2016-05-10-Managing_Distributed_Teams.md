@@ -10,16 +10,16 @@ Managing Distributed Teams
 <h2>Contents</h2>
 
 * <a href="#theories">Theories</a>
- * Social Identity Theory
- * Technocracy
- * Swift Trust Theory
- * Media Richness Theory (MRT)
+  * Social Identity Theory
+  * Technocracy
+  * Swift Trust Theory
+  * Media Richness Theory (MRT)
 * <a href="#principles">Principles</a>
- * Building trust
- * Time zone, language, and cultural barriers
- * Communication
- * Technical alignments
- * Project and process management
+  * Building trust
+  * Time zone, language, and cultural barriers
+  * Communication
+  * Technical alignments
+  * Project and process management
 * <a href="#practices">Practices</a>
 * <a href="#resources">Resources</a>
   * Videos
