@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Physical Unit Syllabus
+category: syllabus
 ---
 
 
