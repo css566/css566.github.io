@@ -4,17 +4,28 @@ title: Physical Unit Syllabus
 ---
 
 <table style="width:100%">
-   <tr>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>		
+    <th>Points</th>
+  </tr>
+  <tr>
     <td>Jill</td>
-     <td>Smith</td> 
+    <td>Smith</td>		
     <td>50</td>
-   </tr>
+  </tr>
   <tr>
     <td>Eve</td>
-     <td>Jackson</td> 
+    <td>Jackson</td>		
     <td>94</td>
-   </tr>
-</table> 
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>		
+    <td>80</td>
+  </tr>
+</table>
+
 
 ## INTRODUCTION
 
