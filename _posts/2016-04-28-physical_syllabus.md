@@ -3,6 +3,19 @@ layout: post
 title: Physical Unit Syllabus
 ---
 
+<table style="width:100%">
+   <tr>
+    <td>Jill</td>
+     <td>Smith</td> 
+    <td>50</td>
+   </tr>
+  <tr>
+    <td>Eve</td>
+     <td>Jackson</td> 
+    <td>94</td>
+   </tr>
+</table> 
+
 ## INTRODUCTION
 
 This syllabus aims to presents important take-aways from exploring the Physical aspect for different SM Frameworks/Methodologies. 
