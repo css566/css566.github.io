@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LeSS Unit Syllabus
+category: syllabus
 ---
 
 
