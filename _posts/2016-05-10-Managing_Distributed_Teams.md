@@ -24,6 +24,10 @@ Managing Distributed Teams
 
 <h2><a name="resources">Resources</a></h2>
 
+<h3>Videos</h3>
+
+<h3>Blogs</h3>
+
 <h2><a name="references">References</a></h2>
 
 Christopher P. Furner. 2013. Cultural Determinants of Information Processing Shortcuts in Computer Supported Groups: A Review, Research Agenda and Instrument Validation. Int. J. Inf. Syst. Soc. Chang. 4, 3 (July 2013), 17-32. DOI=http://dx.doi.org/10.4018/jissc.2013070102 
