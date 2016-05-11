@@ -10,6 +10,11 @@ Managing Distributed Teams
 
 * <a href="#theories">Theories</a>
 * <a href="#principles">Principles</a>
+ * Building trust
+ * Time zone, language, and cultural barriers
+ * Communication
+ * Technical alignments
+ * Project and process management
 * <a href="#practices">Practices</a>
 * <a href="#resources">Resources</a>
   * Videos
@@ -19,6 +24,20 @@ Managing Distributed Teams
 <h2><a name="theories">Theories</a></h2>
 
 <h2><a name="principles">Principles</a></h2>
+<h3>Building trust</h3>
+Nothing is more important than this crucial element of a hyper-productive team, and building trust is essential in the formation of cohesiveness between team members. Gaining trust is a challenge when team members are distributed across different time zones, cultures, and environments, and when they also face communication, language, technical alignment, and project management issues. When a team doesn’t possess a minimum level of trust, it’s more difficult to deal with challenges when they appear – it is often easy to blame and criticize the ‘other’ groups and the team can break down into competing tribes. When trust is strong, team members are able to work through the most difficult issues and they often create innovative solutions. 
+
+<h3>Time zone, language, and cultural barriers</h3> 
+It is vital to create overlapping office hours so that remote teams can communicate, resolve problems, and bridge time zones for other mission-critical tasks. More overlapping time during the day fosters better engagement and collaboration. When team members come from different cultural backgrounds, language and cultural differences can easily create misunderstanding and generate mistrust among team members. In addition, team members in different regions generally have varying degrees of skill and technology expertise, which can create a class system between the different remote teams and hinder collaboration. W H I T E PA P E R : Successful Distributed Agile Team Working Patterns
+
+<h3>Communication</h3>
+As outlined in the section above, different time zones create communication challenges for teams. Overlapping office hours facilitate periods for discussions, problem solving, remote pairing, and other activities that contribute to a project’s success. It is crucial to create as much overlapping time during the day as possible. Team members at different locations often fall back to using low bandwidth communication channels, such as emails or documents, which generates large amounts of lost or misunderstood information. Therefore, high bandwidth communication tools such as video conferencing or desktop sharing should be used as frequently as possible. 
+
+<h3>Technical alignments</h3>
+Team members from different backgrounds and regions may have divergent preferences about technologies and tools. For example, team members in Redmond, Washington may have a bias towards Microsoft technologies, while members in China may prefer open-source technologies. Misalignment in engineering best practices can also create conflicts between the remote teams – for example, determining whether to use test first vs. test later development practices or when to do refactoring. Other typical misalignments are coding standards, tooling, and architectural design. Within a co-located team, these misalignments on values are generally resolved over time by day-to-day discussion and communication between team members, with team members gradually building mutual understanding. 
+
+<h3>Project and process management</h3> 
+In a co-located team, the need for online project and process management is minimal— most co-located teams prefer a physical task board, and BVCs (big visible charts) in the team area to help them stay current on progress and information-sharing with other members. In a distributed environment, transparency and visibility are essential for all remote teams. High-visibility, real-time online project tracking and process management (for example, next Sprint planning dates, CI monitoring) enables all teams to be fully engaged in the development process.
 
 <h2><a name="practices">Practices</a></h2>
 
