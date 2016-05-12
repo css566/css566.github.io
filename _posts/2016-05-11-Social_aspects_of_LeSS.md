@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Aspects of Software Management
+title: Social Aspects of LeSS
 ---
 
 ---
