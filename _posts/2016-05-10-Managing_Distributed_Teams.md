@@ -68,10 +68,21 @@ https://www.mindtools.com/pages/article/newTMM_40.htm
 
 <h3>Videos</h3>
 
-<h3>Blogs</h3>
-https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team 
+[![what is Distributed Teams](https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=guhgE9N0AGA "Winning at Remote Distributed Teams")
 
-https://en.wikipedia.org/wiki/Virtual_community_of_practice 
+[![Managing distributed teams,5 golden rules ](https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FGg23p_ksp8 "Managing distributed teams!")
+
+<h3>Blogs</h3>
+
+<h5>Getting most out your geographically distributed agile team </h5>
+Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.
+
+Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team 
+
+<h5>Virtual community of practice </h5>
+This Wikipedia page talks about what is online community of practice also called as virtual community of practice, current research, its advantages, disadvantages and some real world examples.
+
+Related : https://en.wikipedia.org/wiki/Virtual_community_of_practice 
 
 <h2><a name="references">References</a></h2>
 
