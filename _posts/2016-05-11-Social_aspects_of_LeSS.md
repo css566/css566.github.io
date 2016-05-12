@@ -3,8 +3,6 @@ layout: post
 title: Social Aspects of LeSS
 ---
 
----
-
 ## Content
 
 ---
