@@ -130,7 +130,13 @@ Christopher P. Furner. 2013. Cultural Determinants of Information Processing Sho
 
 Na Li and Mary Beth Rosson. 2014. Using annotations in online group chats. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14). ACM, New York, NY, USA, 863-866. DOI=http://dx.doi.org/10.1145/2556288.2557209 
 
-Bruce A. Reinig and Roberto J. Mejias. 2014. On the Measurement of Participation Equality. Int. J. e-Collab. 10, 4 (October 2014), 32-48. DOI=http://dx.doi.org/10.4018/ijec.2014100103 
+Bruce A. Reinig and Roberto J. Mejias. 2014. On the Measurement of Participation Equality. Int. J. e-Collab. 10, 4 (October 2014), 32-48. DOI=http://dx.doi.org/10.4018/ijec.2014100103
+
+Daft, R.L., & Lengel, R.H. (1984) Information Richness: A New Approach to Managerial Behavior and Organizational Design. In L.L. Cummings, & B.M. Staw (Eds.), Research in Organizational Behavior (pp191-233). Homewood, IL: JAI Press. 
+
+Daft, R.L., & Lengel, R.H. (1986) Organizational Information Requirements, Media Richness and Structural Design. Management Science, Vol 32, No. 5, pp554-571. 
+
+Daft, R.L., Lengel, R.H., & Trevino, L. K. (1987) Message Equivocality, Media Selection, and Manager Performance Implications r Information Systems. MIS Quarterly, Vol 11, No. 3, pp354-366.
 
 Fang Chen, Limin Zhang, and Joseph Latimer. 2014. How much has my co-worker contributed? The impact of anonymity and feedback on social loafing in asynchronous virtual collaboration. Int. J. Inf. Manag. 34, 5 (October 2014), 652-659. DOI=http://dx.doi.org/10.1016/j.ijinfomgt.2014.05.001 
 
@@ -149,6 +155,10 @@ N. Jonsson, D. Novosel, J. Lillieskold, and M. Eriksson. 2001. Successful Manage
 Catherine M. Beise. 2004. IT project management and virtual teams. In Proceedings of the 2004 SIGMIS conference on Computer personnel research: Careers, culture, and ethics in a networked environment (SIGMIS CPR '04). ACM, New York, NY, USA, 129-133. DOI=http://dx.doi.org/10.1145/982372.982405 
 
 Viviane Santos, Alfredo Goldman, and Cleidson R. B. De Souza. 2015. Fostering effective inter-team knowledge sharing in agile software development. Empirical Softw. Engg. 20, 4 (August 2015), 1006-1051. DOI=10.1007/s10664-014-9307-y http://dx.doi.org/10.1007/s10664-014-9307-y
+
+Wikipedia. (2016, April 15). Swift trust theory. Retrieved from Wikipedia, the free encyclopedia: https://en.wikipedia.org/wiki/Swift_trust_theory
+
+
 
 Back to <a href="#content">top</a>
 
