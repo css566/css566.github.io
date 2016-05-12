@@ -51,7 +51,7 @@ Trends, Concepts, Patterns, Issues
 
 - Focus on continuous integration
 
-[Back to top](#content)
+[Back to top](#trends)
 
 ## <a name="technicalexcellence">TECHNICAL EXCELLENCE</a>
 
