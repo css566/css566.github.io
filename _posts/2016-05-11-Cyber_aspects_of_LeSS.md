@@ -5,6 +5,7 @@ title: Cyber Aspects of LeSS
  <a name="content"></a>
  
 ## Trends, Concepts, Patterns, Issues
+
 ---
 
 
@@ -23,7 +24,7 @@ title: Cyber Aspects of LeSS
 
 *  [**Product Backlog**](#productbacklog)
 
-* [**Product Backlog Refinement**](#PBrefinement)
+* [**Product Backlog Refinement**](#pbrefinement)
 
 * [**Coordination & Integration**](#coordination-integration)
 
