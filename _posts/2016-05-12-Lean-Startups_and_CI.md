@@ -57,26 +57,26 @@ title: Lean Startups and Continuous Improvement
   > Fig 4: Describes the Lean Manufacturing Process [7]
 
 ##Extra Resources
-#Following is a list of Articles that talk about Lean Startups and Continuous Improvement:
+  ###Following is a list of Articles that talk about Lean Startups and Continuous Improvement:
   
-  •	[Lean Principles and how software development processes are engineered in Lean Startups.](http://theleanstartup.com/principles)
+    •	[Lean Principles and how software development processes are engineered in Lean Startups.](http://theleanstartup.com/principles)
   
-  •	[Continuous Improvement strategy followed in Lean Startups](http://leankit.com/learn/kanban/continuous-improvement/)
+    •	[Continuous Improvement strategy followed in Lean Startups](http://leankit.com/learn/kanban/continuous-improvement/)
   
-  •	[A blog on ‘Engaging your Team in Continuous Improvement’.](http://www.leanblog.org/2013/12/preview-of-my-lean-startup-conference-talk-engaging-your-team-in-continuous-improvement/)
+    •	[A blog on ‘Engaging your Team in Continuous Improvement’.](http://www.leanblog.org/2013/12/preview-of-my-lean-startup-conference-talk-engaging-your-team-in-continuous-improvement/)
   
-  •	[A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.](http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement)
-  
-  
-#Following is a list of Videos that talk about Lean Startups and Continuous Improvement
-  •	[Gives an overview of how to use the leankit tool.](http://leankit.com/product/)
+    •	[A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.](http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement)
   
   
-#Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
-  •	[The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.](http://theleanstartup.com/casestudies#dropbox)
+  ###Following is a list of Videos that talk about Lean Startups and Continuous Improvement
+    •	[Gives an overview of how to use the leankit tool.](http://leankit.com/product/)
+  
+  
+  ###Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
+    •	[The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.](http://theleanstartup.com/casestudies#dropbox)
 
 
-##REFERENCES
+##References
 
   [1] [Continuous Improvement](http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
   
