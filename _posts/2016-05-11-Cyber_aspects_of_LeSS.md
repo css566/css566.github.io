@@ -2,10 +2,9 @@
 layout: post
 title: Cyber Aspects of LeSS
 ---
+ <a name="content"></a>
  Trends, Concepts, Patterns, Issues
 ---
-
-## Content
 
 ---
 
