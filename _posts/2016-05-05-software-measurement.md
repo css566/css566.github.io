@@ -5,7 +5,8 @@ title: Software Measurement and Metrics
  <a name="content"></a>
  
 ### [Overview](#overview)
-* [**What to Measure**](#whattomeasure)  
+
+### [What to Measure](#whattomeasure)  
 * [**The Goal Question Metric (GQM) Approach**](#gqm)  
 * [**Decision Maker Model**](#decisionmakermodel)  
 * [**Standards Driven Metrics**](#standardsdrivenmetrics)  
@@ -38,6 +39,7 @@ Software engineers need to be skilled in estimation and measurement, which means
 Bottom line: You must be able to satisfy your customer and know what you will spend doing it.
 
 To predict and control effectively you must be able to measure. To understand development progress, you must be able to measure. To understand and evaluate quality, you must be able to measure. Unfortunately, measurement, particularly in software, is not always easy. How do you predict how long it will take to build a system using tools and techniques you’ve never used before? Just envisioning the software that will be developed to meet a set of requirements may be difficult, let alone trying to determine the building blocks and how they will be mortared together. Many characteristics of the software seem difficult to measure. How do you measure quality or robustness? How do you measure the level of complexity? [1]
+
 [Back to top](#content)
 
 ## <a name="whattomeasure">What to Measure</a>
@@ -156,7 +158,6 @@ In software, the issue is that so many things that we want to measure seem so �
 [Back to top](#content)
 
 ### <a name="measurementmodels">Measurement Models</a>
-### Measurement Models
 
 The key to “making the unmeasurable measurable” is models. A model is an abstraction, which strips away unnecessary details and views an entity or concept from a particular perspective. Models allow us to focus on the important parts, ignore those that are irrelevant, and hypothesize and reason about an entity. Models make measurement possible.
 
@@ -249,8 +250,7 @@ There are attributes of software that we can define and measure directly, such a
 
 [Back to top](#content)
 
-## <a name="references">References</a>
-### References:
+### <a name="references">References:</a>
 
 [1] L. Laird and C. Brennan, Software Measurement and Estimation: A Practical Approach, IEEE Press 2006 Citation
 
