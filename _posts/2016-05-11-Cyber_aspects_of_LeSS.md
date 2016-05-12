@@ -4,7 +4,7 @@ title: Cyber Aspects of LeSS
 ---
 Trends, Concepts, Patterns, Issues
 ---
-
+## Trends
 ## Content
 
 ---
