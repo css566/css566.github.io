@@ -6,17 +6,17 @@ title: Lean Startups and Continuous Improvement
 
 ## Overview
 
-   *What is a Lean startup?
+   1. What is a Lean startup?
    
-   *What are Lean and Continuous Improvement?
+   2. What are Lean and Continuous Improvement?
    
-   *Continuous Improvement
+   3. Continuous Improvement
    
-   *Lean Manufacturing Vs. Continuous Improvement
+   4. Lean Manufacturing Vs. Continuous Improvement
    
-   *Extra Resources
+   5. Extra Resources
    
-   *References
+   6. References
 
 ## 1. What is a Lean startup? 
    Lean startup is a method for developing businesses and products first proposed in 2008 by Eric Ries. 
