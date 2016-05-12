@@ -30,6 +30,8 @@ Agreement:	The vertical axis measures the level of agreement about an issue or d
 
 ![stacey matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif)
 
+<img src="/images/staceyMatrix.gif" alt="GitHub Logo" width="500" />
+
 > Stacey Matrix attributes
 
 [Source: Stacy Matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey3.gif)
