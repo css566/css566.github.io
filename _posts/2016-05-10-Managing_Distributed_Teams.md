@@ -64,6 +64,34 @@ https://www.mindtools.com/pages/article/newTMM_40.htm
 
 <h2><a name="practices">Practices</a></h2>
 
+
+<h3>Build “The A Team“</h3>
+
+Team to give better quality and better productivity, synergy within team members is very important. Often, there are various challenges but this is the most important factor. Team members with same frequency have always lead to successful projects.
+
+<h3>Set Expectations/Roles within the team</h3>
+Team members should always work towards same goal. In our case, it is delivering the highest quality product from us. Team managers/leads should let each and every team members what role they are going to play in the project and there responsibility.
+
+<h3>Be Transparent within the team</h3>
+Being transparent keeps all the team members in same page which helps to reach goal together.
+
+<h3>Communicate often within the team</h3>
+Because team is distributed communication is very important factor. Having daily calls with leads and with team if required. It is always necessary within the team there is willingness to learn, share and communicate with their peers.
+
+<h3>Status Reporting to the team</h3>
+Each and every tea m should share their status report to let us distributed team members know the progress. That will help them to carry out the tasks remaining.
+
+<h3>Setting up Video conferences</h3>
+If not daily or weekly, there should be monthly video conferences to help team to know whom they are working with especially if the team is distributed.
+
+<h3> Having face to face meeting (if possible)</h3>
+
+<h3> Usage of Tools</h3>
+Tools help the distributed team to often store data, collaborate adequately within the team. SharePoint, blog, WebEx, net meeting, Team Viewer, Req Pro, Quality Center, Perforce, MS project are some of the examples. It also increases the productivity and helps us to stay on top of things.
+
+Related : https://www.linkedin.com/pulse/best-practices-managing-distributed-teams-mba-csm-lss-gb
+
+
 <h2><a name="resources">Resources</a></h2>
 
 <h3>Videos</h3>
