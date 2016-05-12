@@ -9,8 +9,6 @@ title: LeSS Case Studies
  
 [John Deere](https://less.works/case-studies/john-deere.html)
  
-[Agilix Consulting](https://agilix.nl/resources/ScrumAtScaleAtPowerhouse.pdf)
- 
 [Port of Rotterdam](https://less.works/case-studies/port-of-rotterdam.html)
  
 [UBS](https://less.works/case-studies/ubs.html)
