@@ -7,7 +7,7 @@ category: syllabus
 Managing Distributed Teams
 ===
 
-<h2>Contents</h2>
+<h2><a name="contents">Contents</a></h2>
 * <a href="#overview">Overview</a>
 * <a href="#theories">Theories</a>
   * Social Identity Theory
@@ -43,6 +43,8 @@ Traditionally, trust has been examined in the context of long-term relationships
 <h3>Media Richness Theory (MRT)</h3>
 This theory is based on the work of Daft and Lengel (1984 and 1986) and Daft, Lengel and Trevino (1987). MRT is a theory that can be used to describe the ability of communication media to transfer information. It assumes that organisations process information to reduce uncertainty and equivocality (Weiman,P 2010).
 
+Back to <a href="#content">top</a>
+
 <h2><a name="principles">Principles</a></h2>
 <h3>Building trust</h3>
 Nothing is more important than this crucial element of a hyper-productive team, and building trust is essential in the formation of cohesiveness between team members. Gaining trust is a challenge when team members are distributed across different time zones, cultures, and environments, and when they also face communication, language, technical alignment, and project management issues. When a team doesn’t possess a minimum level of trust, it’s more difficult to deal with challenges when they appear – it is often easy to blame and criticize the ‘other’ groups and the team can break down into competing tribes. When trust is strong, team members are able to work through the most difficult issues and they often create innovative solutions. 
@@ -61,6 +63,8 @@ In a co-located team, the need for online project and process management is mini
 
 Related :
 https://www.mindtools.com/pages/article/newTMM_40.htm 
+
+Back to <a href="#content">top</a>
 
 <h2><a name="practices">Practices</a></h2>
 
@@ -91,6 +95,8 @@ Tools help the distributed team to often store data, collaborate adequately with
 
 Related : https://www.linkedin.com/pulse/best-practices-managing-distributed-teams-mba-csm-lss-gb
 
+Back to <a href="#content">top</a>
+
 
 <h2><a name="resources">Resources</a></h2>
 
@@ -115,6 +121,8 @@ Related : https://www.agileconnection.com/article/getting-most-out-your-geograph
 This Wikipedia page talks about what is online community of practice also called as virtual community of practice, current research, its advantages, disadvantages and some real world examples.
 
 Related : https://en.wikipedia.org/wiki/Virtual_community_of_practice 
+
+Back to <a href="#content">top</a>
 
 <h2><a name="references">References</a></h2>
 
@@ -141,3 +149,6 @@ N. Jonsson, D. Novosel, J. Lillieskold, and M. Eriksson. 2001. Successful Manage
 Catherine M. Beise. 2004. IT project management and virtual teams. In Proceedings of the 2004 SIGMIS conference on Computer personnel research: Careers, culture, and ethics in a networked environment (SIGMIS CPR '04). ACM, New York, NY, USA, 129-133. DOI=http://dx.doi.org/10.1145/982372.982405 
 
 Viviane Santos, Alfredo Goldman, and Cleidson R. B. De Souza. 2015. Fostering effective inter-team knowledge sharing in agile software development. Empirical Softw. Engg. 20, 4 (August 2015), 1006-1051. DOI=10.1007/s10664-014-9307-y http://dx.doi.org/10.1007/s10664-014-9307-y
+
+Back to <a href="#content">top</a>
+
