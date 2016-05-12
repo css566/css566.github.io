@@ -19,3 +19,8 @@ env:
   global:
     - ENCRYPTION_LABEL: 35a3ff1b4063
     - COMMIT_AUTHOR_EMAIL: travis@bot
+
+# whitelist
+branches:
+  only:
+    - gh-pages
