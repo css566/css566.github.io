@@ -3,7 +3,7 @@ layout: post
 title: Social Aspects of LeSS
 ---
 
-## Content
+ <a name="content"></a>
 
 ---
 
@@ -15,6 +15,8 @@ title: Social Aspects of LeSS
 ### [PATTERNS](#patterns)
 
 ### [ISSUES](#issues)
+
+---
 
 ## <a name="trends">TRENDS</a>
 
