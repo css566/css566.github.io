@@ -15,11 +15,10 @@ title: Software Measurement and Metrics
 ### [Measurement Fundamentals](#measurementfundamentals)
 
 * [**Measurement Models**](#measurementmodels)
-
- * Text Models
- * Diagrammatic Models
- * Algorithmic Models
- * The Pantometric Paradigm: How to Measure Anything
+  * Text Models
+  * Diagrammatic Models
+  * Algorithmic Models
+  * The Pantometric Paradigm: How to Measure Anything
 
 * [**Meta-Model for Metrics**](#meta-model)  
 * [**References:**](#references)  
