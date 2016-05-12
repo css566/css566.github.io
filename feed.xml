@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 May 2016 21:49:48 +0000</pubDate>
-    <lastBuildDate>Thu, 12 May 2016 21:49:48 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 21:50:32 +0000</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 21:50:32 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -68,32 +68,41 @@
   &amp;gt; Fig 4: Describes the Lean Manufacturing Process [7]&lt;/p&gt;
 
 &lt;p&gt;##Extra Resources
-  #Following is a list of Articles that talk about Lean Startups and Continuous Improvement:&lt;/p&gt;
+  ###Following is a list of Articles that talk about Lean Startups and Continuous Improvement:&lt;/p&gt;
 
-&lt;p&gt;•	&lt;a href=&quot;http://theleanstartup.com/principles&quot;&gt;Lean Principles and how software development processes are engineered in Lean Startups.&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;•	[Lean Principles and how software development processes are engineered in Lean Startups.](http://theleanstartup.com/principles)
+  
+•	[Continuous Improvement strategy followed in Lean Startups](http://leankit.com/learn/kanban/continuous-improvement/)
+  
+•	[A blog on ‘Engaging your Team in Continuous Improvement’.](http://www.leanblog.org/2013/12/preview-of-my-lean-startup-conference-talk-engaging-your-team-in-continuous-improvement/)
+  
+•	[A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.](http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;•	&lt;a href=&quot;http://leankit.com/learn/kanban/continuous-improvement/&quot;&gt;Continuous Improvement strategy followed in Lean Startups&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;###Following is a list of Videos that talk about Lean Startups and Continuous Improvement
+    •	&lt;a href=&quot;http://leankit.com/product/&quot;&gt;Gives an overview of how to use the leankit tool.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;•	&lt;a href=&quot;http://www.leanblog.org/2013/12/preview-of-my-lean-startup-conference-talk-engaging-your-team-in-continuous-improvement/&quot;&gt;A blog on ‘Engaging your Team in Continuous Improvement’.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;###Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
+    •	&lt;a href=&quot;http://theleanstartup.com/casestudies#dropbox&quot;&gt;The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;•	&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;##References&lt;/p&gt;
 
-&lt;p&gt;#Following is a list of Videos that talk about Lean Startups and Continuous Improvement
-  •	&lt;a href=&quot;http://leankit.com/product/&quot;&gt;Gives an overview of how to use the leankit tool.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
-  •	&lt;a href=&quot;http://theleanstartup.com/casestudies#dropbox&quot;&gt;The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]	(https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)&lt;/p&gt;
 
-&lt;p&gt;##REFERENCES&lt;/p&gt;
+&lt;p&gt;[3]	&lt;a href=&quot;http://www.nist.gov/mep/services/continuous-improvement/&quot;&gt;Lean and Continuous Improvement&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[1] &lt;a href=&quot;http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html&quot;&gt;Continuous Improvement&lt;/a&gt;
-  [2]	(https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)
-  [3]	&lt;a href=&quot;http://www.nist.gov/mep/services/continuous-improvement/&quot;&gt;Lean and Continuous Improvement&lt;/a&gt;
-  [4]	&lt;a href=&quot;https://en.wikipedia.org/wiki/Lean_startup&quot;&gt;Lean startup&lt;/a&gt;
-  [5]	&lt;a href=&quot;https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&amp;amp;q=lean+startups&amp;amp;imgrc=QvpG0vURNGrEUM%3A&quot;&gt;A Lean Startup Cycle&lt;/a&gt;
-  [6]	&lt;a href=&quot;https://www.isixsigma.com/community/blogs/leanci/&quot;&gt;Lean Manufacturing Vs. Continuous Improvement&lt;/a&gt;
-  [7]	&lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A&quot;&gt;The Management Process in Lean&lt;/a&gt;
-  [8] &lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;site=webhp&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&amp;amp;q=leading+daily+improvement+katie&quot;&gt;Lean startup and Continuous Improvement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4]	&lt;a href=&quot;https://en.wikipedia.org/wiki/Lean_startup&quot;&gt;Lean startup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5]	&lt;a href=&quot;https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&amp;amp;q=lean+startups&amp;amp;imgrc=QvpG0vURNGrEUM%3A&quot;&gt;A Lean Startup Cycle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6]	&lt;a href=&quot;https://www.isixsigma.com/community/blogs/leanci/&quot;&gt;Lean Manufacturing Vs. Continuous Improvement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7]	&lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A&quot;&gt;The Management Process in Lean&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;site=webhp&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&amp;amp;q=leading+daily+improvement+katie&quot;&gt;Lean startup and Continuous Improvement&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 </description>
