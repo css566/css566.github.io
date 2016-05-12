@@ -38,7 +38,7 @@ title: Lean Startups and Continuous Improvement
   Continuous Improvement should be a mind-set throughout your whole organization. Do not get caught up in only trying to find the big ideas. Small ideas will often times lead to big improvements.
 
   ![enter image description here](https://github.com/css566/css566.github.io/blob/gh-pages/images/ContinuousImprov.PNG?raw=true)
-  > Fig 3: The Management Process in Lean [7]
+  > Fig 3: The Management Process in Lean [2]
   
 ## 4. Lean Manufacturing Vs. Continuous Improvement [6]
   Let’s start off by defining Lean manufacturing. Lean (as described on multiple on-line resources) is described as a production practice that focuses on the elimination of wasteful elements in all process to increase the value to the customer. Sounds great! What organization wouldn’t want to implement a program to eliminate waste? The problem is that some organizations misuse Lean Manufacturing to overwork and reduce headcount.
@@ -57,7 +57,7 @@ title: Lean Startups and Continuous Improvement
   > Fig 4: Describes the Lean Manufacturing Process [7]
 
 ##Extra Resources
-  ###Following is a list of Articles that talk about Lean Startups and Continuous Improvement:
+  Following is a list of Articles that talk about Lean Startups and Continuous Improvement:
   
     •	[Lean Principles and how software development processes are engineered in Lean Startups.](http://theleanstartup.com/principles)
   
@@ -68,11 +68,11 @@ title: Lean Startups and Continuous Improvement
     •	[A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.](http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement)
   
   
-  ###Following is a list of Videos that talk about Lean Startups and Continuous Improvement
+  Following is a list of Videos that talk about Lean Startups and Continuous Improvement
     •	[Gives an overview of how to use the leankit tool.](http://leankit.com/product/)
   
   
-  ###Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
+  Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement
     •	[The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.](http://theleanstartup.com/casestudies#dropbox)
 
 
@@ -80,7 +80,7 @@ title: Lean Startups and Continuous Improvement
 
   [1] [Continuous Improvement](http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
   
-  [2]	(https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)
+  [2]	[Management Process in Lean](https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)
   
   [3]	[Lean and Continuous Improvement](http://www.nist.gov/mep/services/continuous-improvement/)
   
@@ -90,7 +90,7 @@ title: Lean Startups and Continuous Improvement
   
   [6]	[Lean Manufacturing Vs. Continuous Improvement](https://www.isixsigma.com/community/blogs/leanci/)
   
-  [7]	[The Management Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
+  [7]	[Manufacturing Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
   
   [8] [Lean startup and Continuous Improvement](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&q=leading+daily+improvement+katie)
 
