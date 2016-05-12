@@ -158,7 +158,13 @@ Viviane Santos, Alfredo Goldman, and Cleidson R. B. De Souza. 2015. Fostering ef
 
 Wikipedia. (2016, April 15). Swift trust theory. Retrieved from Wikipedia, the free encyclopedia: https://en.wikipedia.org/wiki/Swift_trust_theory
 
+Weimann, P, Hinz, C, Scott, E and Pollock, M. “Changing the Communication Culture of Distributed Teams in a World Where Communication is Neither Perfect nor Complete” The Electronic Journal Information Systems Evaluation Volume 13 Issue 2 2010, (pp187 - 196), available online at www.ejise.com
 
+Lori Anschuetz, Tec-Ed, Inc., “Managing Geographically Distributed Teams”, IPCC 98 Proceedings, the annual conference of the IEEE Professional Communication Society, 1998. 
+http://teced.com/wp-content/uploads/2011/06/ipcc98la-managing-geographically-distributed-teams.pdf
+
+Monica Yap, Successful Distributed Agile Team Working Patterns,  SolutionsIQ, Inc. 2010
+https://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pdf
 
 Back to <a href="#content">top</a>
 
