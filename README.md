@@ -5,6 +5,8 @@
 
 # Usage instructions
 
+## NOTE: Work on the branch called gh-pages, DO NOT commit to master branch, it will not build.
+
 ## Creating a new Unit 
 1. Create a new file under the [_posts](_posts) directory
 2. The file name should be in the format `date-unit_name.md`, example `2016-04-18-syllabus.md`
