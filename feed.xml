@@ -1,30 +1,1431 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Software Management</title>
+    <description></description>
+    <link>http://css566.github.io/</link>
+    <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 May 2016 20:47:54 +0000</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 20:47:54 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Lean Startups and Continuous Improvement</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;*What is a Lean startup?
+  *What are Lean and Continuous Improvement?
+  *Continuous Improvement
+  *Lean Manufacturing Vs. Continuous Improvement
+  *Extra Resources
+  *References&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-lean-startup&quot;&gt;1. What is a Lean startup?&lt;/h2&gt;
+&lt;p&gt;Lean startup is a method for developing businesses and products first proposed in 2008 by Eric Ries. 
+  Based on his previous experience working in several U.S. startups, Ries claims that startups can shorten their product development cycles by adopting a combination of business-hypothesis-driven experimentation, iterative product releases, and what he calls validated learning. 
+  Ries’ overall claim is that if startups invest their time into iteratively building products or services to meet the needs of early customers, they can reduce the market risks and sidestep the need for large amounts of initial project funding and expensive product launches and failures.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/css566/css566.github.io/blob/master/images/LeanStartupCyle.PNG?raw=true&quot;&gt;Fig 1: Illustrates the working of A Lean Startup Cycle&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</guid>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Continuous Improvement case studies</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/#axzz48OPxDWwv&quot;&gt;Continuous Improvement as a Business Strategy – A corus case study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://businesscasestudies.co.uk/leyland-trucks/continuous-improvement-within-an-organisation/#axzz48OPxDWwv&quot;&gt;Continuous Improvement within an organization – A Leyland Truckscase study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.plm.automation.siemens.com/CaseStudyWeb/dispatch/viewResource.html?resourceId=16299&quot;&gt;Nissan Motor – Continuous improvement, design through delivery&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.moresteam.com/resources/download/kahiki-foods-case-study.pdf&quot;&gt;Reducing Biological Oxygen Demand at Kahiki Foods – A case study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.dnrec.delaware.gov/Air/Documents/ECOS%20LEAN%20Report.pdf&quot;&gt;Lean case studies: continuous improvement in state agencies&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Continous_Integration_casestudies.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Integration_casestudies.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement-- Articles</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;Combining Agile and CMMI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282233/Mature_Agile_with_a_twist_of_CMMI.pdf&quot;&gt;Mature Agile with a twist of CMMI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=3410&quot;&gt;CHIPS Articles: CMMI–What, Why? By Richard B. Waina&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.ibm.com/developerworks/rational/library/07/0227_myerson/&quot;&gt;Achieving Capability Maturity Model Integration (CMMI) maturity&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and CMMI – Going from Good to Great&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Continous_Integration_Artices.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Integration_Artices.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Social Aspects of LeSS</title>
+        <description>&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;trendstrends&quot;&gt;&lt;a href=&quot;#trends&quot;&gt;TRENDS&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;conceptsconcepts&quot;&gt;&lt;a href=&quot;#concepts&quot;&gt;CONCEPTS&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;patternspatterns&quot;&gt;&lt;a href=&quot;#patterns&quot;&gt;PATTERNS&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;issuesissues&quot;&gt;&lt;a href=&quot;#issues&quot;&gt;ISSUES&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;a-nametrendstrendsa&quot;&gt;&lt;a name=&quot;trends&quot;&gt;TRENDS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Team&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;System&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Continuous Integration&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;People&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Environment&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Human Behavior&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Growing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coordination between teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cross-team coordination&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interdependent work&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shared responsibility&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shared work product&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cross-functional teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Co-located teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Long-lived teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Organizational coaching&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Product Owner is outward focused on customers as well as inward focused on the teams, i.e he/she behaves as a connector between the two.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Synchronizing work with other members of the team as part of ‘continuous integration’.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The feature teams are aligned to creating end-to-end customer centric features.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nameconceptsconceptsa&quot;&gt;&lt;a name=&quot;concepts&quot;&gt;CONCEPTS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mailing lists&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chat&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Occasional meetings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Leadership meetings-leads or managers getting together for a leadership meeting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some concepts that relate to Product Owner are- product development, internal (product) development, project development.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teams must adopt ‘continuous integration’ of code which involves taking time out to go through code written by peers as well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When there is much preference given to a customer domain, teams are led to more structuring decisions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teams need to be self-managing in terms of being able to execute tasks and manage and monitor process and progress.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namepatternspatternsa&quot;&gt;&lt;a name=&quot;patterns&quot;&gt;PATTERNS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Daily Scrum meetings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Product Owner works on activities such as prioritizing items in the product backlog and clarification of items in the backlog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coordination between teams takes place through “Just talking”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most teams and manager follow lean management.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nameissuesissuesa&quot;&gt;&lt;a name=&quot;issues&quot;&gt;ISSUES&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Large changes to a stable system will destabilize and break it in large ways&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;People working together creates conflict&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unresolved conflict has a negative impact on team performance and creates a dysfunctional team atmosphere&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sometimes, the goal of a Scrum Meeting can become obsolete, in such a case if the Product Owner stills continues to go ahead with it, the session becomes less productive.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If people working on the same components/modules are not in constant communication about the status of their work, there could be overlap of feature or other functional implementations.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cyber Aspects of LeSS</title>
+        <description>&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;trends-concepts-patterns-issues&quot;&gt;Trends, Concepts, Patterns, Issues&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lean-thinkingleanthinking&quot;&gt;&lt;a href=&quot;#leanthinking&quot;&gt;LEAN THINKING&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Concepts&lt;/li&gt;
+  &lt;li&gt;Patterns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;technical-excellencetechnicalexcellence&quot;&gt;&lt;a href=&quot;#technicalexcellence&quot;&gt;TECHNICAL EXCELLENCE&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#architecture-design&quot;&gt;&lt;strong&gt;Architecture &amp;amp; Design&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+      &lt;li&gt;Issues&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tdd&quot;&gt;&lt;strong&gt;Test Driven Development&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Issues&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#byexample&quot;&gt;&lt;strong&gt;Specification by Example or Acceptance test-driven development (A-TDD)&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#testautomation&quot;&gt;&lt;strong&gt;Test Automation&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#continuous-integration&quot;&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Issues&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#acceptancetesting&quot;&gt;&lt;strong&gt;Acceptance Testing&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#unittesting&quot;&gt;&lt;strong&gt;Unit Testing&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productbacklog&quot;&gt;&lt;strong&gt;Product Backlog&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concepts&lt;/li&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pbrefinement&quot;&gt;&lt;strong&gt;Product Backlog Refinement&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coordination-integration&quot;&gt;&lt;strong&gt;Coordination &amp;amp; Integration&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-nameleanthinkinglean-thinkinga&quot;&gt;&lt;a name=&quot;leanthinking&quot;&gt;LEAN THINKING&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;% Utilization of Resources&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Value-to-waste ratio&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cycle times&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Value of information - also, create useful knowledge&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data Driven - experiment, collect data, adapt based on data&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on early testing and feedback&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on large-scale test automation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on continuous integration&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nametechnicalexcellencetechnical-excellencea&quot;&gt;&lt;a name=&quot;technicalexcellence&quot;&gt;TECHNICAL EXCELLENCE&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;a-namearchitecture-designarchitecture--designa&quot;&gt;&lt;a name=&quot;architecture-design&quot;&gt;Architecture &amp;amp; Design&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-1&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Source code is the real design&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Risk-driven development&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Agility through low coupling&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns-1&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Very early, develop a walking skeleton with tracer code&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incrementally build ‘vertical’ architectural slices of customer-centric features&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do customer-centric features with major architectural impact first&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTML-ize and hyperlink your entire source code, daily&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use lots of stubs, plus dependency injection&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use architectural and design patterns&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wrap calls to remote components with proxies or adapters&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;issues&quot;&gt;Issues&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Intended architecture (speculated, wished for) versus actual architecture&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Architecture is performed once near the start, often in documents&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Architecture overlaps with requirements analysis&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start with indirect interaction between major components, then replace as needed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Message-oriented middleware (MOM) can be slow, may need to change to SOAP or Java RMI for remote clients.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nametddtest-driven-development-tdda&quot;&gt;&lt;a name=&quot;tdd&quot;&gt;Test Driven Development (TDD)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;patterns-2&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;p&gt;Short cycles of:
+ 1. Write one test.
+ 2. Implement just enough code to make it pass.
+ 3. Refactor the code so it is clean.&lt;/p&gt;
+
+&lt;h3 id=&quot;concepts-2&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Short&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rhythmic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incremental&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Design-focused&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Disciplined&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Encourages lower coupling and simple, flexible configuration&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;issues-1&quot;&gt;Issues&lt;/h3&gt;
+
+&lt;p&gt;When a developer creates a new component (such as a class) with TDD, or refactors a legacy component to be unit-testable, they must break the dependencies of that component so that it is testable in isolation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namebyexample-specification-by-example-or-acceptance-test-driven-development-a-tdd-a&quot;&gt;&lt;a name=&quot;byexample&quot;&gt; Specification by Example or Acceptance test-driven development (A-TDD) &lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;patterns-3&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Condense workflow in business rules&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Expressing business rules in tables makes them more comprehensible&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use an A-TDD Tool&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nametestautomation-test-automation-a&quot;&gt;&lt;a name=&quot;testautomation&quot;&gt; Test Automation &lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-3&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scripted testing - automated&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exploratory testing - not automated&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns-4&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create maintainable tests
+    &lt;ul&gt;
+      &lt;li&gt;remove duplication in and between tests&lt;/li&gt;
+      &lt;li&gt;delete tests when not adding value&lt;/li&gt;
+      &lt;li&gt;do not test through the UI&lt;/li&gt;
+      &lt;li&gt;run tests frequently&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Treat non-functionals the same as functionals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Continuously run long-running tests&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use virtualization or containers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Avoid using commercial test tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namecontinuous-integrationcontinuous-integrationa&quot;&gt;&lt;a name=&quot;continuous-integration&quot;&gt;Continuous Integration&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-4&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shared Code&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working in small batches–iteratively.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns-5&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Integrating at least daily&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;supported by a CI system&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;with lots of automated tests&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;build and test need to be fully automated&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multi-stage CI:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;a developer build&lt;/li&gt;
+      &lt;li&gt;component or feature focus&lt;/li&gt;
+      &lt;li&gt;automatic or manual promotion&lt;/li&gt;
+      &lt;li&gt;event or time triggers&lt;/li&gt;
+      &lt;li&gt;the number of stages&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;issues-2&quot;&gt;Issues&lt;/h3&gt;
+
+&lt;p&gt;Many large products have legacy code without automated tests. Developers need to add automated tests–which is a lot of work.&lt;/p&gt;
+
+&lt;p&gt;Probability of breaking the build increases with more people checking in code. Address by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;build incrementally&lt;/li&gt;
+  &lt;li&gt;deploy incrementally&lt;/li&gt;
+  &lt;li&gt;manage dependencies&lt;/li&gt;
+  &lt;li&gt;refactor tests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Increase in code size leads to a slower build and thus a slower CI feedback loop. Upgrading tools to the latest version or replacing a slow tool with a fast one speeds up the build a lot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nameacceptancetestingacceptance-testinga&quot;&gt;&lt;a name=&quot;acceptancetesting&quot;&gt;Acceptance Testing&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-5&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;UAT is a subset of acceptance tests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nameunittestingunit-testinga&quot;&gt;&lt;a name=&quot;unittesting&quot;&gt;Unit Testing&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-6&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unit testing Facilitates changes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unit testing Simplifies integration&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unit testing Provides documentation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unit testing Serves as design tool&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Total cost of ownership is low&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tests Internal Quality vs. External Quality&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feedback is precise and actionable&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns-6&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;unit test should be small and test only limited piece of code functionality&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;AAA: Arrange, Act and Assert&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Behaviour Driven Development (BDD)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-nameproductbacklogproduct-backloga&quot;&gt;&lt;a name=&quot;productbacklog&quot;&gt;Product Backlog&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;concepts-7&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multiple teams building a single product work from a single Product Backlog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Avoid unnecessary and costly complication by using the simplest tools possible for managing the Product Backlog.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patterns-7&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;p&gt;A good Product Backlog must:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;have estimates for all items,&lt;/li&gt;
+  &lt;li&gt;have finer grained items at the top and coarser grained items further down, and&lt;/li&gt;
+  &lt;li&gt;be prioritized.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namepbrefinementproduct-backlog-refinementa&quot;&gt;&lt;a name=&quot;pbrefinement&quot;&gt;Product Backlog Refinement&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;patterns-8&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;split big items&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;do very lightweight item analysis for basic understanding&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;estimate items&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;identify strongly-related items that suggest shared work, common work, or coordination&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namecoordination-integrationcoordination--integrationa&quot;&gt;&lt;a name=&quot;coordination-integration&quot;&gt;Coordination &amp;amp; Integration&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;patterns-9&quot;&gt;Patterns&lt;/h3&gt;
+
+&lt;p&gt;Communicate in Code - use continuous integration to keep track of what others are doing. When you synchronize, look at the changes others have made.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/11/Cyber_aspects_of_LeSS.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/11/Cyber_aspects_of_LeSS.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Managing Distributed Teams</title>
+        <description>&lt;h1 id=&quot;managing-distributed-teams&quot;&gt;Managing Distributed Teams&lt;/h1&gt;
+
+&lt;h2&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#theories&quot;&gt;Theories&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Social Identity Theory&lt;/li&gt;
+      &lt;li&gt;Technocracy&lt;/li&gt;
+      &lt;li&gt;Swift Trust Theory&lt;/li&gt;
+      &lt;li&gt;Media Richness Theory (MRT)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#principles&quot;&gt;Principles&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Building trust&lt;/li&gt;
+      &lt;li&gt;Time zone, language, and cultural barriers&lt;/li&gt;
+      &lt;li&gt;Communication&lt;/li&gt;
+      &lt;li&gt;Technical alignments&lt;/li&gt;
+      &lt;li&gt;Project and process management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#practices&quot;&gt;Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resources&quot;&gt;Resources&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Videos&lt;/li&gt;
+      &lt;li&gt;Blogs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a name=&quot;overview&quot;&gt;Overview&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Software management for distributed teams has unique challenges.  Distributed teams are geographically separated.  There may also be cultural or language barriers. Communication requires additional effort.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;theories&quot;&gt;Theories&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Social Identity Theory&lt;/h3&gt;
+&lt;p&gt;People are allocated to more one culture at a time, but different cultures are seen as being mutually exclusive. The theory predicts inter-group behavior on the basis of perceived group state differences, the perceived legitimacy and stability of those differences, and the perceived ability to move from one group to another.&lt;/p&gt;
+
+&lt;h3&gt;Technocracy&lt;/h3&gt;
+&lt;p&gt;The term was originally used to promote applying the scientific method to solving social problems, but is also an organizational structure of governance where decision-makers are selected on the basis of technological knowledge and merit. Technocrats are individuals with technical training and occupations who perceive many important social problems as being solvable, often while proposing technology-focused solutions. A technocrat is primarily driven by their cognitive “problem-solution mindset.”&lt;/p&gt;
+
+&lt;h3&gt;Swift Trust Theory&lt;/h3&gt;
+&lt;p&gt;Swift trust is a form of trust occurring in temporary organizational structures, which can include quick starting groups or teams. It was first explored by Debra Meyerson and colleagues in 1996. In swift trust theory, a group or team assumes trust initially, and later verifies and adjusts trust beliefs accordingly.
+Traditionally, trust has been examined in the context of long-term relationships. The establishment of trust has been thought to rely largely on the history of a group and the interactions between members. This traditional view of trust generally assumes that trust builds over time. However, this view is becoming problematic with the increase in globalization, change in technologies, and an increased reliance on temporary teams by organizations. Meyerson et al. propose that swift trust provides the necessary, initial, cognitive confidence for a temporary team to interact as if trust were present. However, swift trust requires an individual to verify that a team can manage vulnerabilities and expectations.&lt;/p&gt;
+
+&lt;h3&gt;Media Richness Theory (MRT)&lt;/h3&gt;
+&lt;p&gt;This theory is based on the work of Daft and Lengel (1984 and 1986) and Daft, Lengel and Trevino (1987). MRT is a theory that can be used to describe the ability of communication media to transfer information. It assumes that organisations process information to reduce uncertainty and equivocality (Weiman,P 2010).&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;principles&quot;&gt;Principles&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Building trust&lt;/h3&gt;
+&lt;p&gt;Nothing is more important than this crucial element of a hyper-productive team, and building trust is essential in the formation of cohesiveness between team members. Gaining trust is a challenge when team members are distributed across different time zones, cultures, and environments, and when they also face communication, language, technical alignment, and project management issues. When a team doesn’t possess a minimum level of trust, it’s more difficult to deal with challenges when they appear – it is often easy to blame and criticize the ‘other’ groups and the team can break down into competing tribes. When trust is strong, team members are able to work through the most difficult issues and they often create innovative solutions.&lt;/p&gt;
+
+&lt;h3&gt;Time zone, language, and cultural barriers&lt;/h3&gt;
+&lt;p&gt;It is vital to create overlapping office hours so that remote teams can communicate, resolve problems, and bridge time zones for other mission-critical tasks. More overlapping time during the day fosters better engagement and collaboration. When team members come from different cultural backgrounds, language and cultural differences can easily create misunderstanding and generate mistrust among team members. In addition, team members in different regions generally have varying degrees of skill and technology expertise, which can create a class system between the different remote teams and hinder collaboration. W H I T E PA P E R : Successful Distributed Agile Team Working Patterns&lt;/p&gt;
+
+&lt;h3&gt;Communication&lt;/h3&gt;
+&lt;p&gt;As outlined in the section above, different time zones create communication challenges for teams. Overlapping office hours facilitate periods for discussions, problem solving, remote pairing, and other activities that contribute to a project’s success. It is crucial to create as much overlapping time during the day as possible. Team members at different locations often fall back to using low bandwidth communication channels, such as emails or documents, which generates large amounts of lost or misunderstood information. Therefore, high bandwidth communication tools such as video conferencing or desktop sharing should be used as frequently as possible.&lt;/p&gt;
+
+&lt;h3&gt;Technical alignments&lt;/h3&gt;
+&lt;p&gt;Team members from different backgrounds and regions may have divergent preferences about technologies and tools. For example, team members in Redmond, Washington may have a bias towards Microsoft technologies, while members in China may prefer open-source technologies. Misalignment in engineering best practices can also create conflicts between the remote teams – for example, determining whether to use test first vs. test later development practices or when to do refactoring. Other typical misalignments are coding standards, tooling, and architectural design. Within a co-located team, these misalignments on values are generally resolved over time by day-to-day discussion and communication between team members, with team members gradually building mutual understanding.&lt;/p&gt;
+
+&lt;h3&gt;Project and process management&lt;/h3&gt;
+&lt;p&gt;In a co-located team, the need for online project and process management is minimal— most co-located teams prefer a physical task board, and BVCs (big visible charts) in the team area to help them stay current on progress and information-sharing with other members. In a distributed environment, transparency and visibility are essential for all remote teams. High-visibility, real-time online project tracking and process management (for example, next Sprint planning dates, CI monitoring) enables all teams to be fully engaged in the development process.&lt;/p&gt;
+
+&lt;p&gt;Related :
+https://www.mindtools.com/pages/article/newTMM_40.htm&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;practices&quot;&gt;Practices&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3&gt;Build “The A Team“&lt;/h3&gt;
+
+&lt;p&gt;Team to give better quality and better productivity, synergy within team members is very important. Often, there are various challenges but this is the most important factor. Team members with same frequency have always lead to successful projects.&lt;/p&gt;
+
+&lt;h3&gt;Set Expectations/Roles within the team&lt;/h3&gt;
+&lt;p&gt;Team members should always work towards same goal. In our case, it is delivering the highest quality product from us. Team managers/leads should let each and every team members what role they are going to play in the project and there responsibility.&lt;/p&gt;
+
+&lt;h3&gt;Be Transparent within the team&lt;/h3&gt;
+&lt;p&gt;Being transparent keeps all the team members in same page which helps to reach goal together.&lt;/p&gt;
+
+&lt;h3&gt;Communicate often within the team&lt;/h3&gt;
+&lt;p&gt;Because team is distributed communication is very important factor. Having daily calls with leads and with team if required. It is always necessary within the team there is willingness to learn, share and communicate with their peers.&lt;/p&gt;
+
+&lt;h3&gt;Status Reporting to the team&lt;/h3&gt;
+&lt;p&gt;Each and every tea m should share their status report to let us distributed team members know the progress. That will help them to carry out the tasks remaining.&lt;/p&gt;
+
+&lt;h3&gt;Setting up Video conferences&lt;/h3&gt;
+&lt;p&gt;If not daily or weekly, there should be monthly video conferences to help team to know whom they are working with especially if the team is distributed.&lt;/p&gt;
+
+&lt;h3&gt; Having face to face meeting (if possible)&lt;/h3&gt;
+
+&lt;h3&gt; Usage of Tools&lt;/h3&gt;
+&lt;p&gt;Tools help the distributed team to often store data, collaborate adequately within the team. SharePoint, blog, WebEx, net meeting, Team Viewer, Req Pro, Quality Center, Perforce, MS project are some of the examples. It also increases the productivity and helps us to stay on top of things.&lt;/p&gt;
+
+&lt;p&gt;Related : https://www.linkedin.com/pulse/best-practices-managing-distributed-teams-mba-csm-lss-gb&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;resources&quot;&gt;Resources&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3&gt;Videos&lt;/h3&gt;
+
+&lt;h4&gt;what is Distributed Teams&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guhgE9N0AGA&quot; title=&quot;what is Distributed Teams&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg&quot; alt=&quot;what is Distributed Teams&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Managing distributed teams&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGg23p_ksp8&quot; title=&quot;Managing distributed teams!&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg&quot; alt=&quot;Managing distributed teams,5 golden rules &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Blogs&lt;/h3&gt;
+
+&lt;h4&gt;Getting most out your geographically distributed agile team &lt;/h4&gt;
+&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.&lt;/p&gt;
+
+&lt;p&gt;Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
+
+&lt;h4&gt;Virtual community of practice &lt;/h4&gt;
+&lt;p&gt;This Wikipedia page talks about what is online community of practice also called as virtual community of practice, current research, its advantages, disadvantages and some real world examples.&lt;/p&gt;
+
+&lt;p&gt;Related : https://en.wikipedia.org/wiki/Virtual_community_of_practice&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;references&quot;&gt;References&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Christopher P. Furner. 2013. Cultural Determinants of Information Processing Shortcuts in Computer Supported Groups: A Review, Research Agenda and Instrument Validation. Int. J. Inf. Syst. Soc. Chang. 4, 3 (July 2013), 17-32. DOI=http://dx.doi.org/10.4018/jissc.2013070102&lt;/p&gt;
+
+&lt;p&gt;Na Li and Mary Beth Rosson. 2014. Using annotations in online group chats. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14). ACM, New York, NY, USA, 863-866. DOI=http://dx.doi.org/10.1145/2556288.2557209&lt;/p&gt;
+
+&lt;p&gt;Bruce A. Reinig and Roberto J. Mejias. 2014. On the Measurement of Participation Equality. Int. J. e-Collab. 10, 4 (October 2014), 32-48. DOI=http://dx.doi.org/10.4018/ijec.2014100103&lt;/p&gt;
+
+&lt;p&gt;Fang Chen, Limin Zhang, and Joseph Latimer. 2014. How much has my co-worker contributed? The impact of anonymity and feedback on social loafing in asynchronous virtual collaboration. Int. J. Inf. Manag. 34, 5 (October 2014), 652-659. DOI=http://dx.doi.org/10.1016/j.ijinfomgt.2014.05.001&lt;/p&gt;
+
+&lt;p&gt;Timo O. A. Lehtinen, Risto Virtanen, Juha O. Viljanen, Mika V. Mäntylä, and Casper Lassenius. 2014. A tool supporting root cause analysis for synchronous retrospectives in distributed software teams. Inf. Softw. Technol. 56, 4 (April 2014), 408-437. DOI=http://dx.doi.org/10.1016/j.infsof.2014.01.004&lt;/p&gt;
+
+&lt;p&gt;Jennifer A. Nicholson, Darren B. Nicholson, Patrick Coyle, Andrew Hardin, and Anjala S. Krishen. 2014. Exploring the Use of Virtual World Technology for Idea-Generation Tasks. Int. J. e-Collab. 10, 3 (July 2014), 44-62. DOI=http://dx.doi.org/10.4018/ijec.2014070103&lt;/p&gt;
+
+&lt;p&gt;J. F. Nunamaker, Alan R. Dennis, Joseph S. Valacich, Douglas Vogel, and Joey F. George. 1991. Electronic meeting systems. Commun. ACM 34, 7 (July 1991), 40-61. DOI=http://dx.doi.org/10.1145/105783.105793&lt;/p&gt;
+
+&lt;p&gt;Gary Klein, James J. Jiang, and Debbie B. Tesch. 2002. Wanted:project teams with a blend of is professional orientations. Commun. ACM 45, 6 (June 2002), 81-87. DOI=http://dx.doi.org/10.1145/508448.508452&lt;/p&gt;
+
+&lt;p&gt;Barry W. Boehm. 1991. Software Risk Management: Principles and Practices. IEEE Softw. 8, 1 (January 1991), 32-41. DOI=http://dx.doi.org/10.1109/52.62930&lt;/p&gt;
+
+&lt;p&gt;N. Jonsson, D. Novosel, J. Lillieskold, and M. Eriksson. 2001. Successful Management of Complex, Multinational R&amp;amp;D Projects. In Proceedings of the 34th Annual Hawaii International Conference on System Sciences ( HICSS-34)-Volume 8 - Volume 8 (HICSS ‘01), Vol. 8. IEEE Computer Society, Washington, DC, USA, 8044-.&lt;/p&gt;
+
+&lt;p&gt;Catherine M. Beise. 2004. IT project management and virtual teams. In Proceedings of the 2004 SIGMIS conference on Computer personnel research: Careers, culture, and ethics in a networked environment (SIGMIS CPR ‘04). ACM, New York, NY, USA, 129-133. DOI=http://dx.doi.org/10.1145/982372.982405&lt;/p&gt;
+
+&lt;p&gt;Viviane Santos, Alfredo Goldman, and Cleidson R. B. De Souza. 2015. Fostering effective inter-team knowledge sharing in agile software development. Empirical Softw. Engg. 20, 4 (August 2015), 1006-1051. DOI=10.1007/s10664-014-9307-y http://dx.doi.org/10.1007/s10664-014-9307-y&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/syllabus/2016/05/10/Managing_Distributed_Teams.html</link>
+        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/10/Managing_Distributed_Teams.html</guid>
+        
+        
+        <category>syllabus</category>
+        
+      </item>
+    
+      <item>
+        <title>MD Table Test</title>
+        <description>&lt;h1 id=&quot;md-table-test&quot;&gt;MD Table Test&lt;/h1&gt;
+&lt;p&gt;# Heading for Grins&lt;/p&gt;
+
+&lt;p&gt;The following table summarizes the concepts used in these different management theories.  It was taken from Mallette’s 2005 paper. &lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Management Concept&lt;/th&gt;
+      &lt;th&gt;Theory X Douglas McGregor&lt;/th&gt;
+      &lt;th&gt;Theory Y Douglas McGregor&lt;/th&gt;
+      &lt;th&gt;Theory Z William Ouchi&lt;/th&gt;
+      &lt;th&gt;Theory Pi Leo A. Mallette&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Motivation&lt;/td&gt;
+      &lt;td&gt;Tends to categorize people as being unwilling or unmotivated to work. Threats and disciplinary action are thought to be used more effectively in this situation, although monetary rewards can also be a prime motivator to make workers produce more.&lt;/td&gt;
+      &lt;td&gt;Tends to categorize people as being self-motivated towards work.&lt;/td&gt;
+      &lt;td&gt;Believes that people are innately self-motivated to not only do their work, but also are loyal towards the company, and want to make the company succeed.&lt;/td&gt;
+      &lt;td&gt;People are fiercely self-motivated by their task or project. They are loyal to their field of interest at the time – which may only be loosely related to the goals of the leadership of the company.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leadership&lt;/td&gt;
+      &lt;td&gt;Theory X leaders would be more authoritarian. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;
+      &lt;td&gt;Theory Y leaders would be more participative. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;
+      &lt;td&gt;Theory Z managers would have to have a great deal of trust that their workers could make sound decisions. Therefore, this type of leader is more likely to act as “coach”, and let the workers make most of the decisions.&lt;/td&gt;
+      &lt;td&gt;Theory Pi leaders are hands-off to the point of abdicating responsibility. They only occasionally need to reel in a stray engineer when a project goes too far astray.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Power &amp;amp; Authority&lt;/td&gt;
+      &lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority.&lt;/td&gt;
+      &lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority. In the case of Theory Y, the manager would take suggestions from workers, but would keep the power to implement the decision.&lt;/td&gt;
+      &lt;td&gt;The manager’s ability to exercise power and authority comes from the worker’s trusting management to take care of them, and allow them to do their jobs. The workers have a great deal of input and weight in the decision making process.&lt;/td&gt;
+      &lt;td&gt;The leader’s authority stems from positional authority. Their power is rooted in their own expert knowledge, and in the technical depth of their staff.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conflict&lt;/td&gt;
+      &lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, especially with the Theory X workers.&lt;/td&gt;
+      &lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, [but less than] with the Theory X workers. Theory Y workers might be given the opportunity to exert “negotiating” strategies to solve their own differences.&lt;/td&gt;
+      &lt;td&gt;Conflict in the Theory Z arena would involve a great deal of discussion, collaboration, and negotiation. The workers would be the ones solving the conflicts, while the managers would play more of a “third party arbitrator” role.&lt;/td&gt;
+      &lt;td&gt;Conflict resolution is always by logical reasoning and consensus. Managers would participate as an equal and sanction the decision.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Performance Appraisals&lt;/td&gt;
+      &lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;
+      &lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;
+      &lt;td&gt;Theory Z emphasizes more frequent performance appraisals, but slower promotions.&lt;/td&gt;
+      &lt;td&gt;Mandatory periodic appraisals are based on successful conclusion of (or progress on) projects, reports, published papers, or patent submissions. Promotions are rare since employees are motivated to continue working on their tasks.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This text should appear after the table. My experience is that the table will always be at the end, if the table works at all.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/09/MD_Table_Test.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/09/MD_Table_Test.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>HTML Table Test</title>
+        <description>&lt;h1 id=&quot;html-table-test&quot;&gt;HTML Table Test&lt;/h1&gt;
+&lt;p&gt;# Heading for Grins&lt;/p&gt;
+
+&lt;p&gt;The following table summarizes the concepts used in these different management theories.  It was taken from Mallette’s 2005 paper. &lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;th&gt;
+Management Concept&lt;/th&gt;&lt;th&gt;Theory X Douglas McGregor&lt;/th&gt;&lt;th&gt;Theory Y Douglas McGregor&lt;/th&gt;&lt;th&gt;Theory Z William Ouchi&lt;/th&gt;&lt;th&gt;Theory Pi Leo A. Mallette&lt;/th&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+&lt;tr&gt;&lt;td&gt;Motivation&lt;/td&gt;&lt;td&gt;Tends to categorize people as being unwilling or unmotivated to work. Threats and disciplinary action are thought to be used more effectively in this situation, although monetary rewards can also be a prime motivator to make workers produce more.&lt;/td&gt;&lt;td&gt;Tends to categorize people as being self-motivated towards work.&lt;/td&gt;&lt;td&gt;Believes that people are innately self-motivated to not only do their work, but also are loyal towards the company, and want to make the company succeed.&lt;/td&gt;&lt;td&gt;People are fiercely self-motivated by their task or project. They are loyal to their field of interest at the time – which may only be loosely related to the goals of the leadership of the company. &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Leadership&lt;/td&gt;&lt;td&gt;Theory X leaders would be more authoritarian. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;&lt;td&gt;Theory Y leaders would be more participative. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;&lt;td&gt;Theory Z managers would have to have a great deal of trust that their workers could make sound decisions. Therefore, this type of leader is more likely to act as “coach”, and let the workers make most of the decisions.&lt;/td&gt;&lt;td&gt;Theory Pi leaders are hands-off to the point of abdicating responsibility. They only occasionally need to reel in a stray engineer when a project goes too far astray. &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Power &amp;amp; Authority&lt;/td&gt;&lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority.&lt;/td&gt;&lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority. In the case of Theory Y, the manager would take suggestions from workers, but would keep the power to implement the decision.&lt;/td&gt;&lt;td&gt;The manager’s ability to exercise power and authority comes from the worker’s trusting management to take care of them, and allow them to do their jobs. The workers have a great deal of input and weight in the decision making process.&lt;/td&gt;&lt;td&gt;The leader’s authority stems from positional authority. Their power is rooted in their own expert knowledge, and in the technical depth of their staff. &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Conflict&lt;/td&gt;&lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, especially with the Theory X workers.&lt;/td&gt;&lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, [but less than] with the Theory X workers. Theory Y workers might be given the opportunity to exert “negotiating” strategies to solve their own differences.&lt;/td&gt;&lt;td&gt;Conflict in the Theory Z arena would involve a great deal of discussion, collaboration, and negotiation. The workers would be the ones solving the conflicts, while the managers would play more of a “third party arbitrator” role.&lt;/td&gt;&lt;td&gt;Conflict resolution is always by logical reasoning and consensus. Managers would participate as an equal and sanction the decision. 
+&lt;tr&gt;&lt;td&gt;Performance Appraisals&lt;/td&gt;&lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;&lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;&lt;td&gt;Theory Z emphasizes more frequent performance appraisals, but slower promotions.&lt;/td&gt;&lt;td&gt;Mandatory periodic appraisals are based on successful conclusion of (or progress on) projects, reports, published papers, or patent submissions. Promotions are rare since employees are motivated to continue working on their tasks. &lt;/td&gt;&lt;/tr&gt;
+
+This text should appear after the table. My experience is that the table will always be at the end, if the table works at all.
+&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+</description>
+        <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/09/HTML_Table_Test.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/09/HTML_Table_Test.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Measurement and Metrics</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;overviewoverview&quot;&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;what-to-measurewhattomeasure&quot;&gt;&lt;a href=&quot;#whattomeasure&quot;&gt;What to Measure&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#gqm&quot;&gt;&lt;strong&gt;The Goal Question Metric (GQM) Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#decisionmakermodel&quot;&gt;&lt;strong&gt;Decision Maker Model&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#standardsdrivenmetrics&quot;&gt;&lt;strong&gt;Standards Driven Metrics&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gqm2&quot;&gt;&lt;strong&gt;GQM + Mechanism (GQM2)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#functionoftime&quot;&gt;&lt;strong&gt;What to Measure is a Function of Time&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;measurement-fundamentalsmeasurementfundamentals&quot;&gt;&lt;a href=&quot;#measurementfundamentals&quot;&gt;Measurement Fundamentals&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#measurementmodels&quot;&gt;&lt;strong&gt;Measurement Models&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Text Models&lt;/li&gt;
+      &lt;li&gt;Diagrammatic Models&lt;/li&gt;
+      &lt;li&gt;Algorithmic Models&lt;/li&gt;
+      &lt;li&gt;The Pantometric Paradigm: How to Measure Anything&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#meta-model&quot;&gt;&lt;strong&gt;Meta-Model for Metrics&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-nameoverviewoverviewa&quot;&gt;&lt;a name=&quot;overview&quot;&gt;Overview&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;At the heart of software process standards are clear estimation processes and a well-defined metrics program.  Even more important than being able to meet the standards, managing your software by the numbers enables you to have repeatable results and continuous improvement.  [1].&lt;/p&gt;
+
+&lt;p&gt;Software engineers need to be skilled in estimation and measurement, which means:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understanding the activities and risks involved in software development&lt;/li&gt;
+  &lt;li&gt;Predicting and controlling the activities&lt;/li&gt;
+  &lt;li&gt;Managing the risks&lt;/li&gt;
+  &lt;li&gt;Delivering reliably&lt;/li&gt;
+  &lt;li&gt;Managing proactively to avoid crises&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bottom line: You must be able to satisfy your customer and know what you will spend doing it.&lt;/p&gt;
+
+&lt;p&gt;To predict and control effectively you must be able to measure. To understand development progress, you must be able to measure. To understand and evaluate quality, you must be able to measure. Unfortunately, measurement, particularly in software, is not always easy. How do you predict how long it will take to build a system using tools and techniques you’ve never used before? Just envisioning the software that will be developed to meet a set of requirements may be difficult, let alone trying to determine the building blocks and how they will be mortared together. Many characteristics of the software seem difficult to measure. How do you measure quality or robustness? How do you measure the level of complexity? [1]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namewhattomeasurewhat-to-measurea&quot;&gt;&lt;a name=&quot;whattomeasure&quot;&gt;What to Measure&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;There are many characteristics of software and software projects that can be measured, such as size, complexity, reliability, quality, adherence to process, and profitability. For any particular software project or organization, the specific software measurements program to be used will need to be defined.&lt;br /&gt;
+Fundamentally, to define an appropriate measurements program you need to answer the following questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who is the customer for the metrics?&lt;/li&gt;
+  &lt;li&gt;What are their goals with respect to the product, process, or resource under measurement?&lt;/li&gt;
+  &lt;li&gt;What metrics, when collected, will demonstrate whether or not the goal has been or is being met?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To define an aligned metrics program, it is critical to engage your “customer” as well as project/organizational staff who are knowledgeable in the object to be measured. Thus, identifying your customer and getting the affected stakeholders involved will be a common element no matter which approach is used. [1]&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Software_Measurement_Non-Sequitur.jpg?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example of Measurement Gone Awry [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namegqmthe-goal-question-metric-gqm-approacha&quot;&gt;&lt;a name=&quot;gqm&quot;&gt;The Goal Question Metric (GQM) Approach&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The Goal Question Metric (GQM) approach, defined by Basili et al. [2], is a valuable, structured, and widely accepted method for answering the question of what to measure. GQM drives the definition of a metrics program from the top down:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify the Goal for the product/process/resource. This is the goal that your metrics “customer” is trying to achieve.&lt;/li&gt;
+  &lt;li&gt;Determine the Question(s) that will characterize the way achievement of the goal is going to be assessed.&lt;/li&gt;
+  &lt;li&gt;Define the Metric(s) that will provide a quantitative answer to each question. Metrics can be objective (based solely on the object being measured) or subjective (based on the viewpoint taken as well as the object measured).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For example, let’s look at a software product delivery. The product/project manager may have the following goal for the product:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Goal: Deliver a software product that meets the customer’s expectation for functionality.
+One question that could help characterize the achievement of this goal would be:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Question: How much does the software, as delivered to the customer, deviate from the customer requirements?
+One metric that could be used to answer this question would be:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Metric: Number of field software defects encountered. Typically, there will be a contractual agreement on what constitutes a defect, often based on software performance that deviates from mutually agreed upon requirements. The more specific the requirements, the more objective this metric becomes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another metric that could be used to address this question is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Metric: Customer satisfaction level as indicated on some form of survey. This is a subjective metric, based solely on the viewpoint of the customer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This approach can be taken for any and all goals and stakeholders to define an aligned metrics program [1] (for entire sub-section).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namedecisionmakermodeldecision-maker-modela&quot;&gt;&lt;a name=&quot;decisionmakermodel&quot;&gt;Decision Maker Model&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Another method for selecting metrics is to focus on project decision making. The decision maker is the customer for the metric, with metrics produced to facilitate informed decision making. In this method, you need to determine what the needs of the decision maker are, recognizing that these will change over time [3]. This method is entirely consistent with the GQM method, with a focus on decisions that must be made. This concept is illustrated in the Figure below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Software_Measurement-Decisions-Measures.jpg?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Decision maker model [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Understanding the decisions that must be made will naturally lead to the project measures that must be put in place to support this decision making.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For example, a software project manager will need to make resource allocation decisions based on current status versus planned progress. To be able to make these decisions, he/she will need measures of both time and effort during the development life cycle.&lt;/li&gt;
+  &lt;li&gt;A test manager will need to determine if the quality of the software is at a level acceptable for shipment to the customer. To be able to make this decision, he/she will need to have a measure of current quality of the software and perhaps a view of how that has changed over time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this method, look to the needs of the decision makers to define the metrics to be used. [1] (Entire section)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namestandardsdrivenmetricsstandards-driven-metricsa&quot;&gt;&lt;a name=&quot;standardsdrivenmetrics&quot;&gt;Standards Driven Metrics&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Both generic and industry-specific software engineering standards for collection and use of metrics are available. Some organizations use these to drive their metrics programs. For example, the Software Engineering Institute (SEI) software maturity model requires the measurement of system size, project time, level of effort, and software defects. SEI integrates these measures with the required processes in support of Project Management and Continuous Improvement. Laird and Brennan [cite] consider the SEI set, along with productivity, to be the minimal set for any organization. They define the minimal set to include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;System size&lt;/li&gt;
+  &lt;li&gt;Project duration&lt;/li&gt;
+  &lt;li&gt;Effort&lt;/li&gt;
+  &lt;li&gt;Defects&lt;/li&gt;
+  &lt;li&gt;Productivity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Different industries may have their own standards for metrics, reliability, and safety. For example, in the telecommunications industry, the TL9000 standard defines a lengthy set of metrics that software suppliers must produce and make available to their customers and, in anonymous form, to the telecommunications industry. In the nuclear power industry, EIC 60880:1986-09 defines standards and metrics for “Software for Computers in Safety Systems in Nuclear Power Stations.”&lt;/p&gt;
+
+&lt;p&gt;Under a standards-driven metrics approach, software managers should look for both industry and generic standards that are aligned with applicable business goals for an indication of metrics to be used [1] (Entire section).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namegqm2gqm--mechanism-gqm2a&quot;&gt;&lt;a name=&quot;gqm2&quot;&gt;GQM + Mechanism (GQM2)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;There is an important addition to all of the above approaches that must be considered. The mechanism for collecting the metrics data must be well understood and agreed to before implementing the program.  The GQM2 approach adds this mechanism to GQM.  The Mechanism This includes identifying who will be responsible for ensuring the collection and reporting of valid data, how frequently the data will be collected, how frequently the data will be reported, and what infrastructure (e.g., tools, staff resources) will be needed to collect and report the data. [1]&lt;/p&gt;
+
+&lt;p&gt;Failing to understand and gain agreement on this last “M” can lead to numerous failures of the metrics program [1]:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data is incomplete or invalid because no one has ensured that it is entered in a timely and correct manner.&lt;/li&gt;
+  &lt;li&gt;Data is “stale” and not useful for current decision making.&lt;/li&gt;
+  &lt;li&gt;Data is unavailable when needed.&lt;/li&gt;
+  &lt;li&gt;Project budgets are overrun due to the cost of the metrics program infrastructure.&lt;/li&gt;
+  &lt;li&gt;Project schedules are overrun due to unplanned staff time for data entry and validation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namefunctionoftimewhat-to-measure-is-a-function-of-timea&quot;&gt;&lt;a name=&quot;functionoftime&quot;&gt;What to Measure is a Function of Time&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;One characteristic of any metrics program is that it is a function of time in three ways [1] (entire section):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;First, what to measure certainly varies based on the current position in the software development and software product lifecycles. For example, code inspection metrics are collected and monitored during the code development time in the lifecycle. During the testing phase, development time to deliver a fix may be what that same decision maker needs to know. Reliability of the software may need to be measured in the early stages of product delivery and deployment, while cost to maintain might be the area of interest when a product is near the end of its life.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Second, business needs change over time and the metrics program must change to remain in alignment. For example, if customer surveys show dissatisfaction with product reliability, a system availability metric may need to be created and monitored. If competitors are beating a company’s products to market with similar functionality, the company may need to establish development process measures that will allow it to focus on the most time consuming areas in order to drive improvement.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Third, metrics, especially when used as a factor in recognition and/or compensation, can lose their efficacy over time. Focus can become fixated on the metric itself and how to “manage the metric” rather than on the ultimate goal the project is trying to achieve. This may necessitate selecting a different metric that supports the goal or changing the way the existing metric is calculated.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-namemeasurementfundamentalsmeasurement-fundamentalsa&quot;&gt;&lt;a name=&quot;measurementfundamentals&quot;&gt;Measurement Fundamentals&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In software, the issue is that so many things that we want to measure seem so “unmeasurable.” How do you measure the complexity of a program? What does complexity even mean? How do you measure productivity? If someone can write 100 lines of code in two hours to program a function, but the software has five bugs in it, is it reasonable productivity? And what is that productivity? Better yet, if someone else can program the same function in one line of code, in one hour, what is their productivity? Whose productivity is better? [1]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namemeasurementmodelsmeasurement-modelsa&quot;&gt;&lt;a name=&quot;measurementmodels&quot;&gt;Measurement Models&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The key to “making the unmeasurable measurable” is models. A model is an abstraction, which strips away unnecessary details and views an entity or concept from a particular perspective. Models allow us to focus on the important parts, ignore those that are irrelevant, and hypothesize and reason about an entity. Models make measurement possible.&lt;/p&gt;
+
+&lt;p&gt;We must have models of whatever we want to measure. For example, say we want to know how much of the total system development effort is testing. To determine that, we need a model of both the overall development process and the testing process, which specifies when testing starts and when it ends, what is included, and the number of people involved. If our model starts with unit test by the programmer, it is a different model and will give different results than one that includes only system test.
+There are three types of models you can use—text, diagrammatic, and algorithmic—that is, words, pictures, and numbers. [1]&lt;/p&gt;
+
+&lt;h4 id=&quot;text-models&quot;&gt;Text Models&lt;/h4&gt;
+
+&lt;p&gt;Text models tend to be the least effective, but the most common. It is difficult to adequately describe complex situations and dynamics using just words.&lt;/p&gt;
+
+&lt;p&gt;Here is a text model for software development [4]:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Effort: The time required to develop a product, expressed as increments of staff development time (e.g., staff months/hours). In general, effort is a function of size and results in cost.&lt;/li&gt;
+  &lt;li&gt;Features: The requirements of the product to be developed.&lt;/li&gt;
+  &lt;li&gt;Size: The magnitude of the product to be developed. In general, size is a function of features.&lt;/li&gt;
+  &lt;li&gt;Defects: The incompleteness of the product. In general, defects are a function of size and schedule.&lt;/li&gt;
+  &lt;li&gt;Schedule: The total development time; completion times for principal milestones. In general, schedule is a function of effort and resources.&lt;/li&gt;
+  &lt;li&gt;Resources: The number of developers applied to the product development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This text model has advantages and disadvantages. Each item is clearly defined and easy to understand, but the relationships between items may be difficult to visualize. But notice that this text model describes software development in such a way that we can discuss it, measure it, and predict it: if the size changes, the number of defects will change. This text model gives structure to the abstract concept of “software development.”
+We frequently use metaphors and heuristics to provide insight into the software development environment dynamics. These tend to work well, due to the breadth of meaning we associate with metaphors. The downside is that these models can limit, as all models, our creative thinking as they structure it [4]. Some examples of text model metaphors for software development are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Wild, Wild West&lt;/li&gt;
+  &lt;li&gt;Agile Development (both a metaphor and a name)&lt;/li&gt;
+  &lt;li&gt;Death March&lt;/li&gt;
+  &lt;li&gt;Software Factory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notice how each metaphor evokes a different mental image and response. You probably can envision the environment, the types of people, and processes from just the few words.
+Some examples of heuristics models are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Adding additional staff to late projects makes them later” F.P. Brooks [5]&lt;/li&gt;
+  &lt;li&gt;“Prototyping cuts the work to produce a system by 40%” L. Bernstein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;diagrammatic-models&quot;&gt;Diagrammatic Models&lt;/h4&gt;
+
+&lt;p&gt;Diagrammatic models can be extremely powerful. There are many techniques for diagrammatic modeling, two of which are Weinberg’s [6] and Senge’s [7]. They allow you to model the entities, the relationships between them, and their dynamics. Use one of the formal diagram modeling techniques if you will be doing extensive modeling. Otherwise, simplistic flow diagrams (annotated circles and arrows) should suffice. The Figure below is a simple diagrammatic model of software development, which matches the text model above.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Software_Measurement-Diagrammatic-model.jpg?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Diagrammatic model of software development.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;algorithmic-models&quot;&gt;Algorithmic Models&lt;/h4&gt;
+
+&lt;p&gt;Algorithmic models are also called parametric models. In the right situations, they can be extremely powerful, as they can clearly describe the relationship between entities. Some examples of algorithmic models for software development are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Effort = Schedule * Resource.&lt;/li&gt;
+  &lt;li&gt;% Defects Found During One Test Cycle = 30% of defects remaining in product.&lt;/li&gt;
+  &lt;li&gt;Effort = A * (Size-of-ProgramB) + C, where A, B, and C are all empirically derived constants.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-pantometric-paradigm-how-to-measure-anything&quot;&gt;The Pantometric Paradigm: How to Measure Anything&lt;/h4&gt;
+
+&lt;p&gt;You may be concerned about how to create a model. The Pantometric Paradigm [8] is a simple method to produce a purely visual and quantitative model of anything within the material world. You can use it to create an initial model that can evolve to meet your needs. The simple process is:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Reduce what you are trying to model to the minimum required by its definition. Strip away all extraneous information.&lt;/li&gt;
+  &lt;li&gt;Visualize it on a piece of paper or in your head.&lt;/li&gt;
+  &lt;li&gt;Divide it in fact or in your imagination into equal parts.&lt;/li&gt;
+  &lt;li&gt;Then measure it (e.g., count the parts).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now you have a quantitative representation (model) of your subject which matches your definition. You can now manipulate it, reason about it, experiment with it, and evolve it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namemeta-modelmeta-model-for-metricsa&quot;&gt;&lt;a name=&quot;meta-model&quot;&gt;Meta-Model for Metrics&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Another method for creating models that takes abstract concepts to empirical measurements is from Kan [9], and is depicted below. You begin with an abstract concept, define it, create an operational definition, and then specify a real-world measurement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Software_measurement_meta-model_1.jpg?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Meta-model for metrics [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;An example of this methodology, using the same response time example, is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Software_measurement_meta-model_2.jpg?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example using meta-model for response time [1].&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There are attributes of software that we can define and measure directly, such as the number of modules in a system or the number of people assigned to a project. These are called “direct measures.” However, many of the attributes we want to measure are calculated, such as number of defects per thousand lines of code (KLOC) or average number of lines of code (LOC) produced per week. These are called “indirect measures.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-namereferencesreferencesa&quot;&gt;&lt;a name=&quot;references&quot;&gt;References:&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;[1] L. Laird and C. Brennan, Software Measurement and Estimation: A Practical Approach, IEEE Press 2006 Citation&lt;/p&gt;
+
+&lt;p&gt;[2] V.R. Basili, G. Caldiera, H.D. Rombach, and R. van Solingen, “Goal Question Metric (GQM) approach,” Encyclopedia of Software Engineering, John Wiley &amp;amp; Sons, Hoboken, New Jersey, 2002.&lt;/p&gt;
+
+&lt;p&gt;[3] J. McGary, D. Card, C. Jones, B. Layman, W. Clark, J. Dean, and F. Hall. Practical Software Measurement, Objective Information for Decision Makers, Addison-Wesley, Boston, 2002.&lt;/p&gt;
+
+&lt;p&gt;[4] D. Pitts, Why is software measurement hard? 1999.  http://www.ifpug.org/Conference%20Proceedings/IFPUG-1999/IFPUG1999-12-Pitts-Why_Is_Measurement_Hard.pdf Accessed May 5, 2016.&lt;/p&gt;
+
+&lt;p&gt;[5] F.P. Brooks, The &lt;em&gt;Mythical Man Mont&lt;/em&gt;h, Addison-Wesley, Reading, Mass., 1974.&lt;/p&gt;
+
+&lt;p&gt;[6] G. Weinberg, Quality Software Management, Volume 2 First –Order Measurement, Dorset House Publishing, New York 1993&lt;/p&gt;
+
+&lt;p&gt;[7] P. Senge, The Fifth Discipline, Doubleday, New York, 1990&lt;/p&gt;
+
+&lt;p&gt;[8] A.W. Crosby, The Measure of Reality, Cambridge University Press, Cambridge, United Kingdom, 1997.&lt;/p&gt;
+
+&lt;p&gt;[9] S. Kan, Metrics and Models in Software Quality Engineering, 2nd ed., Addison-Wesley, Boston, 2003.&lt;/p&gt;
+
+&lt;p&gt;[10] R.S. Kaplan and D.P. Norton, “The balanced scorecard—measures that drive performance,” The Harvard Business Review, 1992.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/05/software-measurement.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/05/software-measurement.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Development Environments and Workspaces</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This module covers the physical aspects of environments and workspaces in which software is developed.  These physical aspects include the work environments, such as buildings, offices, rooms, etc., as well as the equipment used for development, such as user workstations and servers that are used for development, test, and production.&lt;/p&gt;
+
+&lt;h2 id=&quot;concepts&quot;&gt;Concepts&lt;/h2&gt;
+&lt;p&gt;Under Agile-based development methodologies, it is preferable the teams be co-located.  Under traditional approaches, such as waterfall, this may be beneficial but has less importance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Agile teams benefit from smaller shared spaces, such as all team members co-located in the same room&lt;/li&gt;
+  &lt;li&gt;Such rooms should facilitate both individual development, while fostering collaboration among team members&lt;/li&gt;
+  &lt;li&gt;Under traditional approaches, meetings are frequent, requiring corresponding meeting spaces and/or virtualized meeting environments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Traditional Approaches to Software Management include Projects are Managed by Managers&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The different teams in a Waterfall project are typically managed by one or more managers (may or may not have technical expertise)&lt;/li&gt;
+  &lt;li&gt;Project managers may also be used (may or may not have technical expertise)&lt;/li&gt;
+  &lt;li&gt;It is common for managers to have separate offices&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Large Projects May Require Multiple Environments&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Development&lt;/li&gt;
+  &lt;li&gt;Test&lt;/li&gt;
+  &lt;li&gt;Production&lt;/li&gt;
+  &lt;li&gt;Combinations of Dev/Test/Production&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;workspaces&quot;&gt;Workspaces&lt;/h2&gt;
+
+&lt;p&gt;Historically, people working on software development worked in workspaces similar to other business professionals, such as engineers.  These workspaces include individual offices, cubicles, and a sea of desks (now referred to as open space, noting there are historical differences).  They are still in use today, although advancements in design and management thinking has lead to the deployment of more work-friendly environments.&lt;/p&gt;
+
+&lt;p&gt;The importance of workspaces cannot be understated.  People are the most important element of any software development effort, and good workspaces enhance the enjoyment of the work environment, while poor workspaces tend to lead to disgruntled employees.&lt;/p&gt;
+
+&lt;p&gt;###Cubicles&lt;/p&gt;
+
+&lt;p&gt;Cubicles are used extensively in mid to large software development organizations.  Cubicles offer several advantages relative to individual offices, including significantly lower cost, ease of reconfiguration, and commonality (everyone treated equally).  Cubicle walls may have various heights, with higher walls providing greater privacy and lower walls generally costing less.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.millerab.com/files/cache/c2a9fa67d1b0e3e2f100e54baecf0eb0_f840.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example of a modern cubicle workspace with high walls&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.millerab.com/blog/open-office-or-cubicle/&quot;&gt;Source:  Millerab.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-spaces&quot;&gt;Open Spaces&lt;/h3&gt;
+
+&lt;p&gt;More recently, software development companies have migrated towards more open workspaces.  In fact, a 2010 survey estimates that 70% of business organizations now employ open workspaces [1].&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mscorpmedia.azureedge.net/mscorpmedia/sites/3/2011/05/0028.Thumba_5F00_2011_2D00_05_2D00_02_5F00_20_2D00_22_2D00_26_5F00_4239B82D.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example of an open workspace at Microsoft&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.microsoft.com/next/2011/05/03/a-tour-of-my-microsoft-workspace-steve-clayton/#sm.0000b1aygq2kgdnprge16yoluj6hk&quot;&gt;Source: A tour of my Microsoft workspace&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This has both advantages and drawback:&lt;/p&gt;
+
+&lt;p&gt;Advantages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increase teamwork, information flow, and comradery&lt;/li&gt;
+  &lt;li&gt;Ideas can be easily exchanged, making interaction more frequent&lt;/li&gt;
+  &lt;li&gt;employees feel more “in the know” and members of a team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Disadvantages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lack of privacy&lt;/li&gt;
+  &lt;li&gt;Distractions, both from people causing interruptions and noise in general&lt;/li&gt;
+  &lt;li&gt;Some developers are naturally introverts and work better in environments providing more isolation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mixed WorkSpace Designs&lt;/p&gt;
+
+&lt;p&gt;Workspaces may also have a mixture of open spaces, invidual workspaces, and collaborative workspaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.hok.com/uploads/2013/02/13/floorplan.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example of a mixed workspace&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.hok.com/thought-leadership/workplace-strategies-that-enhance-human-performance-health-and-wellness/&quot;&gt;Source: www.hok.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;enhancing-collaboration-of-remote-teams-through-blended-workspaces&quot;&gt;Enhancing Collaboration of remote teams through Blended Workspaces&lt;/h3&gt;
+
+&lt;p&gt;In a recent article [2], Benyon and Mival discuss thei experiences of designing, developing, implementing and using a number of real world, functional, multi-touch enabled Interactive Collaborative Environments (ICEs). We created an ICE in our university in order to explore issues of interaction design and of user experience inthese types of environment.  As stated by Benyon and Mival,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The main principle of blending theory is that people come to know
+things through taking projections from two mental spaces in different
+domains that share some structure with a more generic domain. The
+projections from the input spaces create new relationships in the
+blend that did not exist in the original inputs. Our background
+knowledge in the form of cognitive and cultural models allow the
+composite structure to be experienced in a new way. The blend has its
+own emergent logic and this can be elaborated to produce new ideas and
+insights. This blend may then go on to be blended with other mental
+spaces.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One aspect of ICE is an advanced meeting room concept.  Large monitors with touch-screens are mounted to the walls and enable participants in the meeting room to selectively connect to different remote sites.  The are additional features that provide instruction on how to use various equipment in the meeting room, as shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/Physical_Unit_ICE_meeting_room.PNG&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Example ICE meeting room [2]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Another aspect of ICE is the use of very large touch-screen display surfaces.  Microsoft has been working on this type of product for a number of years, and it is now commercially available, but very expensive (&amp;gt;$10K).  In addition, and advanced ICE meeting room includes interactive whiteboards.  An ICE is ﬁrst of all a functioning meeting room and is used daily for meetings, presentations and teaching. However, it is also a space that brings together cutting edge technologies into a unique conﬁguration. It is a glimpse into the future of meeting rooms and ofﬁce spaces when multi-screen, multi-touch and multi-user spaces are increasingly common.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Physical_Unit_ICE_Table.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Advanced ICE meeting room with table, wall screens, and interactive whiteboards [2]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;workstations&quot;&gt;Workstations&lt;/h3&gt;
+
+&lt;p&gt;Software developers (generally including members of cross-functional teams or working on individual phases such as analysts, designers, architects, developers. etc.) may use a wide variety of variety of workstation equipment, such as desktop computers and laptops/notebooks.  Today, a typical workstation will include dual monitors (for desktops or laptop docking stations), or an external monitor that is combined with the screen on a laptop.  A workstation will also typically include a phone and an a desk space or table space (for open environments).  Developers, testers, and operations may also use additional monitors.&lt;/p&gt;
+
+&lt;p&gt;Larger organizations typically standardize on equipment and operating systems, which reduces IT support costs and simplifies equipment budgeting.  However, many of these organizations are slow to upgrade equipment, which is often shortsighted.  The increased productivity from a more functional workstation pays for itself fairly quickly.  Some smaller companies, such as Smartsheet, allow their software developers to chose their own equipment and operating systems, resulting in a blend of Windows and Mac OS X workstations.  This generally may add to IT support costs, but enhances the developer’s productivity, since he or she is more familiar with the equipment and development/design software.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://duncandavies.files.wordpress.com/2015/05/workspace.jpg?w=690&amp;amp;h=431&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A typical software developer workstation including all of the essentials (dual monitors, phone, Starbucks, and bottled water)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://peoplesofttipster.com/category/how-i-work/&quot;&gt;Source https://peoplesofttipster.com/category/how-i-work/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;[1]  &lt;a href=&quot;http://www.ifma.org/publications/books-reports/space-and-project-management-benchmarks-research-report-34&quot;&gt;International Facility Management Association&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2]  David Benyon and Oli Mival. 2015. Blended Spaces for Collaboration. Comput. Supported Coop. Work 24, 2-3 (June 2015), 223-249. DOI=http://dx.doi.org.offcampus.lib.washington.edu/10.1007/s10606-015-9223-8&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/05/physical-workspaces.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/05/physical-workspaces.html</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="JQ8un6S5HeG3_zepr36-7mBfOPxfSW-OZnvHe6wmlHc" />
+  <title>Cyber Aspects of LeSS</title>
+  <meta name="description" content="Trends, Concepts, Patterns, Issues">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="/2016/05/11/Cyber_aspects_of_LeSS.html">
+  <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <div>
+      <script>
+        (function() {
+          var cx = '011458794037413976864:shfrp9g2dja';
+          var gcse = document.createElement('script');
+          gcse.type = 'text/javascript';
+          gcse.async = true;
+          gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(gcse, s);
+        })();
+      </script>
+    <gcse:search></gcse:search>
+    </div>
+    <a class="site-title" href="/">Software Management</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/syllabi/">Syllabi</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Cyber Aspects of LeSS</h1>
+    <p class="post-meta">
+    
+    <time datetime="2016-05-11T00:00:00+00:00" itemprop="datePublished">May 11, 2016</time>
+    
+
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><a name="content"></a></p>
+
+<h2 id="trends-concepts-patterns-issues">Trends, Concepts, Patterns, Issues</h2>
+
+<hr />
+
+<h3 id="lean-thinkingleanthinking"><a href="#leanthinking">LEAN THINKING</a></h3>
+<ul>
+  <li>Concepts</li>
+  <li>Patterns</li>
+</ul>
+
+<h3 id="technical-excellencetechnicalexcellence"><a href="#technicalexcellence">TECHNICAL EXCELLENCE</a></h3>
+
+<ul>
+  <li><a href="#architecture-design"><strong>Architecture &amp; Design</strong></a>
+    <ul>
+      <li>Concepts</li>
+      <li>Patterns</li>
+      <li>Issues</li>
+    </ul>
+  </li>
+  <li><a href="#tdd"><strong>Test Driven Development</strong></a>
+    <ul>
+      <li>Patterns</li>
+      <li>Concepts</li>
+      <li>Issues</li>
+    </ul>
+  </li>
+  <li><a href="#byexample"><strong>Specification by Example or Acceptance test-driven development (A-TDD)</strong></a>
+    <ul>
+      <li>Patterns</li>
+    </ul>
+  </li>
+  <li><a href="#testautomation"><strong>Test Automation</strong></a>
+    <ul>
+      <li>Concepts</li>
+      <li>Patterns</li>
+    </ul>
+  </li>
+  <li><a href="#continuous-integration"><strong>Continuous Integration</strong></a>
+    <ul>
+      <li>Patterns</li>
+      <li>Concepts</li>
+      <li>Issues</li>
+    </ul>
+  </li>
+  <li><a href="#acceptancetesting"><strong>Acceptance Testing</strong></a>
+    <ul>
+      <li>Concepts</li>
+    </ul>
+  </li>
+  <li><a href="#unittesting"><strong>Unit Testing</strong></a>
+    <ul>
+      <li>Concepts</li>
+      <li>Patterns</li>
+    </ul>
+  </li>
+  <li><a href="#productbacklog"><strong>Product Backlog</strong></a>
+    <ul>
+      <li>Concepts</li>
+      <li>Patterns</li>
+    </ul>
+  </li>
+  <li><a href="#pbrefinement"><strong>Product Backlog Refinement</strong></a>
+    <ul>
+      <li>Patterns</li>
+    </ul>
+  </li>
+  <li><a href="#coordination-integration"><strong>Coordination &amp; Integration</strong></a>
+    <ul>
+      <li>Patterns</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="a-nameleanthinkinglean-thinkinga"><a name="leanthinking">LEAN THINKING</a></h2>
+
+<h3 id="concepts">Concepts</h3>
+
+<ul>
+  <li>
+    <p>% Utilization of Resources</p>
+  </li>
+  <li>
+    <p>Value-to-waste ratio</p>
+  </li>
+  <li>
+    <p>Cycle times</p>
+  </li>
+  <li>
+    <p>Value of information - also, create useful knowledge</p>
+  </li>
+  <li>
+    <p>Data Driven - experiment, collect data, adapt based on data</p>
+  </li>
+</ul>
+
+<h3 id="patterns">Patterns</h3>
+
+<ul>
+  <li>
+    <p>Focus on early testing and feedback</p>
+  </li>
+  <li>
+    <p>Focus on large-scale test automation</p>
+  </li>
+  <li>
+    <p>Focus on continuous integration</p>
+  </li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nametechnicalexcellencetechnical-excellencea"><a name="technicalexcellence">TECHNICAL EXCELLENCE</a></h2>
+
+<h2 id="a-namearchitecture-designarchitecture--designa"><a name="architecture-design">Architecture &amp; Design</a></h2>
+
+<h3 id="concepts-1">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Source code is the real design</p>
+  </li>
+  <li>
+    <p>Risk-driven development</p>
+  </li>
+  <li>
+    <p>Agility through low coupling</p>
+  </li>
+</ul>
+
+<h3 id="patterns-1">Patterns</h3>
+
+<ul>
+  <li>
+    <p>Very early, develop a walking skeleton with tracer code</p>
+  </li>
+  <li>
+    <p>Incrementally build ‘vertical’ architectural slices of customer-centric features</p>
+  </li>
+  <li>
+    <p>Do customer-centric features with major architectural impact first</p>
+  </li>
+  <li>
+    <p>HTML-ize and hyperlink your entire source code, daily</p>
+  </li>
+  <li>
+    <p>Use lots of stubs, plus dependency injection</p>
+  </li>
+  <li>
+    <p>Use architectural and design patterns</p>
+  </li>
+  <li>
+    <p>Wrap calls to remote components with proxies or adapters</p>
+  </li>
+</ul>
+
+<h3 id="issues">Issues</h3>
+
+<ul>
+  <li>
+    <p>Intended architecture (speculated, wished for) versus actual architecture</p>
+  </li>
+  <li>
+    <p>Architecture is performed once near the start, often in documents</p>
+  </li>
+  <li>
+    <p>Architecture overlaps with requirements analysis</p>
+  </li>
+  <li>
+    <p>Start with indirect interaction between major components, then replace as needed</p>
+  </li>
+  <li>
+    <p>Message-oriented middleware (MOM) can be slow, may need to change to SOAP or Java RMI for remote clients.</p>
+  </li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nametddtest-driven-development-tdda"><a name="tdd">Test Driven Development (TDD)</a></h2>
+
+<h3 id="patterns-2">Patterns</h3>
+
+<p>Short cycles of:
+ 1. Write one test.
+ 2. Implement just enough code to make it pass.
+ 3. Refactor the code so it is clean.</p>
+
+<h3 id="concepts-2">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Short</p>
+  </li>
+  <li>
+    <p>Rhythmic</p>
+  </li>
+  <li>
+    <p>Incremental</p>
+  </li>
+  <li>
+    <p>Design-focused</p>
+  </li>
+  <li>
+    <p>Disciplined</p>
+  </li>
+  <li>
+    <p>Encourages lower coupling and simple, flexible configuration</p>
+  </li>
+</ul>
+
+<h3 id="issues-1">Issues</h3>
+
+<p>When a developer creates a new component (such as a class) with TDD, or refactors a legacy component to be unit-testable, they must break the dependencies of that component so that it is testable in isolation</p>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-namebyexample-specification-by-example-or-acceptance-test-driven-development-a-tdd-a"><a name="byexample"> Specification by Example or Acceptance test-driven development (A-TDD) </a></h2>
+
+<h3 id="patterns-3">Patterns</h3>
+
+<ul>
+  <li>
+    <p>Condense workflow in business rules</p>
+  </li>
+  <li>
+    <p>Expressing business rules in tables makes them more comprehensible</p>
+  </li>
+  <li>
+    <p>Use an A-TDD Tool</p>
+  </li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nametestautomation-test-automation-a"><a name="testautomation"> Test Automation </a></h2>
+
+<h3 id="concepts-3">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Scripted testing - automated</p>
+  </li>
+  <li>
+    <p>Exploratory testing - not automated</p>
+  </li>
+</ul>
+
+<h3 id="patterns-4">Patterns</h3>
+
+<ul>
+  <li>Create maintainable tests
+    <ul>
+      <li>remove duplication in and between tests</li>
+      <li>delete tests when not adding value</li>
+      <li>do not test through the UI</li>
+      <li>run tests frequently</li>
+    </ul>
+  </li>
+  <li>
+    <p>Treat non-functionals the same as functionals</p>
+  </li>
+  <li>
+    <p>Continuously run long-running tests</p>
+  </li>
+  <li>
+    <p>Use virtualization or containers</p>
+  </li>
+  <li>Avoid using commercial test tools</li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-namecontinuous-integrationcontinuous-integrationa"><a name="continuous-integration">Continuous Integration</a></h2>
+
+<h3 id="concepts-4">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Shared Code</p>
+  </li>
+  <li>
+    <p>Working in small batches–iteratively.</p>
+  </li>
+</ul>
+
+<h3 id="patterns-5">Patterns</h3>
+
+<ul>
+  <li>
+    <p>Integrating at least daily</p>
+  </li>
+  <li>
+    <p>supported by a CI system</p>
+  </li>
+  <li>
+    <p>with lots of automated tests</p>
+  </li>
+  <li>
+    <p>build and test need to be fully automated</p>
+  </li>
+  <li>
+    <p>Multi-stage CI:</p>
+
+    <ul>
+      <li>a developer build</li>
+      <li>component or feature focus</li>
+      <li>automatic or manual promotion</li>
+      <li>event or time triggers</li>
+      <li>the number of stages</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="issues-2">Issues</h3>
+
+<p>Many large products have legacy code without automated tests. Developers need to add automated tests–which is a lot of work.</p>
+
+<p>Probability of breaking the build increases with more people checking in code. Address by:</p>
+
+<ul>
+  <li>build incrementally</li>
+  <li>deploy incrementally</li>
+  <li>manage dependencies</li>
+  <li>refactor tests</li>
+</ul>
+
+<p>Increase in code size leads to a slower build and thus a slower CI feedback loop. Upgrading tools to the latest version or replacing a slow tool with a fast one speeds up the build a lot.</p>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nameacceptancetestingacceptance-testinga"><a name="acceptancetesting">Acceptance Testing</a></h2>
+
+<h3 id="concepts-5">Concepts</h3>
+
+<ul>
+  <li>UAT is a subset of acceptance tests</li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nameunittestingunit-testinga"><a name="unittesting">Unit Testing</a></h2>
+
+<h3 id="concepts-6">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Unit testing Facilitates changes</p>
+  </li>
+  <li>
+    <p>Unit testing Simplifies integration</p>
+  </li>
+  <li>
+    <p>Unit testing Provides documentation</p>
+  </li>
+  <li>
+    <p>Unit testing Serves as design tool</p>
+  </li>
+  <li>
+    <p>Total cost of ownership is low</p>
+  </li>
+  <li>
+    <p>Tests Internal Quality vs. External Quality</p>
+  </li>
+  <li>
+    <p>Feedback is precise and actionable</p>
+  </li>
+</ul>
+
+<h3 id="patterns-6">Patterns</h3>
+
+<ul>
+  <li>
+    <p>unit test should be small and test only limited piece of code functionality</p>
+  </li>
+  <li>
+    <p>AAA: Arrange, Act and Assert</p>
+  </li>
+  <li>
+    <p>Behaviour Driven Development (BDD)</p>
+  </li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-nameproductbacklogproduct-backloga"><a name="productbacklog">Product Backlog</a></h2>
+
+<h3 id="concepts-7">Concepts</h3>
+
+<ul>
+  <li>
+    <p>Multiple teams building a single product work from a single Product Backlog.</p>
+  </li>
+  <li>
+    <p>Avoid unnecessary and costly complication by using the simplest tools possible for managing the Product Backlog.</p>
+  </li>
+</ul>
+
+<h3 id="patterns-7">Patterns</h3>
+
+<p>A good Product Backlog must:</p>
+
+<ul>
+  <li>have estimates for all items,</li>
+  <li>have finer grained items at the top and coarser grained items further down, and</li>
+  <li>be prioritized.</li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-namepbrefinementproduct-backlog-refinementa"><a name="pbrefinement">Product Backlog Refinement</a></h2>
+
+<h3 id="patterns-8">Patterns</h3>
+
+<ul>
+  <li>
+    <p>split big items</p>
+  </li>
+  <li>
+    <p>do very lightweight item analysis for basic understanding</p>
+  </li>
+  <li>
+    <p>estimate items</p>
+  </li>
+  <li>
+    <p>identify strongly-related items that suggest shared work, common work, or coordination</p>
+  </li>
+</ul>
+
+<p><a href="#content">Back to top</a></p>
+
+<h2 id="a-namecoordination-integrationcoordination--integrationa"><a name="coordination-integration">Coordination &amp; Integration</a></h2>
+
+<h3 id="patterns-9">Patterns</h3>
+
+<p>Communicate in Code - use continuous integration to keep track of what others are doing. When you synchronize, look at the changes others have made.</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Software Management</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>Contact : <a href="mailto:socha@uw.edu">socha@uw.edu</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
