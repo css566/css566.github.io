@@ -16,5 +16,6 @@ url: "http://css566.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 exclude: [vendor]
+destination: out
 gems:
   - jekyll-sitemap
