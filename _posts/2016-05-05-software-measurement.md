@@ -224,7 +224,7 @@ Now you have a quantitative representation (model) of your subject which matches
 
 [Back to top](#content)
 
-### <a name="metal-model">Meta-Model for Metrics</a>
+### <a name="meta-model">Meta-Model for Metrics</a>
 
 Another method for creating models that takes abstract concepts to empirical measurements is from Kan [9], and is depicted below. You begin with an abstract concept, define it, create an operational definition, and then specify a real-world measurement. 
 
