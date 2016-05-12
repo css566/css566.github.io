@@ -139,7 +139,7 @@ Failing to understand and gain agreement on this last “M” can lead to numero
 
 [Back to top](#content)
 
-### <a name="functionsoftime">What to Measure is a Function of Time</a>
+### <a name="functionoftime">What to Measure is a Function of Time</a>
 
 One characteristic of any metrics program is that it is a function of time in three ways [1] (entire section): 
 
