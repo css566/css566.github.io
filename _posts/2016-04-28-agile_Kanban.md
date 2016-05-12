@@ -3,9 +3,9 @@ layout: post
 title: Physical Aspects of Kanban
 ---
 
-<img src='/images/SM_Unit_Physical_Kanban_1.jpg' width=30% height="200">
-<img src='/images/SM_Unit_Physical_Kanban_2.jpg' width=30% height="200">
-<img src='/images/SM_Unit_Physical_Kanban_3.jpg' width=30% height="200">
+<img src='/images/SM_Unit_Physical_Kanban_1.jpg' alt="image 1" width=30% height="200">
+<img src='/images/SM_Unit_Physical_Kanban_2.jpg' alt="image 2" width=30% height="200">
+<img src='/images/SM_Unit_Physical_Kanban_3.jpg' alt="image 3" width=30% height="200">
 > Teams gathered around a Kanban board for the daily stand up meeting.
 
 Image sources: http://www.technology-ebay.de/media/  
