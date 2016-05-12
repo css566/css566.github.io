@@ -17,21 +17,42 @@ title: Cyber Aspects of LeSS
 ### [TECHNICAL EXCELLENCE](#technicalexcellence)
 
 * [**Architecture & Design**](#architecture-design)
-* 
-* [**Test Driven Development**](#tdd)
+  * Concepts
+  * Patterns
+  * Issues
 
+* [**Test Driven Development**](#tdd)
+  * Patterns
+  * Concepts
+  * Issues
+  
 * [**Specification by Example or Acceptance test-driven development (A-TDD)**](#byexample)
+  * Patterns
 
 * [**Test Automation**](#testautomation)
+  * Concepts
+  * Patterns
+
+* [**Continuous Integration**](#continuous-integration)
+  * Patterns
+  * Concepts
+  * Issues
+
+* [**Acceptance Testing**](#acceptancetesting)
+  * Concepts  
 
 * [**Unit Testing**](#unittesting)
+  * Concepts
+  * Patterns
 
 *  [**Product Backlog**](#productbacklog)
-
+  * Concepts
+  * Patterns
 * [**Product Backlog Refinement**](#pbrefinement)
+  * Patterns
 
 * [**Coordination & Integration**](#coordination-integration)
-
+  * Patterns
 
 ## <a name="leanthinking">LEAN THINKING</a>
 
