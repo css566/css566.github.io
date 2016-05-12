@@ -13,7 +13,9 @@ title: Software Measurement and Metrics
 * [**What to Measure is a Function of Time**](#functionoftime)  
 
 ### [Measurement Fundamentals](#measurementfundamentals)
-* [**Measurement Models**](#measurementmodels)  
+
+* [**Measurement Models**](#measurementmodels)
+
  * Text Models
  * Diagrammatic Models
  * Algorithmic Models
@@ -106,7 +108,7 @@ With this method, look to the needs of the decision makers to define the metrics
 
 [Back to top](#content)
 
-### <a name="standardsdrivenmetrics">standards Driven Metrics</a>
+### <a name="standardsdrivenmetrics">Standards Driven Metrics</a>
 
 Both generic and industry-specific software engineering standards for collection and use of metrics are available. Some organizations use these to drive their metrics programs. For example, the Software Engineering Institute (SEI) software maturity model requires the measurement of system size, project time, level of effort, and software defects. SEI integrates these measures with the required processes in support of Project Management and Continuous Improvement. Laird and Brennan [cite] consider the SEI set, along with productivity, to be the minimal set for any organization. They define the minimal set to include:
 
@@ -136,8 +138,7 @@ Failing to understand and gain agreement on this last “M” can lead to numero
 
 [Back to top](#content)
 
-## <a name="functionsoftime">What to Measure is a Function of Time</a>
-### What to Measure is a Function of Time
+### <a name="functionsoftime">What to Measure is a Function of Time</a>
 
 One characteristic of any metrics program is that it is a function of time in three ways [1] (entire section): 
 
