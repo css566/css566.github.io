@@ -5,7 +5,7 @@ title: Cyber Aspects of LeSS
 Trends, Concepts, Patterns, Issues
 ---
 
-## Content
+## Figaro
 
 ---
 
@@ -51,7 +51,7 @@ Trends, Concepts, Patterns, Issues
 
 - Focus on continuous integration
 
-[Back to top](#content)
+[Back to top](#Figaro)
 
 ## <a name="technicalexcellence">TECHNICAL EXCELLENCE</a>
 
