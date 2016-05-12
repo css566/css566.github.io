@@ -11,9 +11,13 @@ title: Cyber Aspects of LeSS
 
 
 ### [LEAN THINKING](#leanthinking)
+  * Concepts
+  * Patterns
 
 ### [TECHNICAL EXCELLENCE](#technicalexcellence)
 
+* [**Architecture & Design**](#architecture-design)
+* 
 * [**Test Driven Development**](#tdd)
 
 * [**Specification by Example or Acceptance test-driven development (A-TDD)**](#byexample)
