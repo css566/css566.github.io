@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 May 2016 22:47:13 +0000</pubDate>
-    <lastBuildDate>Thu, 12 May 2016 22:47:13 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 22:47:21 +0000</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 22:47:21 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -123,34 +123,6 @@
       </item>
     
       <item>
-        <title>Continuous Improvement-- Articles</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;Combining Agile and CMMI&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282233/Mature_Agile_with_a_twist_of_CMMI.pdf&quot;&gt;Mature Agile with a twist of CMMI&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=3410&quot;&gt;CHIPS Articles: CMMI–What, Why? By Richard B. Waina&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.ibm.com/developerworks/rational/library/07/0227_myerson/&quot;&gt;Achieving Capability Maturity Model Integration (CMMI) maturity&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and CMMI – Going from Good to Great&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/12/Continous_Integration_Artices.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Integration_Artices.html</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Continuous Improvement case studies</title>
         <description>&lt;ul&gt;
   &lt;li&gt;
@@ -173,6 +145,34 @@
         <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement-- Articles</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;Combining Agile and CMMI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282233/Mature_Agile_with_a_twist_of_CMMI.pdf&quot;&gt;Mature Agile with a twist of CMMI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=3410&quot;&gt;CHIPS Articles: CMMI–What, Why? By Richard B. Waina&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.ibm.com/developerworks/rational/library/07/0227_myerson/&quot;&gt;Achieving Capability Maturity Model Integration (CMMI) maturity&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and CMMI – Going from Good to Great&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Continous_Improvement_Artices.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_Artices.html</guid>
         
         
       </item>
