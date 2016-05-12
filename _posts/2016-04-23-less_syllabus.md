@@ -21,14 +21,11 @@ By the end of this unit, students should be able to:
 # Organization
 
  1. [LeSS Framework]({% post_url 2016-04-25-Less_Framework_Unit %}) 
- 2. LeSS Theories
- 3. LeSS Principles
- 4. LeSS Practices
- 5. [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %}) 
- 6. Cyber Aspects of LeSS 
- 7. [Social Aspects of LeSS]({% post_url 2016-05-11-Social_aspects_of_LeSS %})
- 8. Software Management using LeSS
- 9. Student Assessment of LeSS Unit
+ 2. LeSS Principles, Theories, and Practices
+ 3. [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %}) 
+ 4. Cyber Aspects of LeSS 
+ 5. [Social Aspects of LeSS]({% post_url 2016-05-11-Social_aspects_of_LeSS %})
+ 6. Student Assessment of LeSS Unit
 
 # Additional LeSS Resources
 
