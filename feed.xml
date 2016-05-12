@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 May 2016 23:12:27 +0000</pubDate>
-    <lastBuildDate>Thu, 12 May 2016 23:12:27 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 23:13:14 +0000</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 23:13:14 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -119,6 +119,50 @@
         <link>http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement Unit Syllabus</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
+
+&lt;p&gt;Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities.&lt;/p&gt;
+
+&lt;p&gt;This unit examines aspects of continuous improvement, and how those aspects may be applied to Software Management.  The software development world is extremely competitive - in order to stay ahead, companies need to continuously improve their Software Management methodologies and practices.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-objectives&quot;&gt;LEARNING OBJECTIVES&lt;/h2&gt;
+
+&lt;p&gt;By the end of the unit, the student should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand the importance of Continuous Improvement to Software Management.&lt;/li&gt;
+  &lt;li&gt;Understand Lean startups and their connection to Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Identify different techniques companies use to implement Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Understand aspects of Software Measurement and Metrics, and how they are tied to Continuous Improvement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;ORGANIZATION&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startups and Continuous Improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Software Measurement and Metrics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_Articles.html&quot;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_casestudies.html&quot;&gt;Case Studies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/syllabus/2016/05/12/Continuous_Improvement_Syllabus.html</link>
+        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/12/Continuous_Improvement_Syllabus.html</guid>
+        
+        
+        <category>syllabus</category>
         
       </item>
     
@@ -1353,163 +1397,6 @@ Some examples of heuristics models are:&lt;/p&gt;
         <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/05/software-measurement.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/05/software-measurement.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Development Environments and Workspaces</title>
-        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This module covers the physical aspects of environments and workspaces in which software is developed.  These physical aspects include the work environments, such as buildings, offices, rooms, etc., as well as the equipment used for development, such as user workstations and servers that are used for development, test, and production.&lt;/p&gt;
-
-&lt;h2 id=&quot;concepts&quot;&gt;Concepts&lt;/h2&gt;
-&lt;p&gt;Under Agile-based development methodologies, it is preferable the teams be co-located.  Under traditional approaches, such as waterfall, this may be beneficial but has less importance.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Agile teams benefit from smaller shared spaces, such as all team members co-located in the same room&lt;/li&gt;
-  &lt;li&gt;Such rooms should facilitate both individual development, while fostering collaboration among team members&lt;/li&gt;
-  &lt;li&gt;Under traditional approaches, meetings are frequent, requiring corresponding meeting spaces and/or virtualized meeting environments&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Traditional Approaches to Software Management include Projects are Managed by Managers&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The different teams in a Waterfall project are typically managed by one or more managers (may or may not have technical expertise)&lt;/li&gt;
-  &lt;li&gt;Project managers may also be used (may or may not have technical expertise)&lt;/li&gt;
-  &lt;li&gt;It is common for managers to have separate offices&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Large Projects May Require Multiple Environments&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Development&lt;/li&gt;
-  &lt;li&gt;Test&lt;/li&gt;
-  &lt;li&gt;Production&lt;/li&gt;
-  &lt;li&gt;Combinations of Dev/Test/Production&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;workspaces&quot;&gt;Workspaces&lt;/h2&gt;
-
-&lt;p&gt;Historically, people working on software development worked in workspaces similar to other business professionals, such as engineers.  These workspaces include individual offices, cubicles, and a sea of desks (now referred to as open space, noting there are historical differences).  They are still in use today, although advancements in design and management thinking has lead to the deployment of more work-friendly environments.&lt;/p&gt;
-
-&lt;p&gt;The importance of workspaces cannot be understated.  People are the most important element of any software development effort, and good workspaces enhance the enjoyment of the work environment, while poor workspaces tend to lead to disgruntled employees.&lt;/p&gt;
-
-&lt;p&gt;###Cubicles&lt;/p&gt;
-
-&lt;p&gt;Cubicles are used extensively in mid to large software development organizations.  Cubicles offer several advantages relative to individual offices, including significantly lower cost, ease of reconfiguration, and commonality (everyone treated equally).  Cubicle walls may have various heights, with higher walls providing greater privacy and lower walls generally costing less.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.millerab.com/files/cache/c2a9fa67d1b0e3e2f100e54baecf0eb0_f840.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Example of a modern cubicle workspace with high walls&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.millerab.com/blog/open-office-or-cubicle/&quot;&gt;Source:  Millerab.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;open-spaces&quot;&gt;Open Spaces&lt;/h3&gt;
-
-&lt;p&gt;More recently, software development companies have migrated towards more open workspaces.  In fact, a 2010 survey estimates that 70% of business organizations now employ open workspaces [1].&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mscorpmedia.azureedge.net/mscorpmedia/sites/3/2011/05/0028.Thumba_5F00_2011_2D00_05_2D00_02_5F00_20_2D00_22_2D00_26_5F00_4239B82D.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Example of an open workspace at Microsoft&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blogs.microsoft.com/next/2011/05/03/a-tour-of-my-microsoft-workspace-steve-clayton/#sm.0000b1aygq2kgdnprge16yoluj6hk&quot;&gt;Source: A tour of my Microsoft workspace&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This has both advantages and drawback:&lt;/p&gt;
-
-&lt;p&gt;Advantages:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Increase teamwork, information flow, and comradery&lt;/li&gt;
-  &lt;li&gt;Ideas can be easily exchanged, making interaction more frequent&lt;/li&gt;
-  &lt;li&gt;employees feel more “in the know” and members of a team&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Disadvantages:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lack of privacy&lt;/li&gt;
-  &lt;li&gt;Distractions, both from people causing interruptions and noise in general&lt;/li&gt;
-  &lt;li&gt;Some developers are naturally introverts and work better in environments providing more isolation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mixed WorkSpace Designs&lt;/p&gt;
-
-&lt;p&gt;Workspaces may also have a mixture of open spaces, invidual workspaces, and collaborative workspaces.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.hok.com/uploads/2013/02/13/floorplan.jpg&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Example of a mixed workspace&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.hok.com/thought-leadership/workplace-strategies-that-enhance-human-performance-health-and-wellness/&quot;&gt;Source: www.hok.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;enhancing-collaboration-of-remote-teams-through-blended-workspaces&quot;&gt;Enhancing Collaboration of remote teams through Blended Workspaces&lt;/h3&gt;
-
-&lt;p&gt;In a recent article [2], Benyon and Mival discuss thei experiences of designing, developing, implementing and using a number of real world, functional, multi-touch enabled Interactive Collaborative Environments (ICEs). We created an ICE in our university in order to explore issues of interaction design and of user experience inthese types of environment.  As stated by Benyon and Mival,&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The main principle of blending theory is that people come to know
-things through taking projections from two mental spaces in different
-domains that share some structure with a more generic domain. The
-projections from the input spaces create new relationships in the
-blend that did not exist in the original inputs. Our background
-knowledge in the form of cognitive and cultural models allow the
-composite structure to be experienced in a new way. The blend has its
-own emergent logic and this can be elaborated to produce new ideas and
-insights. This blend may then go on to be blended with other mental
-spaces.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;One aspect of ICE is an advanced meeting room concept.  Large monitors with touch-screens are mounted to the walls and enable participants in the meeting room to selectively connect to different remote sites.  The are additional features that provide instruction on how to use various equipment in the meeting room, as shown below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/Physical_Unit_ICE_meeting_room.PNG&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Example ICE meeting room [2]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Another aspect of ICE is the use of very large touch-screen display surfaces.  Microsoft has been working on this type of product for a number of years, and it is now commercially available, but very expensive (&amp;gt;$10K).  In addition, and advanced ICE meeting room includes interactive whiteboards.  An ICE is ﬁrst of all a functioning meeting room and is used daily for meetings, presentations and teaching. However, it is also a space that brings together cutting edge technologies into a unique conﬁguration. It is a glimpse into the future of meeting rooms and ofﬁce spaces when multi-screen, multi-touch and multi-user spaces are increasingly common.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/Physical_Unit_ICE_Table.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Advanced ICE meeting room with table, wall screens, and interactive whiteboards [2]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;workstations&quot;&gt;Workstations&lt;/h3&gt;
-
-&lt;p&gt;Software developers (generally including members of cross-functional teams or working on individual phases such as analysts, designers, architects, developers. etc.) may use a wide variety of variety of workstation equipment, such as desktop computers and laptops/notebooks.  Today, a typical workstation will include dual monitors (for desktops or laptop docking stations), or an external monitor that is combined with the screen on a laptop.  A workstation will also typically include a phone and an a desk space or table space (for open environments).  Developers, testers, and operations may also use additional monitors.&lt;/p&gt;
-
-&lt;p&gt;Larger organizations typically standardize on equipment and operating systems, which reduces IT support costs and simplifies equipment budgeting.  However, many of these organizations are slow to upgrade equipment, which is often shortsighted.  The increased productivity from a more functional workstation pays for itself fairly quickly.  Some smaller companies, such as Smartsheet, allow their software developers to chose their own equipment and operating systems, resulting in a blend of Windows and Mac OS X workstations.  This generally may add to IT support costs, but enhances the developer’s productivity, since he or she is more familiar with the equipment and development/design software.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://duncandavies.files.wordpress.com/2015/05/workspace.jpg?w=690&amp;amp;h=431&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A typical software developer workstation including all of the essentials (dual monitors, phone, Starbucks, and bottled water)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://peoplesofttipster.com/category/how-i-work/&quot;&gt;Source https://peoplesofttipster.com/category/how-i-work/&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;[1]  &lt;a href=&quot;http://www.ifma.org/publications/books-reports/space-and-project-management-benchmarks-research-report-34&quot;&gt;International Facility Management Association&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2]  David Benyon and Oli Mival. 2015. Blended Spaces for Collaboration. Comput. Supported Coop. Work 24, 2-3 (June 2015), 223-249. DOI=http://dx.doi.org.offcampus.lib.washington.edu/10.1007/s10606-015-9223-8&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/05/physical-workspaces.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/05/physical-workspaces.html</guid>
         
         
       </item>
