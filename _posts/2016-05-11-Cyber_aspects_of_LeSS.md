@@ -48,6 +48,7 @@ title: Cyber Aspects of LeSS
 *  [**Product Backlog**](#productbacklog)
   * Concepts
   * Patterns
+
 * [**Product Backlog Refinement**](#pbrefinement)
   * Patterns
 
