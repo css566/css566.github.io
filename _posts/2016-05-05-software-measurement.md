@@ -2,9 +2,29 @@
 layout: post
 title: Software Measurement and Metrics
 ---
+ <a name="content"></a>
+ 
+### [Overview](#overview)
+* [**What to Measure**](#whattomeasure)  
+* [**The Goal Question Metric (GQM) Approach**](#gqm)  
+* [**Decision Maker Model**](#decisionmakermodel)  
+* [**Standards Driven Metrics**](#standardsdrivenmetrics)  
+* [**GQM + Mechanism (GQM2)**](#gqm2)  
+* [**What to Measure is a Function of Time**](#functionoftime)  
 
-## Overview
-At the heart of software process standards are clear estimation processes and a well-defined metrics program.  Even more important than being able to meet the standards, managing your software by the numbers, rather than by the seat of your pants, enables you to have repeatable results and continuous improvement. Yes, there will be less excitement and less unpaid overtime, since you will not end up as often with the “shortest schedule I can’t absolutely prove I won’t make.” [1].
+### [Measurement Fundamentals](#measurementfundamentals)
+* [**Measurement Models**](#measurementmodels)  
+ * Text Models
+ * Diagrammatic Models
+ * Algorithmic Models
+ * The Pantometric Paradigm: How to Measure Anything
+
+* [**Meta-Model for Metrics**](#meta-model)  
+* [**References:**](#references)  
+
+## <a name="overview">Overview</a>
+
+At the heart of software process standards are clear estimation processes and a well-defined metrics program.  Even more important than being able to meet the standards, managing your software by the numbers enables you to have repeatable results and continuous improvement.  [1].
 
 Software engineers need to be skilled in estimation and measurement, which means:
 
@@ -17,8 +37,9 @@ Software engineers need to be skilled in estimation and measurement, which means
 Bottom line: You must be able to satisfy your customer and know what you will spend doing it.
 
 To predict and control effectively you must be able to measure. To understand development progress, you must be able to measure. To understand and evaluate quality, you must be able to measure. Unfortunately, measurement, particularly in software, is not always easy. How do you predict how long it will take to build a system using tools and techniques you’ve never used before? Just envisioning the software that will be developed to meet a set of requirements may be difficult, let alone trying to determine the building blocks and how they will be mortared together. Many characteristics of the software seem difficult to measure. How do you measure quality or robustness? How do you measure the level of complexity? [1]
+[Back to top](#content)
 
-## What to Measure
+## <a name="whattomeasure">What to Measure</a>
 
 There are many characteristics of software and software projects that can be measured, such as size, complexity, reliability, quality, adherence to process, and profitability. For any particular software project or organization, the specific software measurements program to be used will need to be defined.  
 Fundamentally, to define an appropriate measurements program you need to answer the following questions:
@@ -36,8 +57,9 @@ To define an aligned metrics program, it is critical to engage your “customer�
 
 ----------
 
+[Back to top](#content)
 
-### The Goal Question Metric (GQM) Approach
+### <a name="gqm">The Goal Question Metric (GQM) Approach</a>
 
 The Goal Question Metric (GQM) approach, defined by Basili et al. [2], is a valuable, structured, and widely accepted method for answering the question of what to measure. GQM drives the definition of a metrics program from the top down:
 
@@ -61,7 +83,9 @@ Another metric that could be used to address this question is:
 
 This approach can be taken for any and all goals and stakeholders to define an aligned metrics program [1] (for entire sub-section).
 
-### Decision Maker Model
+[Back to top](#content)
+
+### <a name="decisionmakermodel">Decision Maker Model</a>
 
 Another method for selecting metrics is to focus on project decision making. The decision maker is the customer for the metric, with metrics produced to facilitate informed decision making. In this method, you need to determine what the needs of the decision maker are, recognizing that these will change over time [3]. This method is entirely consistent with the GQM method, with a focus on decisions that must be made. This concept is illustrated in the Figure below.
 
@@ -80,7 +104,9 @@ Understanding the decisions that must be made will naturally lead to the project
 
 With this method, look to the needs of the decision makers to define the metrics to be used. [1] (Entire section)
 
-### Standards Driven Metrics
+[Back to top](#content)
+
+### <a name="standardsdrivenmetrics">standards Driven Metrics</a>
 
 Both generic and industry-specific software engineering standards for collection and use of metrics are available. Some organizations use these to drive their metrics programs. For example, the Software Engineering Institute (SEI) software maturity model requires the measurement of system size, project time, level of effort, and software defects. SEI integrates these measures with the required processes in support of Project Management and Continuous Improvement. Laird and Brennan [cite] consider the SEI set, along with productivity, to be the minimal set for any organization. They define the minimal set to include:
 
@@ -94,7 +120,9 @@ Different industries may have their own standards for metrics, reliability, and 
 
 Under a standards-driven metrics approach, software managers should look for both industry and generic standards that are aligned with applicable business goals for an indication of metrics to be used [1] (Entire section).
 
-### GQM + Mechanism (GQM2)
+[Back to top](#content)
+
+### <a name="gqm2">GQM + Mechanism (GQM2)</a>
 
 There is an important addition to all of the above approaches that must be considered. The mechanism for collecting the metrics data must be well understood and agreed to before implementing the program.  The GQM2 approach adds this mechanism to GQM.  The Mechanism This includes identifying who will be responsible for ensuring the collection and reporting of valid data, how frequently the data will be collected, how frequently the data will be reported, and what infrastructure (e.g., tools, staff resources) will be needed to collect and report the data. [1]
 
@@ -106,6 +134,9 @@ Failing to understand and gain agreement on this last “M” can lead to numero
 - Project budgets are overrun due to the cost of the metrics program infrastructure.
 - Project schedules are overrun due to unplanned staff time for data entry and validation.
 
+[Back to top](#content)
+
+## <a name="functionsoftime">What to Measure is a Function of Time</a>
 ### What to Measure is a Function of Time
 
 One characteristic of any metrics program is that it is a function of time in three ways [1] (entire section): 
@@ -116,10 +147,15 @@ One characteristic of any metrics program is that it is a function of time in th
 
 - Third, metrics, especially when used as a factor in recognition and/or compensation, can lose their efficacy over time. Focus can become fixated on the metric itself and how to “manage the metric” rather than on the ultimate goal the project is trying to achieve. This may necessitate selecting a different metric that supports the goal or changing the way the existing metric is calculated.
 
-## Measurement Fundamentals
+[Back to top](#content)
+
+## <a name="measurementfundamentals">Measurement Fundamentals</a>
 
 In software, the issue is that so many things that we want to measure seem so “unmeasurable.” How do you measure the complexity of a program? What does complexity even mean? How do you measure productivity? If someone can write 100 lines of code in two hours to program a function, but the software has five bugs in it, is it reasonable productivity? And what is that productivity? Better yet, if someone else can program the same function in one line of code, in one hour, what is their productivity? Whose productivity is better? [1]
 
+[Back to top](#content)
+
+### <a name="measurementmodels">Measurement Models</a>
 ### Measurement Models
 
 The key to “making the unmeasurable measurable” is models. A model is an abstraction, which strips away unnecessary details and views an entity or concept from a particular perspective. Models allow us to focus on the important parts, ignore those that are irrelevant, and hypothesize and reason about an entity. Models make measurement possible.
@@ -185,7 +221,9 @@ You may be concerned about how to create a model. The Pantometric Paradigm [8] i
 
 Now you have a quantitative representation (model) of your subject which matches your definition. You can now manipulate it, reason about it, experiment with it, and evolve it.
 
-### Meta-Model for Metrics
+[Back to top](#content)
+
+### <a name="metal-model">Meta-Model for Metrics</a>
 
 Another method for creating models that takes abstract concepts to empirical measurements is from Kan [9], and is depicted below. You begin with an abstract concept, define it, create an operational definition, and then specify a real-world measurement. 
 
@@ -209,6 +247,9 @@ An example of this methodology, using the same response time example, is shown b
 
 There are attributes of software that we can define and measure directly, such as the number of modules in a system or the number of people assigned to a project. These are called “direct measures.” However, many of the attributes we want to measure are calculated, such as number of defects per thousand lines of code (KLOC) or average number of lines of code (LOC) produced per week. These are called “indirect measures.”
 
+[Back to top](#content)
+
+## <a name="references">References</a>
 ### References:
 
 [1] L. Laird and C. Brennan, Software Measurement and Estimation: A Practical Approach, IEEE Press 2006 Citation
@@ -230,3 +271,5 @@ There are attributes of software that we can define and measure directly, such a
 [9] S. Kan, Metrics and Models in Software Quality Engineering, 2nd ed., Addison-Wesley, Boston, 2003.
 
 [10] R.S. Kaplan and D.P. Norton, “The balanced scorecard—measures that drive performance,” The Harvard Business Review, 1992.
+
+[Back to top](#content)
