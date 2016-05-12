@@ -4,9 +4,9 @@ title: Cyber Aspects of LeSS
 ---
  <a name="content"></a>
  
- Trends, Concepts, Patterns, Issues
-
+## Trends, Concepts, Patterns, Issues
 ---
+
 
 
 ### [LEAN THINKING](#leanthinking)
