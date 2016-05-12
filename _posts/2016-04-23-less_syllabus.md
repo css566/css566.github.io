@@ -26,7 +26,7 @@ By the end of this unit, students should be able to:
  4. LeSS Practices
  5. [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %}) 
  6. Cyber Aspects of LeSS 
- 7. [Social Aspects of LeSS]({% post_url 2016-04-26-Social_aspects_of_LeSS %})
+ 7. [Social Aspects of LeSS]({% post_url 2016-05-11-Social_aspects_of_LeSS %})
  8. Software Management using LeSS
  9. Student Assessment of LeSS Unit
 
