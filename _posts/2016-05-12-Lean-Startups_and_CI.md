@@ -25,7 +25,7 @@ title: Lean Startups and Continuous Improvement
 
  ![enter image description here](https://github.com/css566/css566.github.io/blob/master/images/LeanStartupCyle.PNG?raw=true)
  
-  > Fig 1: Illustrates the working of A Lean Startup Cycle
+  > Fig 1: Illustrates the working of A Lean Startup Cycle[5]
   
 ## 2. What is Lean and Continuous Improvement? [3]
   Lean manufacturing is a continuous improvement model that strives to eliminate non-value-added activities. Continuous improvement is an organizational mindset that focuses on an ongoing effort to improve. There are a number of continuous improvement-type approaches that firms can adopt. Manufacturers that embrace an attitude of continuous improvement can be transformed into agile, more competitive, and more profitable businesses.
@@ -40,7 +40,7 @@ title: Lean Startups and Continuous Improvement
   ![enter image description here](https://github.com/css566/css566.github.io/blob/gh-pages/images/ContinuousImprov.PNG?raw=true)
   > Fig 3: The Management Process in Lean [7]
   
-## 4. Lean Manufacturing Vs. Continuous Improvement 
+## 4. Lean Manufacturing Vs. Continuous Improvement [6]
   Let’s start off by defining Lean manufacturing. Lean (as described on multiple on-line resources) is described as a production practice that focuses on the elimination of wasteful elements in all process to increase the value to the customer. Sounds great! What organization wouldn’t want to implement a program to eliminate waste? The problem is that some organizations misuse Lean Manufacturing to overwork and reduce headcount.
   Sure reducing headcount will save money in the short term. Let me assure you, it comes at a higher cost.
   Let’s say a manager forms a team of skilled individuals to rebalance processes on the line to remove operators. Soon, the operators who are left on the line will start noticing, leading to refusal to cooperate with any effort to make improvement. They will begin to resist changes due to the fact they are scared to lose their job or contribute to a co-worker loosing theirs. This causes stress, conflict, finger pointing and ultimately failure.
@@ -78,12 +78,13 @@ title: Lean Startups and Continuous Improvement
 
 ##REFERENCES
 
-  1.  (http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
-  2.	(https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)
-  3.	(http://www.nist.gov/mep/services/continuous-improvement/)
-  4.	(https://en.wikipedia.org/wiki/Lean_startup)
-  5.	(https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&q=lean+startups&imgrc=QvpG0vURNGrEUM%3A)
-  6.	(https://www.isixsigma.com/community/blogs/leanci/)
-  7.	https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A
+  [1] [Continuous Improvement](http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
+  [2]	(https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A)
+  [3]	[Lean and Continuous Improvement](http://www.nist.gov/mep/services/continuous-improvement/)
+  [4]	[Lean startup](https://en.wikipedia.org/wiki/Lean_startup)
+  [5]	[A Lean Startup Cycle](https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&q=lean+startups&imgrc=QvpG0vURNGrEUM%3A)
+  [6]	[Lean Manufacturing Vs. Continuous Improvement](https://www.isixsigma.com/community/blogs/leanci/)
+  [7]	[The Management Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
+  [8] [Lean startup and Continuous Improvement](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&q=leading+daily+improvement+katie)
 
 [Back to top](#content)
