@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 May 2016 23:13:14 +0000</pubDate>
-    <lastBuildDate>Thu, 12 May 2016 23:13:14 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 23:15:27 +0000</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 23:15:27 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -124,7 +124,9 @@
     
       <item>
         <title>Continuous Improvement Unit Syllabus</title>
-        <description>&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
 
 &lt;p&gt;Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities.&lt;/p&gt;
 
