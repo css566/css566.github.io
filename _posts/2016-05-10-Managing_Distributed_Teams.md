@@ -7,7 +7,7 @@ category: syllabus
 Managing Distributed Teams
 ===
 
-<h2><a name="contents">Contents</a></h2>
+<h2><a name="content">Contents</a></h2>
 * <a href="#overview">Overview</a>
 * <a href="#theories">Theories</a>
   * Social Identity Theory
