@@ -8,9 +8,12 @@ title: Physical Aspects of Kanban
 > Teams gathered around a Kanban board for the daily stand up meeting.  
 
 
-Image sources: http://www.technology-ebay.de/media/  
-http://jpattonassociates.com/kanban_oversimplified/  
-http://leankit.com/learn/kanban/kanban-software/  
+Image sources: 
+[http://www.technology-ebay.de/media/](http://www.technology-ebay.de/media/)
+
+[http://jpattonassociates.com/kanban_oversimplified](http://jpattonassociates.com/kanban_oversimplified/)
+
+[http://leankit.com/learn/kanban/kanban-software/](http://leankit.com/learn/kanban/kanban-software/)
 
 
 ### Quick Kanban Overview
