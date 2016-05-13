@@ -4,9 +4,10 @@ title: Physical Aspects of Kanban
 ---
 
 ![Example Kanban gatherings](https://raw.githubusercontent.com/css566/css566.github.io/gh-pages/images/SM_Unit_Physical_Kanban_4.png)  
-> Teams gathered around a Kanban board for the daily stand up meeting.
+> Teams gathered around a Kanban board for the daily stand up meeting.  
 
-Image sources: http://www.technology-ebay.de/media/  
+
+Image sources: http://www.technology-ebay.de/media/
 http://jpattonassociates.com/kanban_oversimplified/  
 http://leankit.com/learn/kanban/kanban-software/
 
