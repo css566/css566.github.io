@@ -2,7 +2,7 @@ require 'html-proofer'
 
 task :test do
   sh "bundle exec jekyll build"
-  HTMLProofer.check_directory("./_site",{
+  HTMLProofer.check_directory("./out",{
   		:allow_hash_href=> true,
   		:url_ignore => [/linkedin.com/],
   	}).run
