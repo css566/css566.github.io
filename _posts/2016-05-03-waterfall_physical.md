@@ -152,7 +152,7 @@ Testing may also involve multiple test environments, such as shown below.
  
 > Separate equipment required for multiple development, test and production environments
 
-[Source: testyantra.co.uk](http://testyantra.co.uk/cloud-testing)
+[Source: testyantra.co.uk](/images/testyantra_cloud_testing.png)
 
 -----------
  
