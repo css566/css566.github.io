@@ -5,13 +5,15 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 05:53:58 +0000</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 05:53:58 +0000</lastBuildDate>
+    <pubDate>Tue, 17 May 2016 05:59:52 +0000</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 05:59:52 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Capability Maturity Model Integration</title>
-        <description>&lt;p&gt;Capability Maturity Model Integration (CMMI) is a process improvement training and appraisal program and service administered and marketed by Carnegie Mellon University (CMU) and required by many DoD and U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire organization.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Capability Maturity Model Integration (CMMI) is a process improvement training and appraisal program and service administered and marketed by Carnegie Mellon University (CMU) and required by many DoD and U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire organization.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/cmmi_levels.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
 
@@ -21,7 +23,51 @@
 
 &lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Characteristics_of_Capability_Maturity_Model.svg/800px-Characteristics_of_Capability_Maturity_Model.svg.png&quot;&gt;Source: CMMI levels&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The process areas below and their maturity levels are listed for the CMMI for Services model:&lt;/p&gt;
+
+&lt;h3 id=&quot;maturity-level-2--managed&quot;&gt;Maturity Level 2  Managed&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CM Configuration Management&lt;/li&gt;
+  &lt;li&gt;MA Measurement and Analysis&lt;/li&gt;
+  &lt;li&gt;PPQA Process and Product Quality Assurance&lt;/li&gt;
+  &lt;li&gt;REQM Requirements Management&lt;/li&gt;
+  &lt;li&gt;SAM Supplier Agreement Management&lt;/li&gt;
+  &lt;li&gt;SD Service Delivery&lt;/li&gt;
+  &lt;li&gt;WMC Work Monitoring and Control&lt;/li&gt;
+  &lt;li&gt;WP Work Planning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-3--defined&quot;&gt;Maturity Level 3  Defined&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CAM Capacity and Availability Management&lt;/li&gt;
+  &lt;li&gt;DAR Decision Analysis and Resolution&lt;/li&gt;
+  &lt;li&gt;IRP Incident Resolution and Prevention&lt;/li&gt;
+  &lt;li&gt;IWM Integrated Work Managements&lt;/li&gt;
+  &lt;li&gt;OPD Organizational Process Definition&lt;/li&gt;
+  &lt;li&gt;OPF Organizational Process Focus&lt;/li&gt;
+  &lt;li&gt;OT Organizational Training&lt;/li&gt;
+  &lt;li&gt;RSKM Risk Management&lt;/li&gt;
+  &lt;li&gt;SCON Service Continuity&lt;/li&gt;
+  &lt;li&gt;SSD Service System Development&lt;/li&gt;
+  &lt;li&gt;SST Service System Transition&lt;/li&gt;
+  &lt;li&gt;STSM Strategic Service Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-4--quantitatively-managed&quot;&gt;Maturity Level 4  Quantitatively Managed&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OPP Organizational Process Performance&lt;/li&gt;
+  &lt;li&gt;QWM Quantitative Work Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-5--optimizing&quot;&gt;Maturity Level 5  Optimizing&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CAR Causal Analysis and Resolution&lt;/li&gt;
+  &lt;li&gt;OPM Organizational Performance Management&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/cmmi_wheel.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
 
@@ -30,40 +76,6 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.webelite.com/images/cmmi_wheel.png&quot;&gt;Source: CMMI cycle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The process areas below and their maturity levels are listed for the CMMI for Services model:&lt;/p&gt;
-
-&lt;p&gt;Maturity Level 2 - Managed
-- CM: Configuration Management
-- MA: Measurement and Analysis
-- PPQA: Process and Product Quality Assurance
-- REQM: Requirements Management
-- SAM: Supplier Agreement Management
-- SD: Service Delivery
-- WMC: Work Monitoring and Control
-- WP: Work Planning&lt;/p&gt;
-
-&lt;p&gt;Maturity Level 3 - Defined
-- CAM: Capacity and Availability Management
-- DAR: Decision Analysis and Resolution
-- IRP: Incident Resolution and Prevention
-- IWM: Integrated Work Managements
-- OPD: Organizational Process Definition
-- OPF: Organizational Process Focus
-- OT: Organizational Training
-- RSKM: Risk Management
-- SCON: Service Continuity
-- SSD: Service System Development
-- SST: Service System Transition
-- STSM: Strategic Service Management&lt;/p&gt;
-
-&lt;p&gt;Maturity Level 4 - Quantitatively Managed
-- OPP: Organizational Process Performance
-- QWM: Quantitative Work Management&lt;/p&gt;
-
-&lt;p&gt;Maturity Level 5 - Optimizing
-- CAR: Causal Analysis and Resolution
-- OPM: Organizational Performance Management&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
