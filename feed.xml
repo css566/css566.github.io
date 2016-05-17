@@ -5,15 +5,15 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 05:37:20 +0000</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 05:37:20 +0000</lastBuildDate>
+    <pubDate>Tue, 17 May 2016 05:41:48 +0000</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 05:41:48 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Capability Maturity Model Integration</title>
         <description>&lt;p&gt;Capability Maturity Model Integration (CMMI) is a process improvement training and appraisal program and service administered and marketed by Carnegie Mellon University (CMU) and required by many DoD and U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire organization.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/cmmi_levels.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;270&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cmmi_levels.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;CMMI Levels&lt;/p&gt;
@@ -27,7 +27,7 @@
 *Service establishment, management, — CMMI for Services (CMMI-SVC), and
 *Product and service acquisition — CMMI for Acquisition (CMMI-ACQ).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/cmmi_wheels.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;270&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cmmi_wheel.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;350&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;CMMI Cycle&lt;/p&gt;
@@ -35,38 +35,39 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.webelite.com/images/cmmi_wheel.png&quot;&gt;Source: CMMI cycle&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The process areas below and their maturity levels are listed for the CMMI for Services model:
-Maturity Level 2 - Managed
-CM - Configuration Management
-MA - Measurement and Analysis
-PPQA - Process and Product Quality Assurance
-REQM - Requirements Management
-SAM - Supplier Agreement Management
-SD - Service Delivery
-WMC - Work Monitoring and Control
-WP - Work Planning&lt;/p&gt;
+&lt;p&gt;The process areas below and their maturity levels are listed for the CMMI for Services model:&lt;/p&gt;
+
+&lt;p&gt;Maturity Level 2 - Managed
+* CM - Configuration Management
+* MA - Measurement and Analysis
+* PPQA - Process and Product Quality Assurance
+* REQM - Requirements Management
+* SAM - Supplier Agreement Management
+* SD - Service Delivery
+* WMC - Work Monitoring and Control
+* WP - Work Planning&lt;/p&gt;
 
 &lt;p&gt;Maturity Level 3 - Defined
-CAM - Capacity and Availability Management
-DAR - Decision Analysis and Resolution
-IRP - Incident Resolution and Prevention
-IWM - Integrated Work Managements
-OPD - Organizational Process Definition
-OPF - Organizational Process Focus
-OT - Organizational Training
-RSKM - Risk Management
-SCON - Service Continuity
-SSD - Service System Development
-SST - Service System Transition
-STSM - Strategic Service Management&lt;/p&gt;
+* CAM - Capacity and Availability Management
+* DAR - Decision Analysis and Resolution
+* IRP - Incident Resolution and Prevention
+* IWM - Integrated Work Managements
+* OPD - Organizational Process Definition
+* OPF - Organizational Process Focus
+* OT - Organizational Training
+* RSKM - Risk Management
+* SCON - Service Continuity
+* SSD - Service System Development
+* SST - Service System Transition
+* STSM - Strategic Service Management&lt;/p&gt;
 
 &lt;p&gt;Maturity Level 4 - Quantitatively Managed
-OPP - Organizational Process Performance
-QWM - Quantitative Work Management&lt;/p&gt;
+* OPP - Organizational Process Performance
+* QWM - Quantitative Work Management&lt;/p&gt;
 
 &lt;p&gt;Maturity Level 5 - Optimizing
-CAR - Causal Analysis and Resolution
-OPM - Organizational Performance Management&lt;/p&gt;
+* CAR - Causal Analysis and Resolution
+* OPM - Organizational Performance Management&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
