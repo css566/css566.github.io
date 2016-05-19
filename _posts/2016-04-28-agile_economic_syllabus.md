@@ -8,9 +8,7 @@ Overview
 -------------
 In order to further develop the content for the Software Management (SM) course, we are iteratively creating in CSS 566 a part of the course, known as the Product. Each of the three teams is creating a Unit for Sprint 1 that is focused on a Physical aspect of SM, a Social aspect of SM, or an Economic aspect of SM. Team It’s a Secret is focusing on the Economic aspect for its Unit, as defined in this document. 
 
-
 Much of the economically-focused angle of this Unit is derived from the Manifesto for Agile Software Management:
-
 
 >“We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
