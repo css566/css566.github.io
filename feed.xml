@@ -5,9 +5,56 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 05:59:52 +0000</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 05:59:52 +0000</lastBuildDate>
+    <pubDate>Thu, 19 May 2016 18:49:45 +0000</pubDate>
+    <lastBuildDate>Thu, 19 May 2016 18:49:45 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Agile Software Management Economic Unit Principles</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Working software as a minimum shippable product
+    &lt;ul&gt;
+      &lt;li&gt;Working software that is continuously delivered creates visibility into the process and helps eliminate wasted time and resources (i.e. money) [1]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Responding to Change
+    &lt;ul&gt;
+      &lt;li&gt;“If we built the wrong thing, we can stop wasting money on that path.” [3]&lt;/li&gt;
+      &lt;li&gt;Risk is reduced because business is more able to rapidly respond to change and adapt to changing competitive and technological landscape [1]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Customer collaboration [2]
+    &lt;ul&gt;
+      &lt;li&gt;Customers and business gets better product in the end with Agile because their needs are addressed continually. Happier customers = healthier business finances&lt;/li&gt;
+      &lt;li&gt;Customer collaboration creates transparency and trust with them, resulting in evangelists for the business/software and more demand for your software [3]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;People and interactions over processes and tools
+    &lt;ul&gt;
+      &lt;li&gt;Agile prefers small, cross-org teams over monolithic large teams, leading to faster decisions and mitigation of risks of bad decisions. [3]
+        &lt;ul&gt;
+          &lt;li&gt;This has an indirect financial impact that ties in with less wasted resources&lt;/li&gt;
+          &lt;li&gt;Focus on people, both internal and external (employees and customers), results in many social benefits such as sense of ownership, flexibility in approach, dynamic adaptability, and trust with customers. Happier people = better product = happier customers = better business value&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Customer-Focused-Approach.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 1. Agile focus on customers and people allows for rapid adaptation to customer expectations, as illustrated. Source: [11]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/agile_economic_syllabus.html&quot;&gt;Unit Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/19/agile_economic_principles.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_principles.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Capability Maturity Model Integration</title>
@@ -1150,32 +1197,6 @@ https://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pd
         <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/09/MD_Table_Test.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/09/MD_Table_Test.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>HTML Table Test</title>
-        <description>&lt;h1 id=&quot;html-table-test&quot;&gt;HTML Table Test&lt;/h1&gt;
-&lt;p&gt;# Heading for Grins&lt;/p&gt;
-
-&lt;p&gt;The following table summarizes the concepts used in these different management theories.  It was taken from Mallette’s 2005 paper. &lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;th&gt;
-Management Concept&lt;/th&gt;&lt;th&gt;Theory X Douglas McGregor&lt;/th&gt;&lt;th&gt;Theory Y Douglas McGregor&lt;/th&gt;&lt;th&gt;Theory Z William Ouchi&lt;/th&gt;&lt;th&gt;Theory Pi Leo A. Mallette&lt;/th&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
-&lt;tr&gt;&lt;td&gt;Motivation&lt;/td&gt;&lt;td&gt;Tends to categorize people as being unwilling or unmotivated to work. Threats and disciplinary action are thought to be used more effectively in this situation, although monetary rewards can also be a prime motivator to make workers produce more.&lt;/td&gt;&lt;td&gt;Tends to categorize people as being self-motivated towards work.&lt;/td&gt;&lt;td&gt;Believes that people are innately self-motivated to not only do their work, but also are loyal towards the company, and want to make the company succeed.&lt;/td&gt;&lt;td&gt;People are fiercely self-motivated by their task or project. They are loyal to their field of interest at the time – which may only be loosely related to the goals of the leadership of the company. &lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Leadership&lt;/td&gt;&lt;td&gt;Theory X leaders would be more authoritarian. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;&lt;td&gt;Theory Y leaders would be more participative. But in both [X &amp;amp; Y] cases it seems that the managers would still retain a great deal of control.&lt;/td&gt;&lt;td&gt;Theory Z managers would have to have a great deal of trust that their workers could make sound decisions. Therefore, this type of leader is more likely to act as “coach”, and let the workers make most of the decisions.&lt;/td&gt;&lt;td&gt;Theory Pi leaders are hands-off to the point of abdicating responsibility. They only occasionally need to reel in a stray engineer when a project goes too far astray. &lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Power &amp;amp; Authority&lt;/td&gt;&lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority.&lt;/td&gt;&lt;td&gt;As mentioned above, McGregor’s managers … would seem to keep most of the power and authority. In the case of Theory Y, the manager would take suggestions from workers, but would keep the power to implement the decision.&lt;/td&gt;&lt;td&gt;The manager’s ability to exercise power and authority comes from the worker’s trusting management to take care of them, and allow them to do their jobs. The workers have a great deal of input and weight in the decision making process.&lt;/td&gt;&lt;td&gt;The leader’s authority stems from positional authority. Their power is rooted in their own expert knowledge, and in the technical depth of their staff. &lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Conflict&lt;/td&gt;&lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, especially with the Theory X workers.&lt;/td&gt;&lt;td&gt;This type of manager might be more likely to exercise a great deal of “power” based conflict resolution style, [but less than] with the Theory X workers. Theory Y workers might be given the opportunity to exert “negotiating” strategies to solve their own differences.&lt;/td&gt;&lt;td&gt;Conflict in the Theory Z arena would involve a great deal of discussion, collaboration, and negotiation. The workers would be the ones solving the conflicts, while the managers would play more of a “third party arbitrator” role.&lt;/td&gt;&lt;td&gt;Conflict resolution is always by logical reasoning and consensus. Managers would participate as an equal and sanction the decision. 
-&lt;tr&gt;&lt;td&gt;Performance Appraisals&lt;/td&gt;&lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;&lt;td&gt;Appraisals occur on a regular basis. Promotions also occur on a regular basis.&lt;/td&gt;&lt;td&gt;Theory Z emphasizes more frequent performance appraisals, but slower promotions.&lt;/td&gt;&lt;td&gt;Mandatory periodic appraisals are based on successful conclusion of (or progress on) projects, reports, published papers, or patent submissions. Promotions are rare since employees are motivated to continue working on their tasks. &lt;/td&gt;&lt;/tr&gt;
-
-This text should appear after the table. My experience is that the table will always be at the end, if the table works at all.
-&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-</description>
-        <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/09/HTML_Table_Test.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/09/HTML_Table_Test.html</guid>
         
         
       </item>
