@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 May 2016 19:04:56 +0000</pubDate>
-    <lastBuildDate>Thu, 19 May 2016 19:04:56 +0000</lastBuildDate>
+    <pubDate>Thu, 19 May 2016 19:11:40 +0000</pubDate>
+    <lastBuildDate>Thu, 19 May 2016 19:11:40 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -138,6 +138,82 @@
         <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/19/agile_economic_practices_theories.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_practices_theories.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Agile Software Management Economic Unit Case Studies</title>
+        <description>&lt;p&gt;1) &lt;strong&gt;“Mugshot.com” Website&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
+In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP.&lt;/p&gt;
+
+&lt;p&gt;Some principles that they are going to use are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bugs cost more the longer we wait&lt;/li&gt;
+  &lt;li&gt;Requirements change&lt;/li&gt;
+  &lt;li&gt;Some requirements are wrong&lt;/li&gt;
+  &lt;li&gt;Software depreciates&lt;/li&gt;
+  &lt;li&gt;We can choose when to stop developing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 4. Team structure and budget planning for Mugshot website. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Figure 4 describes the structure of the team that is going to work on developing the website.&lt;/p&gt;
+
+&lt;p&gt;They have taken a team of 6 developers who will be working on developing the website. And they are going to include everybody on that team. They have four software engineers, a DBA and a QA. Each of them cost 2000/week. Total comes out to be $12000/week. There are 120 requirements to start with, given a requirement stack. Almost 20% of requirements are invalid. And they are getting approximately two changes a week. Each developer is putting four bugs per day in the code.  The longer the bug sticks around, the more it costs to fix. For the first 7 days, it takes 15 minutes. For first 30 days, it takes 30 minutes. Thereafter, they are gonna take 90 minutes to fix. The purpose of this is to model some of the things that we see in industry and try to compare short-cycle vs long-cycle that is, agile practices  vs more traditional long cycle practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_3.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 5. Traditional Approach - Cost Summary. Source of image: [4]&lt;/p&gt;
+
+&lt;p&gt;What this comes down when you plug all these numbers in is, its gonna cost them about almost half a million dollars to develop in a traditional sense (Refer figure 2), with discovery and estimation, implementation, fixing bugs. It is interesting to see that, the bug fixing phase cost them the most. Almost $330000 just to fix the bugs and stabilize for a total cost of half a million dollars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 6: Agile Approach - Cost Summary. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Figure 6 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/revenue_comparison.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 7. Revenue Comparison of Agile vs. Traditioanl development for Mugshot website case study. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;From figure 7,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/overall_comparison.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 8. Overall Comparison. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Overall comparison is shown in figure 8. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.&lt;/p&gt;
+
+&lt;p&gt;2) &lt;strong&gt;SAFe [8]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 9. SAFe constructs for economic decision-making. Source: [8]&lt;/p&gt;
+
+&lt;p&gt;Figure 9 illustrates how economic framework decision rules are embedded in SAFe. The components are as following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lean agile budgeting: This is the very first decision and kind of an important one, as lean-agile enterprise moves from project-based cost-center accounting to a more streamlined budget process. In particular, cost for each program increment is largely fixed and scope is varied as necessary to stay within the PI budget.&lt;/li&gt;
+  &lt;li&gt;Epic funding and governance: Allocating funds to the value streams is all well and good, but what happens when there are substantial concerns such as significant local investment concerns? The empowerment of funding requires responsibility to communicate any investments that are beyond routine.&lt;/li&gt;
+  &lt;li&gt;Decentralize economic decision-making: With these elements of the framework in place, enterprise empowers people relevant context and knowledge to make content decisions at each level of the framework.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Job sequencing based on cost of delay: Every significant program has a host of new backlog features and capabilities just waiting to be implemented in order to increase efficacy of the solution. But SAFe is a flow-based system and flow-based system economics are optimized by job-sequencing rather than by theoretical job ROI. Picking the right next job is where the greatest benefit lies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/agile_economic_syllabus.html&quot;&gt;Unit Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/19/agile_economic_case_studies.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_case_studies.html</guid>
         
         
       </item>
@@ -771,453 +847,6 @@ https://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pd
         <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cyber Aspects of LeSS</title>
-        <description>&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;trends-concepts-patterns-issues&quot;&gt;Trends, Concepts, Patterns, Issues&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;lean-thinkingleanthinking&quot;&gt;&lt;a href=&quot;#leanthinking&quot;&gt;LEAN THINKING&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Concepts&lt;/li&gt;
-  &lt;li&gt;Patterns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;technical-excellencetechnicalexcellence&quot;&gt;&lt;a href=&quot;#technicalexcellence&quot;&gt;TECHNICAL EXCELLENCE&lt;/a&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#architecture-design&quot;&gt;&lt;strong&gt;Architecture &amp;amp; Design&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-      &lt;li&gt;Issues&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tdd&quot;&gt;&lt;strong&gt;Test Driven Development&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Issues&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#byexample&quot;&gt;&lt;strong&gt;Specification by Example or Acceptance test-driven development (A-TDD)&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#testautomation&quot;&gt;&lt;strong&gt;Test Automation&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#continuous-integration&quot;&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Issues&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#acceptancetesting&quot;&gt;&lt;strong&gt;Acceptance Testing&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#unittesting&quot;&gt;&lt;strong&gt;Unit Testing&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#productbacklog&quot;&gt;&lt;strong&gt;Product Backlog&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Concepts&lt;/li&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pbrefinement&quot;&gt;&lt;strong&gt;Product Backlog Refinement&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#coordination-integration&quot;&gt;&lt;strong&gt;Coordination &amp;amp; Integration&lt;/strong&gt;&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Patterns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-nameleanthinkinglean-thinkinga&quot;&gt;&lt;a name=&quot;leanthinking&quot;&gt;LEAN THINKING&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;% Utilization of Resources&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Value-to-waste ratio&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cycle times&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Value of information - also, create useful knowledge&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Data Driven - experiment, collect data, adapt based on data&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focus on early testing and feedback&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focus on large-scale test automation&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focus on continuous integration&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nametechnicalexcellencetechnical-excellencea&quot;&gt;&lt;a name=&quot;technicalexcellence&quot;&gt;TECHNICAL EXCELLENCE&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-namearchitecture-designarchitecture--designa&quot;&gt;&lt;a name=&quot;architecture-design&quot;&gt;Architecture &amp;amp; Design&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-1&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Source code is the real design&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Risk-driven development&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Agility through low coupling&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns-1&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Very early, develop a walking skeleton with tracer code&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Incrementally build ‘vertical’ architectural slices of customer-centric features&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Do customer-centric features with major architectural impact first&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;HTML-ize and hyperlink your entire source code, daily&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use lots of stubs, plus dependency injection&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use architectural and design patterns&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Wrap calls to remote components with proxies or adapters&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;issues&quot;&gt;Issues&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Intended architecture (speculated, wished for) versus actual architecture&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Architecture is performed once near the start, often in documents&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Architecture overlaps with requirements analysis&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Start with indirect interaction between major components, then replace as needed&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Message-oriented middleware (MOM) can be slow, may need to change to SOAP or Java RMI for remote clients.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nametddtest-driven-development-tdda&quot;&gt;&lt;a name=&quot;tdd&quot;&gt;Test Driven Development (TDD)&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;patterns-2&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;p&gt;Short cycles of:
- 1. Write one test.
- 2. Implement just enough code to make it pass.
- 3. Refactor the code so it is clean.&lt;/p&gt;
-
-&lt;h3 id=&quot;concepts-2&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Short&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rhythmic&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Incremental&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Design-focused&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Disciplined&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Encourages lower coupling and simple, flexible configuration&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;issues-1&quot;&gt;Issues&lt;/h3&gt;
-
-&lt;p&gt;When a developer creates a new component (such as a class) with TDD, or refactors a legacy component to be unit-testable, they must break the dependencies of that component so that it is testable in isolation&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-namebyexample-specification-by-example-or-acceptance-test-driven-development-a-tdd-a&quot;&gt;&lt;a name=&quot;byexample&quot;&gt; Specification by Example or Acceptance test-driven development (A-TDD) &lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;patterns-3&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Condense workflow in business rules&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Expressing business rules in tables makes them more comprehensible&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use an A-TDD Tool&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nametestautomation-test-automation-a&quot;&gt;&lt;a name=&quot;testautomation&quot;&gt; Test Automation &lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-3&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Scripted testing - automated&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Exploratory testing - not automated&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns-4&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Create maintainable tests
-    &lt;ul&gt;
-      &lt;li&gt;remove duplication in and between tests&lt;/li&gt;
-      &lt;li&gt;delete tests when not adding value&lt;/li&gt;
-      &lt;li&gt;do not test through the UI&lt;/li&gt;
-      &lt;li&gt;run tests frequently&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Treat non-functionals the same as functionals&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Continuously run long-running tests&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use virtualization or containers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Avoid using commercial test tools&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-namecontinuous-integrationcontinuous-integrationa&quot;&gt;&lt;a name=&quot;continuous-integration&quot;&gt;Continuous Integration&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-4&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Shared Code&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Working in small batches–iteratively.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns-5&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Integrating at least daily&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;supported by a CI system&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;with lots of automated tests&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;build and test need to be fully automated&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Multi-stage CI:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;a developer build&lt;/li&gt;
-      &lt;li&gt;component or feature focus&lt;/li&gt;
-      &lt;li&gt;automatic or manual promotion&lt;/li&gt;
-      &lt;li&gt;event or time triggers&lt;/li&gt;
-      &lt;li&gt;the number of stages&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;issues-2&quot;&gt;Issues&lt;/h3&gt;
-
-&lt;p&gt;Many large products have legacy code without automated tests. Developers need to add automated tests–which is a lot of work.&lt;/p&gt;
-
-&lt;p&gt;Probability of breaking the build increases with more people checking in code. Address by:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;build incrementally&lt;/li&gt;
-  &lt;li&gt;deploy incrementally&lt;/li&gt;
-  &lt;li&gt;manage dependencies&lt;/li&gt;
-  &lt;li&gt;refactor tests&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Increase in code size leads to a slower build and thus a slower CI feedback loop. Upgrading tools to the latest version or replacing a slow tool with a fast one speeds up the build a lot.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nameacceptancetestingacceptance-testinga&quot;&gt;&lt;a name=&quot;acceptancetesting&quot;&gt;Acceptance Testing&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-5&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;UAT is a subset of acceptance tests&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nameunittestingunit-testinga&quot;&gt;&lt;a name=&quot;unittesting&quot;&gt;Unit Testing&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-6&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unit testing Facilitates changes&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unit testing Simplifies integration&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unit testing Provides documentation&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unit testing Serves as design tool&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Total cost of ownership is low&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tests Internal Quality vs. External Quality&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Feedback is precise and actionable&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns-6&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;unit test should be small and test only limited piece of code functionality&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;AAA: Arrange, Act and Assert&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Behaviour Driven Development (BDD)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nameproductbacklogproduct-backloga&quot;&gt;&lt;a name=&quot;productbacklog&quot;&gt;Product Backlog&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;concepts-7&quot;&gt;Concepts&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Multiple teams building a single product work from a single Product Backlog.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Avoid unnecessary and costly complication by using the simplest tools possible for managing the Product Backlog.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;patterns-7&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;p&gt;A good Product Backlog must:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;have estimates for all items,&lt;/li&gt;
-  &lt;li&gt;have finer grained items at the top and coarser grained items further down, and&lt;/li&gt;
-  &lt;li&gt;be prioritized.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-namepbrefinementproduct-backlog-refinementa&quot;&gt;&lt;a name=&quot;pbrefinement&quot;&gt;Product Backlog Refinement&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;patterns-8&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;split big items&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;do very lightweight item analysis for basic understanding&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;estimate items&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;identify strongly-related items that suggest shared work, common work, or coordination&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-namecoordination-integrationcoordination--integrationa&quot;&gt;&lt;a name=&quot;coordination-integration&quot;&gt;Coordination &amp;amp; Integration&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;patterns-9&quot;&gt;Patterns&lt;/h3&gt;
-
-&lt;p&gt;Communicate in Code - use continuous integration to keep track of what others are doing. When you synchronize, look at the changes others have made.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/11/Cyber_aspects_of_LeSS.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/11/Cyber_aspects_of_LeSS.html</guid>
         
         
       </item>
