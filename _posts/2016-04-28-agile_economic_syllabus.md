@@ -26,7 +26,10 @@ Much of the economically-focused angle of this Unit is derived from the Manifest
 
 This Unit focuses on the economics aspects of Agile Software Management vs. Waterfall Software Management, as the general topic of Economics in Software Engineering is broad enough for its own course. In particular, since Agile SM is the focus of the Product and it is assumed that “Waterfall is dead” [class discussion with Professor Socha, CSS 566, Spring 2016], many of the points will be presenting advantages of Agile development over Waterfall.
 
+Topics
+------------
 
+- [Agile Economic Principles]({% post_url 2016-05-19-agile_economic_principles %})
 
 
 Practices and Theories
