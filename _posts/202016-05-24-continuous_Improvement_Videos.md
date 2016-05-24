@@ -3,7 +3,7 @@ layout: post
 title: continuous Improvement - Related Videos
 ---
 
-# Continuous Improvement in Software Management Videos
+# Continuous Improvement Videos
 
 [Creating A Continuous Improvement Culture](https://www.youtube.com/watch?v=KyhR9hvMlPw)  
 This video focuses on how to create a continuous improvement culture in an organization. 
