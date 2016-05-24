@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 May 2016 01:35:16 +0000</pubDate>
-    <lastBuildDate>Tue, 24 May 2016 01:35:16 +0000</lastBuildDate>
+    <pubDate>Tue, 24 May 2016 02:04:19 +0000</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 02:04:19 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -535,7 +535,6 @@ In this video (cited in references [4]), Chad has demonstrated a side-by-side co
   &lt;li&gt;&lt;a href=&quot;#practices&quot;&gt;Practices&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#resources&quot;&gt;Resources&lt;/a&gt;
     &lt;ul&gt;
-      &lt;li&gt;Videos&lt;/li&gt;
       &lt;li&gt;Blogs&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -544,6 +543,8 @@ In this video (cited in references [4]), Chad has demonstrated a side-by-side co
 
 &lt;h2&gt;&lt;a name=&quot;overview&quot;&gt;Overview&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Software management for distributed teams has unique challenges.  Distributed teams are geographically separated.  There may also be cultural or language barriers. Communication requires additional effort.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guhgE9N0AGA&quot; title=&quot;what is Distributed Teams&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg&quot; alt=&quot;what is Distributed Teams&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2&gt;&lt;a name=&quot;theories&quot;&gt;Theories&lt;/a&gt;&lt;/h2&gt;
 &lt;h3&gt;Social Identity Theory&lt;/h3&gt;
@@ -568,6 +569,10 @@ Traditionally, trust has been examined in the context of long-term relationships
 &lt;h3&gt;Time zone, language, and cultural barriers&lt;/h3&gt;
 &lt;p&gt;It is vital to create overlapping office hours so that remote teams can communicate, resolve problems, and bridge time zones for other mission-critical tasks. More overlapping time during the day fosters better engagement and collaboration. When team members come from different cultural backgrounds, language and cultural differences can easily create misunderstanding and generate mistrust among team members. In addition, team members in different regions generally have varying degrees of skill and technology expertise, which can create a class system between the different remote teams and hinder collaboration. W H I T E PA P E R : Successful Distributed Agile Team Working Patterns&lt;/p&gt;
 
+&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.&lt;/p&gt;
+
+&lt;p&gt;Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
+
 &lt;h3&gt;Communication&lt;/h3&gt;
 &lt;p&gt;As outlined in the section above, different time zones create communication challenges for teams. Overlapping office hours facilitate periods for discussions, problem solving, remote pairing, and other activities that contribute to a project’s success. It is crucial to create as much overlapping time during the day as possible. Team members at different locations often fall back to using low bandwidth communication channels, such as emails or documents, which generates large amounts of lost or misunderstood information. Therefore, high bandwidth communication tools such as video conferencing or desktop sharing should be used as frequently as possible.&lt;/p&gt;
 
@@ -583,6 +588,8 @@ https://www.mindtools.com/pages/article/newTMM_40.htm&lt;/p&gt;
 &lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2&gt;&lt;a name=&quot;practices&quot;&gt;Practices&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGg23p_ksp8&quot; title=&quot;Managing distributed teams!&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg&quot; alt=&quot;Managing distributed teams,5 golden rules &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Build “The A Team“&lt;/h3&gt;
 
@@ -614,22 +621,11 @@ https://www.mindtools.com/pages/article/newTMM_40.htm&lt;/p&gt;
 
 &lt;h2&gt;&lt;a name=&quot;resources&quot;&gt;Resources&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h3&gt;Videos&lt;/h3&gt;
-
-&lt;h4&gt;what is Distributed Teams&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guhgE9N0AGA&quot; title=&quot;what is Distributed Teams&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg&quot; alt=&quot;what is Distributed Teams&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;Managing distributed teams&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGg23p_ksp8&quot; title=&quot;Managing distributed teams!&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg&quot; alt=&quot;Managing distributed teams,5 golden rules &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
 &lt;h3&gt;Blogs&lt;/h3&gt;
 
 &lt;h4&gt;Getting most out your geographically distributed agile team &lt;/h4&gt;
-&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.&lt;/p&gt;
-
-&lt;p&gt;Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
+&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.
+Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
 
 &lt;h4&gt;Virtual community of practice &lt;/h4&gt;
 &lt;p&gt;This Wikipedia page talks about what is online community of practice also called as virtual community of practice, current research, its advantages, disadvantages and some real world examples.&lt;/p&gt;
