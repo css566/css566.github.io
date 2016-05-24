@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Distributed Teams
-date: 2016-05-12
+date: 2016-05-23
 category: syllabus
 ---
 Managing Distributed Teams
