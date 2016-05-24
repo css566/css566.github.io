@@ -22,12 +22,13 @@ Managing Distributed Teams
   * Project and process management
 * <a href="#practices">Practices</a>
 * <a href="#resources">Resources</a>
-  * Videos
-  * Blogs
+   * Blogs
 * <a href="#references">References</a>
 
 <h2><a name="overview">Overview</a></h2>
 Software management for distributed teams has unique challenges.  Distributed teams are geographically separated.  There may also be cultural or language barriers. Communication requires additional effort.
+
+[![what is Distributed Teams](https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=guhgE9N0AGA "what is Distributed Teams")
 
 <h2><a name="theories">Theories</a></h2>
 <h3>Social Identity Theory</h3>
@@ -52,6 +53,11 @@ Nothing is more important than this crucial element of a hyper-productive team, 
 <h3>Time zone, language, and cultural barriers</h3> 
 It is vital to create overlapping office hours so that remote teams can communicate, resolve problems, and bridge time zones for other mission-critical tasks. More overlapping time during the day fosters better engagement and collaboration. When team members come from different cultural backgrounds, language and cultural differences can easily create misunderstanding and generate mistrust among team members. In addition, team members in different regions generally have varying degrees of skill and technology expertise, which can create a class system between the different remote teams and hinder collaboration. W H I T E PA P E R : Successful Distributed Agile Team Working Patterns
 
+Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.
+
+Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team 
+
+
 <h3>Communication</h3>
 As outlined in the section above, different time zones create communication challenges for teams. Overlapping office hours facilitate periods for discussions, problem solving, remote pairing, and other activities that contribute to a project’s success. It is crucial to create as much overlapping time during the day as possible. Team members at different locations often fall back to using low bandwidth communication channels, such as emails or documents, which generates large amounts of lost or misunderstood information. Therefore, high bandwidth communication tools such as video conferencing or desktop sharing should be used as frequently as possible. 
 
@@ -68,6 +74,7 @@ Back to <a href="#content">top</a>
 
 <h2><a name="practices">Practices</a></h2>
 
+[![Managing distributed teams,5 golden rules ](https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FGg23p_ksp8 "Managing distributed teams!")
 
 <h3>Build “The A Team“</h3>
 
@@ -100,21 +107,10 @@ Back to <a href="#content">top</a>
 
 <h2><a name="resources">Resources</a></h2>
 
-<h3>Videos</h3>
-
-<h4>what is Distributed Teams</h4>
-
-[![what is Distributed Teams](https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=guhgE9N0AGA "what is Distributed Teams")
-
-<h4>Managing distributed teams</h4>
-
-[![Managing distributed teams,5 golden rules ](https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FGg23p_ksp8 "Managing distributed teams!")
-
 <h3>Blogs</h3>
 
 <h4>Getting most out your geographically distributed agile team </h4>
 Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.
-
 Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team 
 
 <h4>Virtual community of practice </h4>
