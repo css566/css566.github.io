@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Aspects of Software Management
+date: 2016-05-10
 ---
 
 Social Aspects of Software Management
