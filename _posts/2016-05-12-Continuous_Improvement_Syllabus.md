@@ -28,10 +28,11 @@ By the end of the unit, the student should be able to:
   - [Overview]({% post_url 2016-05-05-Continuous_Improvement %})
   - [Lean Startups and Continuous Improvement]({% post_url 2016-05-12-Lean-Startups_and_CI %})
   - [Software Measurement and Metrics]({% post_url 2016-05-05-software-measurement %})
+  - [Capability Maturity Model Integrated (CMMI)]({% post_url 2016-05-16-CMMI %})
     
 ## Additional Resources
 
  - [Journal Articles]({% post_url 2016-05-12-Continous_Improvement_Articles %}) 
  - [Case Studies]({% post_url 2016-05-12-Continous_Improvement_casestudies %})  
- - [Videos]({% post_url p2016-05-24-continuous_Improvement_Videos %}) /////////
+ - [Videos]({% post_url 2016-05-24-continuous_Improvement_Videos %}) 
         
