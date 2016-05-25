@@ -1,6 +1,6 @@
 ---
 layout: post
-title: continuous Improvement - Related Videos
+title: Continuous Improvement - Related Videos
 ---
 
 # Continuous Improvement Videos
