@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 May 2016 00:23:09 +0000</pubDate>
-    <lastBuildDate>Wed, 25 May 2016 00:23:09 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2016 00:25:54 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2016 00:25:54 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -44,6 +44,54 @@ improving themselves.&lt;/p&gt;
         <link>http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement Unit Syllabus</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
+
+&lt;p&gt;Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities.&lt;/p&gt;
+
+&lt;p&gt;This unit examines aspects of continuous improvement, and how those aspects may be applied to Software Management.  The software development world is extremely competitive - in order to stay ahead, companies need to continuously improve their Software Management methodologies and practices.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-objectives&quot;&gt;LEARNING OBJECTIVES&lt;/h2&gt;
+
+&lt;p&gt;By the end of the unit, the student should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand the importance of Continuous Improvement to Software Management.&lt;/li&gt;
+  &lt;li&gt;Understand Lean startups and their connection to Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Identify different techniques companies use to implement Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Understand aspects of Software Measurement and Metrics, and how they are tied to Continuous Improvement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;ORGANIZATION&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startups and Continuous Improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Software Measurement and Metrics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/16/CMMI.html&quot;&gt;Capability Maturity Model Integrated (CMMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_Articles.html&quot;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_casestudies.html&quot;&gt;Case Studies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/24/continuous_Improvement_Videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html</link>
+        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html</guid>
+        
+        
+        <category>syllabus</category>
         
       </item>
     
@@ -622,54 +670,6 @@ In this video (cited in references [4]), Chad has demonstrated a side-by-side co
         <link>http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Continuous Improvement Unit Syllabus</title>
-        <description>&lt;hr /&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
-
-&lt;p&gt;Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities.&lt;/p&gt;
-
-&lt;p&gt;This unit examines aspects of continuous improvement, and how those aspects may be applied to Software Management.  The software development world is extremely competitive - in order to stay ahead, companies need to continuously improve their Software Management methodologies and practices.&lt;/p&gt;
-
-&lt;h2 id=&quot;learning-objectives&quot;&gt;LEARNING OBJECTIVES&lt;/h2&gt;
-
-&lt;p&gt;By the end of the unit, the student should be able to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Understand the importance of Continuous Improvement to Software Management.&lt;/li&gt;
-  &lt;li&gt;Understand Lean startups and their connection to Continuous Improvement.&lt;/li&gt;
-  &lt;li&gt;Identify different techniques companies use to implement Continuous Improvement.&lt;/li&gt;
-  &lt;li&gt;Understand aspects of Software Measurement and Metrics, and how they are tied to Continuous Improvement.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;organization&quot;&gt;ORGANIZATION&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startups and Continuous Improvement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Software Measurement and Metrics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/16/CMMI.html&quot;&gt;Capability Maturity Model Integrated (CMMI)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_Articles.html&quot;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_casestudies.html&quot;&gt;Case Studies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2016/05/24/continuous_Improvement_Videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/syllabus/2016/05/12/Continuous_Improvement_Syllabus.html</link>
-        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/12/Continuous_Improvement_Syllabus.html</guid>
-        
-        
-        <category>syllabus</category>
         
       </item>
     
