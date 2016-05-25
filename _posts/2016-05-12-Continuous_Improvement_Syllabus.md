@@ -32,5 +32,6 @@ By the end of the unit, the student should be able to:
 ## Additional Resources
 
  - [Journal Articles]({% post_url 2016-05-12-Continous_Improvement_Articles %}) 
- - [Case Studies]({% post_url 2016-05-12-Continous_Improvement_casestudies %}) 
+ - [Case Studies]({% post_url 2016-05-12-Continous_Improvement_casestudies %})  
+ - [Videos]({% post_url p2016-05-24-continuous_Improvement_Videos %}) /////////
         
