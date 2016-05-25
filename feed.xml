@@ -5,9 +5,47 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 May 2016 02:07:49 +0000</pubDate>
-    <lastBuildDate>Tue, 24 May 2016 02:07:49 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2016 00:13:22 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2016 00:13:22 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>continuous Improvement - Related Videos</title>
+        <description>&lt;h1 id=&quot;continuous-improvement-videos&quot;&gt;Continuous Improvement Videos&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KyhR9hvMlPw&quot;&gt;Creating A Continuous Improvement Culture&lt;/a&gt;&lt;br /&gt;
+This video focuses on how to create a continuous improvement culture in an organization. 
+The video goes into details about the history of continuous improvement, the goals behind
+continuous inprovement, examples of continuous improvement in major companies, and how to
+create continuous improvement in an organization.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yeLZSEQW3pE&quot;&gt;8 Things To Avoid to Make Your Kaizen More Successful&lt;/a&gt;&lt;br /&gt;
+This video gives a lecture on eight things to avoid to help make continuous improvement more successful.
+This video gives examples of things to avoid, and how avoiding these things can lead to different 
+scenarios that help facilitate better continuous improvement practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1hvprBVWn3M&quot;&gt;Continuous process improvement: Penny Weller at TEDxKalamazoo&lt;/a&gt;&lt;br /&gt;
+This video showcases a Tedx talk with continuous improvement as the subject. This video describes continuous 
+improvement, how to incorporate continuous improvement, and how integrating continuous improvement can increase
+a customer’s satisfaction towards a product or service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UgAHWhwIyMI&quot;&gt;How to implement Continuous Improvement&lt;/a&gt;&lt;br /&gt;
+This video showcases a short animated clip showing where to begin when trying to implement continuous improvement into a
+business. The video briefly goes over what continous improvement is, and how to integrate continuous improvement
+in an already existing business.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VsK--Fs5I40&quot;&gt;The Best Leadership Style for Continuous Improvement&lt;/a&gt;&lt;br /&gt;
+This video explains about the leadership styles that are best suited towards facilitating continuous improvement, 
+and this video explains about the impact these leadership styles have on getting people motivated towards continuously
+improving themselves.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Managing Distributed Teams</title>
@@ -684,165 +722,6 @@ In this video (cited in references [4]), Chad has demonstrated a side-by-side co
         <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/12/Continous_Improvement_Articles.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_Articles.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Social Aspects of LeSS</title>
-        <description>&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;trendstrends&quot;&gt;&lt;a href=&quot;#trends&quot;&gt;TRENDS&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&quot;conceptsconcepts&quot;&gt;&lt;a href=&quot;#concepts&quot;&gt;CONCEPTS&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&quot;patternspatterns&quot;&gt;&lt;a href=&quot;#patterns&quot;&gt;PATTERNS&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&quot;issuesissues&quot;&gt;&lt;a href=&quot;#issues&quot;&gt;ISSUES&lt;/a&gt;&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;a-nametrendstrendsa&quot;&gt;&lt;a name=&quot;trends&quot;&gt;TRENDS&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Team&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;System&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Continuous Integration&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;People&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Environment&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Human Behavior&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Growing&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Coordination between teams&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cross-team coordination&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Interdependent work&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Shared responsibility&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Shared work product&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cross-functional teams&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Co-located teams&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Long-lived teams&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Organizational coaching&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Product Owner is outward focused on customers as well as inward focused on the teams, i.e he/she behaves as a connector between the two.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Synchronizing work with other members of the team as part of ‘continuous integration’.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The feature teams are aligned to creating end-to-end customer centric features.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nameconceptsconceptsa&quot;&gt;&lt;a name=&quot;concepts&quot;&gt;CONCEPTS&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mailing lists&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Chat&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Occasional meetings&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Leadership meetings-leads or managers getting together for a leadership meeting&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some concepts that relate to Product Owner are- product development, internal (product) development, project development.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Teams must adopt ‘continuous integration’ of code which involves taking time out to go through code written by peers as well.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When there is much preference given to a customer domain, teams are led to more structuring decisions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Teams need to be self-managing in terms of being able to execute tasks and manage and monitor process and progress.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-namepatternspatternsa&quot;&gt;&lt;a name=&quot;patterns&quot;&gt;PATTERNS&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Daily Scrum meetings&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Product Owner works on activities such as prioritizing items in the product backlog and clarification of items in the backlog.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Coordination between teams takes place through “Just talking”.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Most teams and manager follow lean management.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-nameissuesissuesa&quot;&gt;&lt;a name=&quot;issues&quot;&gt;ISSUES&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Large changes to a stable system will destabilize and break it in large ways&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;People working together creates conflict&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unresolved conflict has a negative impact on team performance and creates a dysfunctional team atmosphere&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sometimes, the goal of a Scrum Meeting can become obsolete, in such a case if the Product Owner stills continues to go ahead with it, the session becomes less productive.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If people working on the same components/modules are not in constant communication about the status of their work, there could be overlap of feature or other functional implementations.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/11/Social_aspects_of_LeSS.html</guid>
         
         
       </item>
