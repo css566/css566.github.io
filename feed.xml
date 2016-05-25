@@ -5,9 +5,417 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 May 2016 00:30:14 +0000</pubDate>
-    <lastBuildDate>Wed, 25 May 2016 00:30:14 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2016 19:08:32 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2016 19:08:32 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Software Management Body of Knowledge (SMBOK)</title>
+        <description>&lt;p&gt;The intent of this document is to represent the breadth of information that would be useful for a person to know if they have to make decisions about either (a) managing a system creating software-enabled systems, or (b) managing software-enabled systems. This is the software management body of knowledge (SMBOK).&lt;/p&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;team--organization&quot;&gt;Team  Organization&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Agile Teams&lt;/li&gt;
+      &lt;li&gt;Resources Management&lt;/li&gt;
+      &lt;li&gt;Customer requirements&lt;/li&gt;
+      &lt;li&gt;Adaptation&lt;/li&gt;
+      &lt;li&gt;Change management&lt;/li&gt;
+      &lt;li&gt;Communication&lt;/li&gt;
+      &lt;li&gt;Team cohesion&lt;/li&gt;
+      &lt;li&gt;Personality types&lt;/li&gt;
+      &lt;li&gt;Collaboration&lt;/li&gt;
+      &lt;li&gt;Co-located Teams&lt;/li&gt;
+      &lt;li&gt;Cross-Functional Teams&lt;/li&gt;
+      &lt;li&gt;Pair Programming&lt;/li&gt;
+      &lt;li&gt;Virtual Teams&lt;/li&gt;
+      &lt;li&gt;Distributed teams
+        &lt;ul&gt;
+          &lt;li&gt;Globally Distributed Teams&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Risk tolerance&lt;/li&gt;
+      &lt;li&gt;Org Structure
+        &lt;ul&gt;
+          &lt;li&gt;Hierarchical&lt;/li&gt;
+          &lt;li&gt;Flat&lt;/li&gt;
+          &lt;li&gt;Hybrid&lt;/li&gt;
+          &lt;li&gt;Choosing One&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Leadership in Software Organisations&lt;/li&gt;
+      &lt;li&gt;Lean Development&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;team-building&quot;&gt;Team Building&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Recruitment/Hiring
+        &lt;ul&gt;
+          &lt;li&gt;Hiring the right people&lt;/li&gt;
+          &lt;li&gt;Retaining people
+            &lt;ul&gt;
+              &lt;li&gt;Relationship with culture&lt;/li&gt;
+              &lt;li&gt;Relationship with empathy&lt;/li&gt;
+              &lt;li&gt;Effect / Need of diversity&lt;/li&gt;
+              &lt;li&gt;Attrition/turnover management&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;People Management
+        &lt;ul&gt;
+          &lt;li&gt;Evaluation/assessment&lt;/li&gt;
+          &lt;li&gt;Low performance handling&lt;/li&gt;
+          &lt;li&gt;Peer reviews&lt;/li&gt;
+          &lt;li&gt;Incentives&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Orientation&lt;/li&gt;
+      &lt;li&gt;Talent Acquisition&lt;/li&gt;
+      &lt;li&gt;Talent Upgrade&lt;/li&gt;
+      &lt;li&gt;Training&lt;/li&gt;
+      &lt;li&gt;On-boarding&lt;/li&gt;
+      &lt;li&gt;Employee satisfaction&lt;/li&gt;
+      &lt;li&gt;Emotional Safety&lt;/li&gt;
+      &lt;li&gt;Diversity&lt;/li&gt;
+      &lt;li&gt;Tiger teams&lt;/li&gt;
+      &lt;li&gt;Character and Personality Types&lt;/li&gt;
+      &lt;li&gt;Skillsets&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;agile-methodologies&quot;&gt;Agile Methodologies&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Scrum&lt;/li&gt;
+      &lt;li&gt;Large-scale Scrum (LeSS)&lt;/li&gt;
+      &lt;li&gt;Kanban&lt;/li&gt;
+      &lt;li&gt;Scaled Agile Framework (SAFe)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;risk-management&quot;&gt;Risk Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Risk identification&lt;/li&gt;
+      &lt;li&gt;Quantitative risk analysis&lt;/li&gt;
+      &lt;li&gt;Qualitative risk analysis&lt;/li&gt;
+      &lt;li&gt;Risk monitoring and control&lt;/li&gt;
+      &lt;li&gt;Risk response planning&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;continuous-improvement&quot;&gt;Continuous improvement&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Diverse team skillset&lt;/li&gt;
+      &lt;li&gt;Diverse teams and backgrounds&lt;/li&gt;
+      &lt;li&gt;Effective retrospective&lt;/li&gt;
+      &lt;li&gt;Lean Startup&lt;/li&gt;
+      &lt;li&gt;Software Metrics and Measurement
+        &lt;ul&gt;
+          &lt;li&gt;Defects&lt;/li&gt;
+          &lt;li&gt;ROI/Financials&lt;/li&gt;
+          &lt;li&gt;Productivity&lt;/li&gt;
+          &lt;li&gt;CMMI, other Standards&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Agile Methodologies for CI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;focus-on-customer&quot;&gt;Focus on Customer&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Developer engagement-detachment&lt;/li&gt;
+      &lt;li&gt;Customer engagement-detachment&lt;/li&gt;
+      &lt;li&gt;Bringing back emotional connections&lt;/li&gt;
+      &lt;li&gt;Value driven software management&lt;/li&gt;
+      &lt;li&gt;Demonstration-based approach to customer engagement&lt;/li&gt;
+      &lt;li&gt;Emotional design&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;organization&quot;&gt;Organization&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Human
+        &lt;ul&gt;
+          &lt;li&gt;Social aspects of SM&lt;/li&gt;
+          &lt;li&gt;Communication&lt;/li&gt;
+          &lt;li&gt;Importance of culture&lt;/li&gt;
+          &lt;li&gt;Value of empathy&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Process
+        &lt;ul&gt;
+          &lt;li&gt;Identifying and Managing Bottlenecks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Technology&lt;/li&gt;
+      &lt;li&gt;Organizational influences and cultures
+        &lt;ul&gt;
+          &lt;li&gt;Agile Manifesto&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;change-management---how-to-manage-change-organizational-change-change-agents-seeds&quot;&gt;Change Management - how to manage change, organizational change, change agents, seeds&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;information-sharing&quot;&gt;Information Sharing&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;shared-understanding&quot;&gt;Shared Understanding&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Aligned goals&lt;/li&gt;
+      &lt;li&gt;Collaborate&lt;/li&gt;
+      &lt;li&gt;Teamwork&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Human Resource Management&lt;/li&gt;
+      &lt;li&gt;Office Floor Plans&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;productivity&quot;&gt;Productivity&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Measuring productivity&lt;/li&gt;
+      &lt;li&gt;Effect of collaboration&lt;/li&gt;
+      &lt;li&gt;Concepts form Mythical man month&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;coordination&quot;&gt;Coordination&lt;/h3&gt;
+ 	 - Negotiation
+    &lt;ul&gt;
+      &lt;li&gt;Conflict management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;systems-thinking&quot;&gt;Systems Thinking&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;time&quot;&gt;Time&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Time Constraints&lt;/li&gt;
+      &lt;li&gt;Software Delivery Cadence&lt;/li&gt;
+      &lt;li&gt;Fiscal Quarters&lt;/li&gt;
+      &lt;li&gt;Deadlines&lt;/li&gt;
+      &lt;li&gt;Estimating delivery time&lt;/li&gt;
+      &lt;li&gt;Adapting to a schedule&lt;/li&gt;
+      &lt;li&gt;Time Management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;problem-solving&quot;&gt;Problem Solving&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Complexity Analysis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;planning&quot;&gt;Planning&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Estimation/sizing&lt;/li&gt;
+      &lt;li&gt;Resource allocation&lt;/li&gt;
+      &lt;li&gt;Timeline/schedule planning&lt;/li&gt;
+      &lt;li&gt;Commitment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;process&quot;&gt;Process&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Frameworks&lt;/li&gt;
+      &lt;li&gt;Software methodologies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;overall-management&quot;&gt;Overall management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Program&lt;/li&gt;
+      &lt;li&gt;Portfolio&lt;/li&gt;
+      &lt;li&gt;Release&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;operationssupportmaintenance-management&quot;&gt;Operations/Support/Maintenance Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;DevOps&lt;/li&gt;
+      &lt;li&gt;Tech Support&lt;/li&gt;
+      &lt;li&gt;Automated/instrumentalized log reporting/bug reporting&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;lifecycle-management&quot;&gt;Lifecycle Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Product, software, process&lt;/li&gt;
+      &lt;li&gt;Iterative life cycle processes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;theory-of-constraints&quot;&gt;Theory of constraints&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;queuing-theory&quot;&gt;Queuing theory&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;roles-and-responsibilities&quot;&gt;Roles and Responsibilities&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Stakeholders&lt;/li&gt;
+      &lt;li&gt;Business Team&lt;/li&gt;
+      &lt;li&gt;Dev Team&lt;/li&gt;
+      &lt;li&gt;Test Team&lt;/li&gt;
+      &lt;li&gt;Ops Team&lt;/li&gt;
+      &lt;li&gt;Marketing Team&lt;/li&gt;
+      &lt;li&gt;Define roles/tasks of team members&lt;/li&gt;
+      &lt;li&gt;Customer
+        &lt;ul&gt;
+          &lt;li&gt;Influencer, buyer&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;quality-management&quot;&gt;Quality Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;QA&lt;/li&gt;
+      &lt;li&gt;Metrics&lt;/li&gt;
+      &lt;li&gt;Quality attributes&lt;/li&gt;
+      &lt;li&gt;Automation&lt;/li&gt;
+      &lt;li&gt;Continuous improvement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;financial-management&quot;&gt;Financial Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Budget&lt;/li&gt;
+      &lt;li&gt;P&amp;amp;L&lt;/li&gt;
+      &lt;li&gt;Resource management&lt;/li&gt;
+      &lt;li&gt;Business models&lt;/li&gt;
+      &lt;li&gt;Cost/revenue&lt;/li&gt;
+      &lt;li&gt;Investors&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;feasibility-analysis&quot;&gt;Feasibility Analysis&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Technical Feasibility&lt;/li&gt;
+      &lt;li&gt;Market Feasibility&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;development-context&quot;&gt;Development Context&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Organization&lt;/li&gt;
+      &lt;li&gt;Physical Environment&lt;/li&gt;
+      &lt;li&gt;Social Aspects (Human Factors)
+        &lt;ul&gt;
+          &lt;li&gt;Personalities&lt;/li&gt;
+          &lt;li&gt;Cultures&lt;/li&gt;
+          &lt;li&gt;Leadership&lt;/li&gt;
+          &lt;li&gt;Collaboration&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Cyber
+        &lt;ul&gt;
+          &lt;li&gt;Development Tools&lt;/li&gt;
+          &lt;li&gt;Development Frameworks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;software-delivery-mechanism&quot;&gt;Software Delivery Mechanism&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Software as a service – subscription model&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;architecture&quot;&gt;Architecture&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Design Foundation
+        &lt;ul&gt;
+          &lt;li&gt;Waterfall/Separate Design Phase
+            &lt;ul&gt;
+              &lt;li&gt;BUFD (Big UpFront Design)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Deployment context&lt;/li&gt;
+          &lt;li&gt;Pregame (Scrum)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Agile Design Approach
+        &lt;ul&gt;
+          &lt;li&gt;Interative&lt;/li&gt;
+          &lt;li&gt;Refactoring&lt;/li&gt;
+          &lt;li&gt;Experimental&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Documentation
+        &lt;ul&gt;
+          &lt;li&gt;Design Artifacts&lt;/li&gt;
+          &lt;li&gt;Agile (code is best artifacts)&lt;/li&gt;
+          &lt;li&gt;Maintainability&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;source-control&quot;&gt;Source Control&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Open Repositories&lt;/li&gt;
+      &lt;li&gt;Online Repositories&lt;/li&gt;
+      &lt;li&gt;Commitment and Rollback&lt;/li&gt;
+      &lt;li&gt;Version Control&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;open-source&quot;&gt;Open Source&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Management of codebase&lt;/li&gt;
+      &lt;li&gt;Access Rights&lt;/li&gt;
+      &lt;li&gt;Distribution Rights&lt;/li&gt;
+      &lt;li&gt;Copyright/Copyleft&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;management-for-publicgovernment-projects&quot;&gt;Management for Public/Government Projects&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Requirements Analysis&lt;/li&gt;
+      &lt;li&gt;Schedule&lt;/li&gt;
+      &lt;li&gt;Financials&lt;/li&gt;
+      &lt;li&gt;Application of Agile Methodologies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;legal-considerations-for-software-management&quot;&gt;Legal Considerations for Software Management&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Security&lt;/li&gt;
+      &lt;li&gt;Open Source&lt;/li&gt;
+      &lt;li&gt;Critical Systems (Driverless Vehicles, Flight Control Systems, Medical Systems)&lt;/li&gt;
+      &lt;li&gt;Copyright&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;software-testing&quot;&gt;Software Testing&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Quality Control/Assurance (QC/QA)&lt;/li&gt;
+      &lt;li&gt;Test vs. Production Environments&lt;/li&gt;
+      &lt;li&gt;Static Testing&lt;/li&gt;
+      &lt;li&gt;Load Simulation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/25/SWBOK.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/25/SWBOK.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Continuous Improvement - Related Videos</title>
@@ -696,34 +1104,6 @@ In this video (cited in references [4]), Chad has demonstrated a side-by-side co
         <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</link>
         <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Continuous Improvement-- Articles</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;Combining Agile and CMMI&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282233/Mature_Agile_with_a_twist_of_CMMI.pdf&quot;&gt;Mature Agile with a twist of CMMI&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=3410&quot;&gt;CHIPS Articles: CMMI–What, Why? By Richard B. Waina&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.ibm.com/developerworks/rational/library/07/0227_myerson/&quot;&gt;Achieving Capability Maturity Model Integration (CMMI) maturity&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and CMMI – Going from Good to Great&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/12/Continous_Improvement_Articles.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_Articles.html</guid>
         
         
       </item>
