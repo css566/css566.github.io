@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 May 2016 19:26:04 +0000</pubDate>
-    <lastBuildDate>Wed, 25 May 2016 19:26:04 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2016 19:46:21 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2016 19:46:21 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -55,7 +55,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;team-building&quot;&gt;Team Building&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameteambuildingteam-buildinga&quot;&gt;&lt;a name=&quot;teambuilding&quot;&gt;Team Building&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Recruitment/Hiring
         &lt;ul&gt;
@@ -92,7 +92,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;agile-methodologies&quot;&gt;Agile Methodologies&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameagilemethodologiesagile-methodologiesa&quot;&gt;&lt;a name=&quot;agilemethodologies&quot;&gt;Agile Methodologies&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Scrum&lt;/li&gt;
       &lt;li&gt;Large-scale Scrum (LeSS)&lt;/li&gt;
@@ -101,7 +101,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;risk-management&quot;&gt;Risk Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameriskmanagementrisk-managementa&quot;&gt;&lt;a name=&quot;riskmanagement&quot;&gt;Risk Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Risk identification&lt;/li&gt;
       &lt;li&gt;Quantitative risk analysis&lt;/li&gt;
@@ -111,7 +111,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;continuous-improvement&quot;&gt;Continuous improvement&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namecontinuousimprovementcontinuous-improvementa&quot;&gt;&lt;a name=&quot;continuousimprovement&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Diverse team skillset&lt;/li&gt;
       &lt;li&gt;Diverse teams and backgrounds&lt;/li&gt;
@@ -129,7 +129,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;focus-on-customer&quot;&gt;Focus on Customer&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namefocusoncustomerfocus-on-customera&quot;&gt;&lt;a name=&quot;focusoncustomer&quot;&gt;Focus on Customer&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Developer engagement-detachment&lt;/li&gt;
       &lt;li&gt;Customer engagement-detachment&lt;/li&gt;
@@ -140,7 +140,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;organization&quot;&gt;Organization&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameorganizationorganizationaorganization&quot;&gt;&lt;a name=&quot;organization&quot;&gt;Organization&lt;/a&gt;Organization&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Human
         &lt;ul&gt;
@@ -164,13 +164,13 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;change-management---how-to-manage-change-organizational-change-change-agents-seeds&quot;&gt;Change Management - how to manage change, organizational change, change agents, seeds&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namechangemanagementchange-management---how-to-manage-change-organizational-change-change-agents-seedsa&quot;&gt;&lt;a name=&quot;changemanagement&quot;&gt;Change Management - how to manage change, organizational change, change agents, seeds&lt;/a&gt;&lt;/h3&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;information-sharing&quot;&gt;Information Sharing&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameinformationsharinginformation-sharingga&quot;&gt;&lt;a name=&quot;informationsharing&quot;&gt;Information Sharingg&lt;/a&gt;&lt;/h3&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;shared-understanding&quot;&gt;Shared Understanding&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namesharedunderstandingshared-understandinga&quot;&gt;&lt;a name=&quot;sharedunderstanding&quot;&gt;Shared Understanding&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Aligned goals&lt;/li&gt;
       &lt;li&gt;Collaborate&lt;/li&gt;
@@ -178,14 +178,14 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namecollaborationcollaborationa&quot;&gt;&lt;a name=&quot;collaboration&quot;&gt;Collaboration&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Human Resource Management&lt;/li&gt;
       &lt;li&gt;Office Floor Plans&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;productivity&quot;&gt;Productivity&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameproductivityproductivitya&quot;&gt;&lt;a name=&quot;productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Measuring productivity&lt;/li&gt;
       &lt;li&gt;Effect of collaboration&lt;/li&gt;
@@ -193,17 +193,17 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;coordination&quot;&gt;Coordination&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namecoordinationcoordinationa&quot;&gt;&lt;a name=&quot;coordination&quot;&gt;Coordination&lt;/a&gt;&lt;/h3&gt;
  	 - Negotiation
     &lt;ul&gt;
       &lt;li&gt;Conflict management&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;systems-thinking&quot;&gt;Systems Thinking&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namesystemsthinkingteam-buildinga&quot;&gt;&lt;a name=&quot;systemsthinking&quot;&gt;Team Building&lt;/a&gt;&lt;/h3&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;time&quot;&gt;Time&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nametimetimea&quot;&gt;&lt;a name=&quot;time&quot;&gt;Time&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Time Constraints&lt;/li&gt;
       &lt;li&gt;Software Delivery Cadence&lt;/li&gt;
@@ -215,13 +215,13 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;problem-solving&quot;&gt;Problem Solving&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameproblemsolvingproblem-solvinga&quot;&gt;&lt;a name=&quot;problemsolving&quot;&gt;Problem Solving&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Complexity Analysis&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;planning&quot;&gt;Planning&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameplanningplanninga&quot;&gt;&lt;a name=&quot;planning&quot;&gt;Planning&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Estimation/sizing&lt;/li&gt;
       &lt;li&gt;Resource allocation&lt;/li&gt;
@@ -230,14 +230,14 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;process&quot;&gt;Process&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameprocessprocessa&quot;&gt;&lt;a name=&quot;process&quot;&gt;Process&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Frameworks&lt;/li&gt;
       &lt;li&gt;Software methodologies&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;overall-management&quot;&gt;Overall management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameoverallmanagementoverall-managementa&quot;&gt;&lt;a name=&quot;overallmanagement&quot;&gt;Overall Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Program&lt;/li&gt;
       &lt;li&gt;Portfolio&lt;/li&gt;
@@ -245,7 +245,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;operationssupportmaintenance-management&quot;&gt;Operations/Support/Maintenance Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameoperationssupportoperationssupportmaintenance-managementa&quot;&gt;&lt;a name=&quot;operationssupport&quot;&gt;Operations/Support/Maintenance Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;DevOps&lt;/li&gt;
       &lt;li&gt;Tech Support&lt;/li&gt;
@@ -253,20 +253,20 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;lifecycle-management&quot;&gt;Lifecycle Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namelifecyclemanagementlifecycle-managementa&quot;&gt;&lt;a name=&quot;lifecyclemanagement&quot;&gt;Lifecycle Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Product, software, process&lt;/li&gt;
       &lt;li&gt;Iterative life cycle processes&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;theory-of-constraints&quot;&gt;Theory of constraints&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nametheoryofconstraintstheory-of-constraintsa&quot;&gt;&lt;a name=&quot;theoryofconstraints&quot;&gt;Theory of Constraints&lt;/a&gt;&lt;/h3&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;queuing-theory&quot;&gt;Queuing theory&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namequeuingtheoryqueuing-theorya&quot;&gt;&lt;a name=&quot;queuingtheory&quot;&gt;Queuing Theory&lt;/a&gt;&lt;/h3&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;roles-and-responsibilities&quot;&gt;Roles and Responsibilities&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namerolesandresponsibilitiesroles-and-responsibilitiesa&quot;&gt;&lt;a name=&quot;rolesandresponsibilities&quot;&gt;Roles and Responsibilities&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Stakeholders&lt;/li&gt;
       &lt;li&gt;Business Team&lt;/li&gt;
@@ -283,7 +283,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;quality-management&quot;&gt;Quality Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namequalitymanagementquality-managementa&quot;&gt;&lt;a name=&quot;qualitymanagement&quot;&gt;Quality Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;QA&lt;/li&gt;
       &lt;li&gt;Metrics&lt;/li&gt;
@@ -293,7 +293,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;financial-management&quot;&gt;Financial Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namefinancialmanagementfinancial-managementa&quot;&gt;&lt;a name=&quot;financialmanagement&quot;&gt;Financial Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Budget&lt;/li&gt;
       &lt;li&gt;P&amp;amp;L&lt;/li&gt;
@@ -304,14 +304,14 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;feasibility-analysis&quot;&gt;Feasibility Analysis&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namefeasibilityanalysisfeasibility-analysisa&quot;&gt;&lt;a name=&quot;feasibilityanalysis&quot;&gt;Feasibility Analysis&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Technical Feasibility&lt;/li&gt;
       &lt;li&gt;Market Feasibility&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;development-context&quot;&gt;Development Context&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namedevelopmentcontextdevelopment-contexta&quot;&gt;&lt;a name=&quot;developmentcontext&quot;&gt;Development Context&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Organization&lt;/li&gt;
       &lt;li&gt;Physical Environment&lt;/li&gt;
@@ -332,13 +332,13 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;software-delivery-mechanism&quot;&gt;Software Delivery Mechanism&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namesoftwaredeliverymechanismsoftware-delivery-mechanisma&quot;&gt;&lt;a name=&quot;softwaredeliverymechanism&quot;&gt;Software Delivery Mechanism&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Software as a service – subscription model&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;architecture&quot;&gt;Architecture&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namearchitecturearchitecturea&quot;&gt;&lt;a name=&quot;architecture&quot;&gt;Architecture&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Design Foundation
         &lt;ul&gt;
@@ -368,7 +368,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;source-control&quot;&gt;Source Control&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namesourcecontrolsource-controla&quot;&gt;&lt;a name=&quot;sourcecontrol&quot;&gt;Source Control&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Open Repositories&lt;/li&gt;
       &lt;li&gt;Online Repositories&lt;/li&gt;
@@ -377,7 +377,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;open-source&quot;&gt;Open Source&lt;/h3&gt;
+    &lt;h3 id=&quot;a-nameopensourceopen-sourcega&quot;&gt;&lt;a name=&quot;opensource&quot;&gt;Open Sourceg&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Management of codebase&lt;/li&gt;
       &lt;li&gt;Access Rights&lt;/li&gt;
@@ -386,7 +386,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;management-for-publicgovernment-projects&quot;&gt;Management for Public/Government Projects&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namemanagementfor-publicmanagement-for-publicgovernment-projectsa&quot;&gt;&lt;a name=&quot;managementfor public&quot;&gt;Management for Public/Government Projects&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Requirements Analysis&lt;/li&gt;
       &lt;li&gt;Schedule&lt;/li&gt;
@@ -395,7 +395,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;legal-considerations-for-software-management&quot;&gt;Legal Considerations for Software Management&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namelegalconsiderationslegal-considerations-for-software-managementa&quot;&gt;&lt;a name=&quot;legalconsiderations&quot;&gt;Legal Considerations for Software Management&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Security&lt;/li&gt;
       &lt;li&gt;Open Source&lt;/li&gt;
@@ -404,7 +404,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;software-testing&quot;&gt;Software Testing&lt;/h3&gt;
+    &lt;h3 id=&quot;a-namesoftwaretestingsoftware-testinga&quot;&gt;&lt;a name=&quot;softwaretesting&quot;&gt;Software Testing&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Quality Control/Assurance (QC/QA)&lt;/li&gt;
       &lt;li&gt;Test vs. Production Environments&lt;/li&gt;
