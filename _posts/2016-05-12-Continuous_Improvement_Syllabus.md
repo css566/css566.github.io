@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Continuous Improvement Unit Syllabus
+date: 2016-05-24
 category: syllabus
 ---
 
