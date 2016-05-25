@@ -26,7 +26,7 @@ Managing Distributed Teams
 * <a href="#references">References</a>
 
 <h2><a name="overview">Overview</a></h2>
-Coftware development eams can be distributed geographically, culturally, with language barriers, across time zones, or just across campus. Developing software using distributed teams requires special emphasis on communication and building trust. A variety of practices are available to help with these issues. The extra effort can be well worth it. The diversity that distributed teams bring to solving a software problem can help to promote innovation and creativity in your teams.
+Software development eams can be distributed geographically, culturally, with language barriers, across time zones, or just across campus. Developing software using distributed teams requires special emphasis on communication and building trust. A variety of practices are available to help with these issues. The extra effort can be well worth it. The diversity that distributed teams bring to solving a software problem can help to promote innovation and creativity in your teams.
 
 [![what is Distributed Teams](https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=guhgE9N0AGA "what is Distributed Teams")
 
