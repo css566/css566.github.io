@@ -5,13 +5,17 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 May 2016 19:08:32 +0000</pubDate>
-    <lastBuildDate>Wed, 25 May 2016 19:08:32 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2016 19:11:51 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2016 19:11:51 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Software Management Body of Knowledge (SMBOK)</title>
         <description>&lt;p&gt;The intent of this document is to represent the breadth of information that would be useful for a person to know if they have to make decisions about either (a) managing a system creating software-enabled systems, or (b) managing software-enabled systems. This is the software management body of knowledge (SMBOK).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/25/SWBOK.html&quot;&gt;Topic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 
