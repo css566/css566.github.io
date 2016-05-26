@@ -36,5 +36,5 @@ By the end of the unit, the student should be able to:
  - [Journal Articles]({% post_url 2016-05-12-Continous_Improvement_Articles %}) 
  - [Case Studies]({% post_url 2016-05-12-Continous_Improvement_casestudies %})  
  - [Videos]({% post_url 2016-05-24-continuous_Improvement_Videos %}) 
-        
+
 ## [SMBOK Continuous Improvement]({% post_url 2016-05-25-SWBOK %}#continuousimprovement)
