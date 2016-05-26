@@ -5,6 +5,8 @@ title: Physical Aspects of LeSS
 
 ## [SMBOK Development Context]({% post_url 2016-05-25-SWBOK %}#developmentcontext)
 
+<h2><a name="content">Content</a></h2>
+
 ## <a name="trends">Trends</a>
 -  Tear down the walls!  Not only the silo walls in waterfall, but the physical walls in workspaces.
 Agile is being applied to larger and larger projects, requiring a change in the physical layout of workspaces – individual offices and online team members need not apply!  Collaboration needs to be in person.
@@ -30,6 +32,7 @@ Agile is being applied to larger and larger projects, requiring a change in the 
 
 - Model to have a conversation – “The primary value in diagrams is in the discussion while diagraming – we model to have a conversation.”  In order to facilitate good conversations, you need appropriate workspaces.
 
+Back to <a href="#content">top</a>
 ## <a name="patterns">Patterns</a>
 
 #### Design workshops with agile modeling
@@ -117,6 +120,8 @@ It is useful if the walls of each team room are covered in vast ‘whiteboard’
 
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
+Back to <a href="#content">top</a>
+
 ### LeSS includes a Continuous Integration (CI) system
  
 
@@ -188,7 +193,7 @@ It is useful if the walls of each team room are covered in vast ‘whiteboard’
  [Source: Technical-excellence/architecture](https://less.works/less/technical-excellence/architecture-design.html)
 
 ----------
-
+Back to <a href="#content">top</a>
 
 ### Issues
 
@@ -203,3 +208,5 @@ It is useful if the walls of each team room are covered in vast ‘whiteboard’
 [1] https://less.works
 
 [Patterns]: {% post_url 2016-04-26-less_physical %}#patterns
+
+Back to <a href="#content">top</a>
