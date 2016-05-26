@@ -3,7 +3,7 @@ layout: post
 title: Physical Aspects of LeSS
 ---
 
-[SMBOK Development Context]({% post_url 2016-05-25-SWBOK %}#developmentcontext)
+## [SMBOK Development Context]({% post_url 2016-05-25-SWBOK %}#developmentcontext)
 
 ## <a name="trends">Trends</a>
 -  Tear down the walls!  Not only the silo walls in waterfall, but the physical walls in workspaces.
