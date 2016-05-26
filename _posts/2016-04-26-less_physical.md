@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Physical Aspects of LeSS
+Date: 2016-05-26
 ---
 
 ## [SMBOK Development Context]({% post_url 2016-05-25-SWBOK %}#developmentcontext)
