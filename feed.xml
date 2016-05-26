@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 22:17:44 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 22:17:44 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 22:32:58 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 22:32:58 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -91,8 +91,9 @@
     &lt;h3 id=&quot;a-nameagilemethodologiesagile-methodologiesa&quot;&gt;&lt;a name=&quot;agilemethodologies&quot;&gt;Agile Methodologies&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Scrum&lt;/li&gt;
-      &lt;li&gt;Large-scale Scrum (LeSS)&lt;/li&gt;
-      &lt;li&gt;Kanban&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/23/less_syllabus.html&quot;&gt;Large-scale Scrum (LeSS)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Kanban
+  	- &lt;a href=&quot;/2016/04/28/agile_Kanban.html&quot;&gt;Physical Aspects of Kanban&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Scaled Agile Framework (SAFe)&lt;/li&gt;
       &lt;li&gt;Extreme Programming (XP)&lt;/li&gt;
       &lt;li&gt;Test-driven development (TDD)&lt;/li&gt;
@@ -112,7 +113,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h3 id=&quot;a-namecontinuousimprovementcontinuous-improvementa&quot;&gt;&lt;a name=&quot;continuousimprovement&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 id=&quot;continuous-improvement20160505continuousimprovementhtml&quot;&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Diverse team skillset&lt;/li&gt;
       &lt;li&gt;Diverse teams and backgrounds&lt;/li&gt;
@@ -422,6 +423,9 @@
       &lt;li&gt;Static Testing&lt;/li&gt;
       &lt;li&gt;Load Simulation&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;visual-maps-of-software-management-theories-principles-and-practicessyllabus20160503visualmapshtml&quot;&gt;&lt;a href=&quot;/syllabus/2016/05/03/visual_maps.html&quot;&gt;Visual Maps of Software Management Theories, Principles, and Practices&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
