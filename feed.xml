@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 23:38:10 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 23:38:10 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 23:43:00 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 23:43:00 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -161,7 +161,7 @@
       &lt;li&gt;Technology&lt;/li&gt;
       &lt;li&gt;Organizational influences and cultures
         &lt;ul&gt;
-          &lt;li&gt;Agile Manifesto&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.agilemanifesto.org/&quot;&gt;Agile Manifesto&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
