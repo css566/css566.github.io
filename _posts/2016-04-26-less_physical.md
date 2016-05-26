@@ -33,6 +33,7 @@ Agile is being applied to larger and larger projects, requiring a change in the 
 - Model to have a conversation – “The primary value in diagrams is in the discussion while diagraming – we model to have a conversation.”  In order to facilitate good conversations, you need appropriate workspaces.
 
 Back to <a href="#content">top</a>
+
 ## <a name="patterns">Patterns</a>
 
 #### Design workshops with agile modeling
