@@ -20,8 +20,8 @@ This case study demonstrates the implementation of a whiteboard app that synchro
 [Ricoh Software piracy case study](http://www.ricoh-usa.com/about/docs/pdf/cs/2013/CS-155-RIC%20Forensics.pdf)  
 This case study involves a Forensic expert’s analysis to solve a software piracy case. 
 
-[Sheffield Hallam University Workspace case study](http://www.academia.edu/1503317/Understanding_Innovation_in_the_Workspace_A_case_study)  
-This case study describes how to build innovative workspaces to improve the flow and exchange of information and ideas.
+<!--[Sheffield Hallam University Workspace case study](http://www.academia.edu/1503317/Understanding_Innovation_in_the_Workspace_A_case_study)  
+This case study describes how to build innovative workspaces to improve the flow and exchange of information and ideas. -->
 
 [Milton Hall case study](http://www.theworkspaceconsultants.com/wp-content/uploads/2014/03/Milton-Hall-Case-Study.pdf)  
 This case study tells us how the owners of a company renovated an outdated office space into a high end, serviced office accommodation.
