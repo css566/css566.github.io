@@ -90,8 +90,7 @@ title: Lean Startups and Continuous Improvement
   
   [5]	[A Lean Startup Cycle](https://www.google.com/search?q=lean+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&q=lean+startups&imgrc=QvpG0vURNGrEUM%3A)
   
-  [//]: # ([6]	[Lean Manufacturing Vs. Continuous Improvement] (https://www.isixsigma.com/community/blogs/leanci/))
-  [6]	[Lean Manufacturing Vs. Continuous Improvement]()
+  <!--[6]	[Lean Manufacturing Vs. Continuous Improvement](https://www.isixsigma.com/community/blogs/leanci/) -->
   
   [7]	[Manufacturing Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
   
