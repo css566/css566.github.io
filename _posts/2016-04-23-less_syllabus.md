@@ -21,11 +21,11 @@ By the end of this unit, students should be able to:
 # Organization
 
  1. [LeSS Framework]({% post_url 2016-04-25-Less_Framework_Unit %}) 
- 2. LeSS Principles, Theories, and Practices
- 3. [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %}) 
- 4. [Cyber Aspects of LeSS]({% post_url 2016-05-11-Cyber_aspects_of_LeSS %})
- 5. [Social Aspects of LeSS]({% post_url 2016-05-11-Social_aspects_of_LeSS %})
- 6. Student Assessment of LeSS Unit
+ <!-- 2. LeSS Principles, Theories, and Practices -->
+ 2. [Physical Aspects of LeSS]({% post_url 2016-04-26-less_physical %}) 
+ 3. [Cyber Aspects of LeSS]({% post_url 2016-05-11-Cyber_aspects_of_LeSS %})
+ 4. [Social Aspects of LeSS]({% post_url 2016-05-11-Social_aspects_of_LeSS %})
+ <!-- 6. Student Assessment of LeSS Unit -->
 
 # Additional LeSS Resources
 
@@ -34,3 +34,4 @@ By the end of this unit, students should be able to:
 - [Videos]({% post_url 2016-04-23-less_videos %}) 
 - [Case Studies]({% post_url 2016-04-23-less_case_studies %}) 
 
+## [SMBOK Agile Methodologies]({% post_url 2016-05-25-SWBOK %}#agilemethodologies)
