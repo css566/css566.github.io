@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 22:08:57 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 22:08:57 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 22:17:44 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 22:17:44 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -94,6 +94,11 @@
       &lt;li&gt;Large-scale Scrum (LeSS)&lt;/li&gt;
       &lt;li&gt;Kanban&lt;/li&gt;
       &lt;li&gt;Scaled Agile Framework (SAFe)&lt;/li&gt;
+      &lt;li&gt;Extreme Programming (XP)&lt;/li&gt;
+      &lt;li&gt;Test-driven development (TDD)&lt;/li&gt;
+      &lt;li&gt;Feature-driven development (FDD)&lt;/li&gt;
+      &lt;li&gt;Lean software development&lt;/li&gt;
+      &lt;li&gt;Rapid Application Development (RAD)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
