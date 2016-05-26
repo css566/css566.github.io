@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 23:25:09 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 23:25:09 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 23:38:10 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 23:38:10 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -31,7 +31,7 @@
       &lt;li&gt;Co-located Teams&lt;/li&gt;
       &lt;li&gt;Cross-Functional Teams&lt;/li&gt;
       &lt;li&gt;Pair Programming&lt;/li&gt;
-      &lt;li&gt;Virtual Teams&lt;/li&gt;
+      &lt;li&gt;Virtual Teams (see also Distributed Teams)&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;/syllabus/2016/05/24/Managing_Distributed_Teams.html&quot;&gt;Distributed teams&lt;/a&gt;
         &lt;ul&gt;
           &lt;li&gt;Globally Distributed Teams&lt;/li&gt;
@@ -147,7 +147,7 @@
     &lt;ul&gt;
       &lt;li&gt;Human
         &lt;ul&gt;
-          &lt;li&gt;Social aspects of SM&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/2016/05/10/Social_Aspects_of_Software_Management.html&quot;&gt;Social aspects of SM&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;Communication&lt;/li&gt;
           &lt;li&gt;Importance of culture&lt;/li&gt;
           &lt;li&gt;Value of empathy&lt;/li&gt;
@@ -432,9 +432,9 @@
 
 &lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
-        <link>http://css566.github.io/2016/05/25/SWBOK.html</link>
-        <guid isPermaLink="true">http://css566.github.io/2016/05/25/SWBOK.html</guid>
+        <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/26/SWBOK.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/26/SWBOK.html</guid>
         
         
       </item>
@@ -515,7 +515,7 @@ improving themselves.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;/2016/05/24/continuous_Improvement_Videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;smbok-continuous-improvement20160525swbokhtmlcontinuousimprovement&quot;&gt;&lt;a href=&quot;/2016/05/25/SWBOK.html#continuousimprovement&quot;&gt;SMBOK Continuous Improvement&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;smbok-continuous-improvement20160526swbokhtmlcontinuousimprovement&quot;&gt;&lt;a href=&quot;/2016/05/26/SWBOK.html#continuousimprovement&quot;&gt;SMBOK Continuous Improvement&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
         <link>http://css566.github.io/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html</link>
