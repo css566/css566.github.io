@@ -5,8 +5,8 @@
     <description></description>
     <link>http://css566.github.io/</link>
     <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 22:52:08 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 22:52:08 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 22:57:24 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 22:57:24 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -115,16 +115,17 @@
   &lt;li&gt;
     &lt;h3 id=&quot;a-namecontinuousimprovementcontinuous-improvementa&quot;&gt;&lt;a name=&quot;continuousimprovement&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Kaizen&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Diverse team skillset&lt;/li&gt;
       &lt;li&gt;Diverse teams and backgrounds&lt;/li&gt;
       &lt;li&gt;Effective retrospective&lt;/li&gt;
-      &lt;li&gt;Lean Startup&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startup&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Software Metrics and Measurement
         &lt;ul&gt;
           &lt;li&gt;Defects&lt;/li&gt;
           &lt;li&gt;ROI/Financials&lt;/li&gt;
           &lt;li&gt;Productivity&lt;/li&gt;
-          &lt;li&gt;CMMI, other Standards&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/2016/05/16/CMMI.html&quot;&gt;CMMI&lt;/a&gt;, other Standards&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Agile Methodologies for CI&lt;/li&gt;
@@ -188,13 +189,13 @@
     &lt;h3 id=&quot;a-namecollaborationcollaborationa&quot;&gt;&lt;a name=&quot;collaboration&quot;&gt;Collaboration&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;Human Resource Management&lt;/li&gt;
-      &lt;li&gt;Office Floor Plans&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/physical-workspaces.html&quot;&gt;Office Floor Plans&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;a-nameproductivityproductivitya&quot;&gt;&lt;a name=&quot;productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;Measuring productivity&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Measuring productivity&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Effect of collaboration&lt;/li&gt;
       &lt;li&gt;Concepts form Mythical man month&lt;/li&gt;
     &lt;/ul&gt;
@@ -354,7 +355,7 @@
     &lt;ul&gt;
       &lt;li&gt;Design Foundation
         &lt;ul&gt;
-          &lt;li&gt;Waterfall/Separate Design Phase
+          &lt;li&gt;&lt;a href=&quot;/2016/05/03/waterfall_physical.html&quot;&gt;Waterfall&lt;/a&gt;/Separate Design Phase
             &lt;ul&gt;
               &lt;li&gt;BUFD (Big UpFront Design)&lt;/li&gt;
             &lt;/ul&gt;
