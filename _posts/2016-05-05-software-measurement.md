@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Measurement and Metrics
+Date: 2016-05-26
 ---
 
 ---
@@ -39,8 +40,6 @@ Software engineers need to be skilled in estimation and measurement, which means
 - Delivering reliably
 - Managing proactively to avoid crises
 
-Bottom line: You must be able to satisfy your customer and know what you will spend doing it.
-
 To predict and control effectively you must be able to measure. To understand development progress, you must be able to measure. To understand and evaluate quality, you must be able to measure. Unfortunately, measurement, particularly in software, is not always easy. How do you predict how long it will take to build a system using tools and techniques you’ve never used before? Just envisioning the software that will be developed to meet a set of requirements may be difficult, let alone trying to determine the building blocks and how they will be mortared together. Many characteristics of the software seem difficult to measure. How do you measure quality or robustness? How do you measure the level of complexity? [1]
 
 [Back to top](#content)
@@ -48,6 +47,7 @@ To predict and control effectively you must be able to measure. To understand de
 ## <a name="whattomeasure">What to Measure</a>
 
 There are many characteristics of software and software projects that can be measured, such as size, complexity, reliability, quality, adherence to process, and profitability. For any particular software project or organization, the specific software measurements program to be used will need to be defined.  
+
 Fundamentally, to define an appropriate measurements program you need to answer the following questions:
 
 - Who is the customer for the metrics?
@@ -58,7 +58,7 @@ To define an aligned metrics program, it is critical to engage your “customer�
 
 ![enter image description here](https://github.com/css566/css566.github.io/blob/master/images/Software_Measurement_Non-Sequitur.jpg?raw=true)
 
-> Example of Measurement Gone Awry [1]
+> Example of Measurement Gone Awry [1] (NON SEQUITUR 2004 Wiley Miller. Distributed by UNIVERSAL PRESS SYNDICATE. All rights reserved
 
 
 ----------
@@ -114,7 +114,7 @@ With this method, look to the needs of the decision makers to define the metrics
 
 ### <a name="standardsdrivenmetrics">Standards Driven Metrics</a>
 
-Both generic and industry-specific software engineering standards for collection and use of metrics are available. Some organizations use these to drive their metrics programs. For example, the Software Engineering Institute (SEI) software maturity model requires the measurement of system size, project time, level of effort, and software defects. SEI integrates these measures with the required processes in support of Project Management and Continuous Improvement. Laird and Brennan [cite] consider the SEI set, along with productivity, to be the minimal set for any organization. They define the minimal set to include:
+Both generic and industry-specific software engineering standards for collection and use of metrics are available. Some organizations use these to drive their metrics programs. For example, the Software Engineering Institute (SEI) software maturity model requires the measurement of system size, project time, level of effort, and software defects. SEI integrates these measures with the required processes in support of Project Management and Continuous Improvement. Laird and Brennan [1] consider the SEI set, along with productivity, to be the minimal set for any organization. They define the minimal set to include:
 
 - System size
 - Project duration
