@@ -1,26 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
----
-
-<div class="home">
-{% for category in site.categories %}
-  <li>
-      <h2>
-        <a id="{{ category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-      </h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.title %}
-          <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-=======
 <!DOCTYPE html>
 <html>
 
@@ -29,11 +6,11 @@ layout: page
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="JQ8un6S5HeG3_zepr36-7mBfOPxfSW-OZnvHe6wmlHc" />
-  <title>Software Management</title>
+  <title>About</title>
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/about/">
   <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
 </head>
 
@@ -107,53 +84,12 @@ layout: page
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title">About</h1>
   </header>
 
   <div class="post-content">
-    <div class="home">
-
-  <li>
-      <h2>
-        <a id="syllabus" href="#syllabus">syllabus</a>
-      </h2>
-    <ul>
-    
-      
-        
-      
-    
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html">Continuous Improvement Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Managing_Distributed_Teams.html">Managing Distributed Teams</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/03/visual_maps.html">Visual Maps of Software Management</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/physical_syllabus.html">Physical Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/agile_economic_syllabus.html">Agile Software Management Economic Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/23/less_syllabus.html">LeSS Unit Syllabus</a></h3></li>
-        
-      
-    
-    </ul>
-  </li>
-
->>>>>>> 1e2026c1ab4f6bdfe4267a94a846fcf891cd8abf
-</div>
+    <h1 id="software-management">Software Management</h1>
+<p>This course material was developed at the University of Washington Bothell for the course CSS 566 Software Management. The original material was written in Spring 2016 under the direction of Dr. David Socha.</p>
 
   </div>
 

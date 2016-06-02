@@ -1,30 +1,1136 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Software Management</title>
+    <description></description>
+    <link>http://css566.github.io/</link>
+    <atom:link href="http://css566.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Jun 2016 17:59:32 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jun 2016 17:59:32 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Software Management Body of Knowledge (SMBOK)</title>
+        <description>&lt;p&gt;The intent of this document is to represent the breadth of information that would be useful for a person to know if they have to make decisions about either (a) managing a system creating software-enabled systems, or (b) managing software-enabled systems. This is the software management body of knowledge (SMBOK).&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;content&quot;&gt;Content&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameteamorganizationteam--organizationa&quot;&gt;&lt;a name=&quot;teamorganization&quot;&gt;Team  Organization&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Agile Teams&lt;/li&gt;
+      &lt;li&gt;Resources Management&lt;/li&gt;
+      &lt;li&gt;Customer requirements&lt;/li&gt;
+      &lt;li&gt;Adaptation&lt;/li&gt;
+      &lt;li&gt;Change management&lt;/li&gt;
+      &lt;li&gt;Communication&lt;/li&gt;
+      &lt;li&gt;Team cohesion&lt;/li&gt;
+      &lt;li&gt;Personality types&lt;/li&gt;
+      &lt;li&gt;Collaboration&lt;/li&gt;
+      &lt;li&gt;Co-located Teams&lt;/li&gt;
+      &lt;li&gt;Cross-Functional Teams&lt;/li&gt;
+      &lt;li&gt;Pair Programming&lt;/li&gt;
+      &lt;li&gt;Virtual Teams (see also Distributed Teams)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/syllabus/2016/05/24/Managing_Distributed_Teams.html&quot;&gt;Distributed teams&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Globally Distributed Teams&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Risk tolerance&lt;/li&gt;
+      &lt;li&gt;Org Structure
+        &lt;ul&gt;
+          &lt;li&gt;Hierarchical&lt;/li&gt;
+          &lt;li&gt;Flat&lt;/li&gt;
+          &lt;li&gt;Hybrid&lt;/li&gt;
+          &lt;li&gt;Choosing One&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Leadership in Software Organisations&lt;/li&gt;
+      &lt;li&gt;Lean Development&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameteambuildingteam-buildinga&quot;&gt;&lt;a name=&quot;teambuilding&quot;&gt;Team Building&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Recruitment/Hiring
+        &lt;ul&gt;
+          &lt;li&gt;Hiring the right people&lt;/li&gt;
+          &lt;li&gt;Retaining people
+            &lt;ul&gt;
+              &lt;li&gt;Relationship with culture&lt;/li&gt;
+              &lt;li&gt;Relationship with empathy&lt;/li&gt;
+              &lt;li&gt;Effect / Need of diversity&lt;/li&gt;
+              &lt;li&gt;Attrition/turnover management&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;People Management
+        &lt;ul&gt;
+          &lt;li&gt;Evaluation/assessment&lt;/li&gt;
+          &lt;li&gt;Low performance handling&lt;/li&gt;
+          &lt;li&gt;Peer reviews&lt;/li&gt;
+          &lt;li&gt;Incentives&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Orientation&lt;/li&gt;
+      &lt;li&gt;Talent Acquisition&lt;/li&gt;
+      &lt;li&gt;Talent Upgrade&lt;/li&gt;
+      &lt;li&gt;Training&lt;/li&gt;
+      &lt;li&gt;On-boarding&lt;/li&gt;
+      &lt;li&gt;Employee satisfaction&lt;/li&gt;
+      &lt;li&gt;Emotional Safety&lt;/li&gt;
+      &lt;li&gt;Diversity&lt;/li&gt;
+      &lt;li&gt;Tiger teams&lt;/li&gt;
+      &lt;li&gt;Character and Personality Types&lt;/li&gt;
+      &lt;li&gt;Skillsets&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameagilemethodologiesagile-methodologiesa&quot;&gt;&lt;a name=&quot;agilemethodologies&quot;&gt;Agile Methodologies&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Scrum&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/23/less_syllabus.html&quot;&gt;Large-scale Scrum (LeSS)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Kanban
+  	- &lt;a href=&quot;/2016/04/28/agile_Kanban.html&quot;&gt;Physical Aspects of Kanban&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Scaled Agile Framework (SAFe)&lt;/li&gt;
+      &lt;li&gt;Extreme Programming (XP)&lt;/li&gt;
+      &lt;li&gt;Test-driven development (TDD)&lt;/li&gt;
+      &lt;li&gt;Feature-driven development (FDD)&lt;/li&gt;
+      &lt;li&gt;Lean software development&lt;/li&gt;
+      &lt;li&gt;Rapid Application Development (RAD)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameriskmanagementrisk-managementa&quot;&gt;&lt;a name=&quot;riskmanagement&quot;&gt;Risk Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Risk identification&lt;/li&gt;
+      &lt;li&gt;Quantitative risk analysis&lt;/li&gt;
+      &lt;li&gt;Qualitative risk analysis&lt;/li&gt;
+      &lt;li&gt;Risk monitoring and control&lt;/li&gt;
+      &lt;li&gt;Risk response planning&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namecontinuousimprovementcontinuous-improvementa&quot;&gt;&lt;a name=&quot;continuousimprovement&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Kaizen&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Diverse team skillset&lt;/li&gt;
+      &lt;li&gt;Diverse teams and backgrounds&lt;/li&gt;
+      &lt;li&gt;Effective retrospective&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startup&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Software Metrics and Measurement&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Defects&lt;/li&gt;
+          &lt;li&gt;ROI/Financials&lt;/li&gt;
+          &lt;li&gt;Productivity&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/2016/05/16/CMMI.html&quot;&gt;CMMI&lt;/a&gt;, other Standards&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Agile Methodologies for CI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namefocusoncustomerfocus-on-customera&quot;&gt;&lt;a name=&quot;focusoncustomer&quot;&gt;Focus on Customer&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Developer engagement-detachment&lt;/li&gt;
+      &lt;li&gt;Customer engagement-detachment&lt;/li&gt;
+      &lt;li&gt;Bringing back emotional connections&lt;/li&gt;
+      &lt;li&gt;Value driven software management&lt;/li&gt;
+      &lt;li&gt;Demonstration-based approach to customer engagement&lt;/li&gt;
+      &lt;li&gt;Emotional design&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameorganizationorganizationa&quot;&gt;&lt;a name=&quot;organization&quot;&gt;Organization&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Human
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;/2016/05/10/Social_Aspects_of_Software_Management.html&quot;&gt;Social aspects of SM&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;Communication&lt;/li&gt;
+          &lt;li&gt;Importance of culture&lt;/li&gt;
+          &lt;li&gt;Value of empathy&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Process
+        &lt;ul&gt;
+          &lt;li&gt;Identifying and Managing Bottlenecks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Technology&lt;/li&gt;
+      &lt;li&gt;Organizational influences and cultures
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.agilemanifesto.org/&quot;&gt;Agile Manifesto&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namechangemanagementchange-management---how-to-manage-change-organizational-change-change-agents-seedsa&quot;&gt;&lt;a name=&quot;changemanagement&quot;&gt;Change Management - how to manage change, organizational change, change agents, seeds&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameinformationsharinginformation-sharinga&quot;&gt;&lt;a name=&quot;informationsharing&quot;&gt;Information Sharing&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namesharedunderstandingshared-understandinga&quot;&gt;&lt;a name=&quot;sharedunderstanding&quot;&gt;Shared Understanding&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Aligned goals&lt;/li&gt;
+      &lt;li&gt;Collaborate&lt;/li&gt;
+      &lt;li&gt;Teamwork&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namecollaborationcollaborationa&quot;&gt;&lt;a name=&quot;collaboration&quot;&gt;Collaboration&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Human Resource Management&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/physical-workspaces.html&quot;&gt;Office Floor Plans&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameproductivityproductivitya&quot;&gt;&lt;a name=&quot;productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Measuring productivity&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Effect of collaboration&lt;/li&gt;
+      &lt;li&gt;Concepts form Mythical man month&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namecoordinationcoordinationa&quot;&gt;&lt;a name=&quot;coordination&quot;&gt;Coordination&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Negotiation&lt;/li&gt;
+      &lt;li&gt;Conflict management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namesystemsthinkingsystems-thinkinga&quot;&gt;&lt;a name=&quot;systemsthinking&quot;&gt;Systems Thinking&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nametimetimea&quot;&gt;&lt;a name=&quot;time&quot;&gt;Time&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Time Constraints&lt;/li&gt;
+      &lt;li&gt;Software Delivery Cadence&lt;/li&gt;
+      &lt;li&gt;Fiscal Quarters&lt;/li&gt;
+      &lt;li&gt;Deadlines&lt;/li&gt;
+      &lt;li&gt;Estimating delivery time&lt;/li&gt;
+      &lt;li&gt;Adapting to a schedule&lt;/li&gt;
+      &lt;li&gt;Time Management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameproblemsolvingproblem-solvinga&quot;&gt;&lt;a name=&quot;problemsolving&quot;&gt;Problem Solving&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Complexity Analysis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameplanningplanninga&quot;&gt;&lt;a name=&quot;planning&quot;&gt;Planning&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Estimation/sizing&lt;/li&gt;
+      &lt;li&gt;Resource allocation&lt;/li&gt;
+      &lt;li&gt;Timeline/schedule planning&lt;/li&gt;
+      &lt;li&gt;Commitment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameprocessprocessa&quot;&gt;&lt;a name=&quot;process&quot;&gt;Process&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Frameworks&lt;/li&gt;
+      &lt;li&gt;Software methodologies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameoverallmanagementoverall-managementa&quot;&gt;&lt;a name=&quot;overallmanagement&quot;&gt;Overall Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Program&lt;/li&gt;
+      &lt;li&gt;Portfolio&lt;/li&gt;
+      &lt;li&gt;Release&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameoperationssupportoperationssupportmaintenance-managementa&quot;&gt;&lt;a name=&quot;operationssupport&quot;&gt;Operations/Support/Maintenance Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;DevOps&lt;/li&gt;
+      &lt;li&gt;Tech Support&lt;/li&gt;
+      &lt;li&gt;Automated/instrumentalized log reporting/bug reporting&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namelifecyclemanagementlifecycle-managementa&quot;&gt;&lt;a name=&quot;lifecyclemanagement&quot;&gt;Lifecycle Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Product, software, process&lt;/li&gt;
+      &lt;li&gt;Iterative life cycle processes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nametheoryofconstraintstheory-of-constraintsa&quot;&gt;&lt;a name=&quot;theoryofconstraints&quot;&gt;Theory of Constraints&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namequeuingtheoryqueuing-theorya&quot;&gt;&lt;a name=&quot;queuingtheory&quot;&gt;Queuing Theory&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namerolesandresponsibilitiesroles-and-responsibilitiesa&quot;&gt;&lt;a name=&quot;rolesandresponsibilities&quot;&gt;Roles and Responsibilities&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Stakeholders&lt;/li&gt;
+      &lt;li&gt;Business Team&lt;/li&gt;
+      &lt;li&gt;Dev Team&lt;/li&gt;
+      &lt;li&gt;Test Team&lt;/li&gt;
+      &lt;li&gt;Ops Team&lt;/li&gt;
+      &lt;li&gt;Marketing Team&lt;/li&gt;
+      &lt;li&gt;Define roles/tasks of team members&lt;/li&gt;
+      &lt;li&gt;Customer
+        &lt;ul&gt;
+          &lt;li&gt;Influencer, buyer&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namequalitymanagementquality-managementa&quot;&gt;&lt;a name=&quot;qualitymanagement&quot;&gt;Quality Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;QA&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Metrics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Quality attributes&lt;/li&gt;
+      &lt;li&gt;Automation&lt;/li&gt;
+      &lt;li&gt;Continuous improvement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namefinancialmanagementfinancial-managementa&quot;&gt;&lt;a name=&quot;financialmanagement&quot;&gt;Financial Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Budget&lt;/li&gt;
+      &lt;li&gt;P&amp;amp;L&lt;/li&gt;
+      &lt;li&gt;Resource management&lt;/li&gt;
+      &lt;li&gt;Business models&lt;/li&gt;
+      &lt;li&gt;Cost/revenue&lt;/li&gt;
+      &lt;li&gt;Investors&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namefeasibilityanalysisfeasibility-analysisa&quot;&gt;&lt;a name=&quot;feasibilityanalysis&quot;&gt;Feasibility Analysis&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Technical Feasibility&lt;/li&gt;
+      &lt;li&gt;Market Feasibility&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namedevelopmentcontextdevelopment-contexta&quot;&gt;&lt;a name=&quot;developmentcontext&quot;&gt;Development Context&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Organization&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/physical_syllabus.html&quot;&gt;Physical Environment&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Social Aspects (Human Factors)
+        &lt;ul&gt;
+          &lt;li&gt;Personalities&lt;/li&gt;
+          &lt;li&gt;Cultures&lt;/li&gt;
+          &lt;li&gt;Leadership&lt;/li&gt;
+          &lt;li&gt;Collaboration&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Cyber
+        &lt;ul&gt;
+          &lt;li&gt;Development Tools&lt;/li&gt;
+          &lt;li&gt;Development Frameworks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namesoftwaredeliverymechanismsoftware-delivery-mechanisma&quot;&gt;&lt;a name=&quot;softwaredeliverymechanism&quot;&gt;Software Delivery Mechanism&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Software as a service – subscription model&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namearchitecturearchitecturea&quot;&gt;&lt;a name=&quot;architecture&quot;&gt;Architecture&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Design Foundation
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;/2016/05/03/waterfall_physical.html&quot;&gt;Waterfall&lt;/a&gt;/Separate Design Phase
+            &lt;ul&gt;
+              &lt;li&gt;BUFD (Big UpFront Design)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Deployment context&lt;/li&gt;
+          &lt;li&gt;Pregame (Scrum)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Agile Design Approach
+        &lt;ul&gt;
+          &lt;li&gt;Interative&lt;/li&gt;
+          &lt;li&gt;Refactoring&lt;/li&gt;
+          &lt;li&gt;Experimental&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Documentation
+        &lt;ul&gt;
+          &lt;li&gt;Design Artifacts&lt;/li&gt;
+          &lt;li&gt;Agile (code is best artifacts)&lt;/li&gt;
+          &lt;li&gt;Maintainability&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namesourcecontrolsource-controla&quot;&gt;&lt;a name=&quot;sourcecontrol&quot;&gt;Source Control&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Open Repositories&lt;/li&gt;
+      &lt;li&gt;Online Repositories&lt;/li&gt;
+      &lt;li&gt;Commitment and Rollback&lt;/li&gt;
+      &lt;li&gt;Version Control&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-nameopensourceopen-sourcea&quot;&gt;&lt;a name=&quot;opensource&quot;&gt;Open Source&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Management of codebase&lt;/li&gt;
+      &lt;li&gt;Access Rights&lt;/li&gt;
+      &lt;li&gt;Distribution Rights&lt;/li&gt;
+      &lt;li&gt;Copyright/Copyleft&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namemanagementfor-publicmanagement-for-publicgovernment-projectsa&quot;&gt;&lt;a name=&quot;managementfor public&quot;&gt;Management for Public/Government Projects&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Requirements Analysis&lt;/li&gt;
+      &lt;li&gt;Schedule&lt;/li&gt;
+      &lt;li&gt;Financials&lt;/li&gt;
+      &lt;li&gt;Application of Agile Methodologies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namelegalconsiderationslegal-considerations-for-software-managementa&quot;&gt;&lt;a name=&quot;legalconsiderations&quot;&gt;Legal Considerations for Software Management&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Security&lt;/li&gt;
+      &lt;li&gt;Open Source&lt;/li&gt;
+      &lt;li&gt;Critical Systems (Driverless Vehicles, Flight Control Systems, Medical Systems)&lt;/li&gt;
+      &lt;li&gt;Copyright&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;a-namesoftwaretestingsoftware-testinga&quot;&gt;&lt;a name=&quot;softwaretesting&quot;&gt;Software Testing&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Quality Control/Assurance (QC/QA)&lt;/li&gt;
+      &lt;li&gt;Test vs. Production Environments&lt;/li&gt;
+      &lt;li&gt;Static Testing&lt;/li&gt;
+      &lt;li&gt;Load Simulation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;visual-maps-of-software-management-theories-principles-and-practicessyllabus20160503visualmapshtml&quot;&gt;&lt;a href=&quot;/syllabus/2016/05/03/visual_maps.html&quot;&gt;Visual Maps of Software Management Theories, Principles, and Practices&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/26/SWBOK.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/26/SWBOK.html</guid>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Continuous Improvement - Related Videos</title>
+        <description>&lt;h1 id=&quot;continuous-improvement-videos&quot;&gt;Continuous Improvement Videos&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KyhR9hvMlPw&quot;&gt;Creating A Continuous Improvement Culture&lt;/a&gt;&lt;br /&gt;
+This video focuses on how to create a continuous improvement culture in an organization. 
+The video goes into details about the history of continuous improvement, the goals behind
+continuous inprovement, examples of continuous improvement in major companies, and how to
+create continuous improvement in an organization.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yeLZSEQW3pE&quot;&gt;8 Things To Avoid to Make Your Kaizen More Successful&lt;/a&gt;&lt;br /&gt;
+This video gives a lecture on eight things to avoid to help make continuous improvement more successful.
+This video gives examples of things to avoid, and how avoiding these things can lead to different 
+scenarios that help facilitate better continuous improvement practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1hvprBVWn3M&quot;&gt;Continuous process improvement: Penny Weller at TEDxKalamazoo&lt;/a&gt;&lt;br /&gt;
+This video showcases a Tedx talk with continuous improvement as the subject. This video describes continuous 
+improvement, how to incorporate continuous improvement, and how integrating continuous improvement can increase
+a customer’s satisfaction towards a product or service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UgAHWhwIyMI&quot;&gt;How to implement Continuous Improvement&lt;/a&gt;&lt;br /&gt;
+This video showcases a short animated clip showing where to begin when trying to implement continuous improvement into a
+business. The video briefly goes over what continous improvement is, and how to integrate continuous improvement
+in an already existing business.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VsK--Fs5I40&quot;&gt;The Best Leadership Style for Continuous Improvement&lt;/a&gt;&lt;br /&gt;
+This video explains about the leadership styles that are best suited towards facilitating continuous improvement, 
+and this video explains about the impact these leadership styles have on getting people motivated towards continuously
+improving themselves.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/24/continuous_Improvement_Videos.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement Unit Syllabus</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
+
+&lt;p&gt;Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities.&lt;/p&gt;
+
+&lt;p&gt;This unit examines aspects of continuous improvement, and how those aspects may be applied to Software Management.  The software development world is extremely competitive - in order to stay ahead, companies need to continuously improve their Software Management methodologies and practices.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-objectives&quot;&gt;LEARNING OBJECTIVES&lt;/h2&gt;
+
+&lt;p&gt;By the end of the unit, the student should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand the importance of Continuous Improvement to Software Management.&lt;/li&gt;
+  &lt;li&gt;Understand Lean startups and their connection to Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Identify different techniques companies use to implement Continuous Improvement.&lt;/li&gt;
+  &lt;li&gt;Understand aspects of Software Measurement and Metrics, and how they are tied to Continuous Improvement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;ORGANIZATION&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/Continuous_Improvement.html&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Lean-Startups_and_CI.html&quot;&gt;Lean Startups and Continuous Improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/05/software-measurement.html&quot;&gt;Software Measurement and Metrics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/16/CMMI.html&quot;&gt;Capability Maturity Model Integrated (CMMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_Articles.html&quot;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/12/Continous_Improvement_casestudies.html&quot;&gt;Case Studies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/05/24/continuous_Improvement_Videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;smbok-continuous-improvement20160526swbokhtmlcontinuousimprovement&quot;&gt;&lt;a href=&quot;/2016/05/26/SWBOK.html#continuousimprovement&quot;&gt;SMBOK Continuous Improvement&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html</link>
+        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html</guid>
+        
+        
+        <category>syllabus</category>
+        
+      </item>
+    
+      <item>
+        <title>Managing Distributed Teams</title>
+        <description>&lt;h1 id=&quot;managing-distributed-teams&quot;&gt;Managing Distributed Teams&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a name=&quot;content&quot;&gt;Contents&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#theories&quot;&gt;Theories&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Social Identity Theory&lt;/li&gt;
+      &lt;li&gt;Technocracy&lt;/li&gt;
+      &lt;li&gt;Swift Trust Theory&lt;/li&gt;
+      &lt;li&gt;Media Richness Theory (MRT)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#principles&quot;&gt;Principles&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Building trust&lt;/li&gt;
+      &lt;li&gt;Time zone, language, and cultural barriers&lt;/li&gt;
+      &lt;li&gt;Communication&lt;/li&gt;
+      &lt;li&gt;Technical alignments&lt;/li&gt;
+      &lt;li&gt;Project and process management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#practices&quot;&gt;Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resources&quot;&gt;Resources&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Blogs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a name=&quot;overview&quot;&gt;Overview&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Software development eams can be distributed geographically, culturally, with language barriers, across time zones, or just across campus. Developing software using distributed teams requires special emphasis on communication and building trust. A variety of practices are available to help with these issues. The extra effort can be well worth it. The diversity that distributed teams bring to solving a software problem can help to promote innovation and creativity in your teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guhgE9N0AGA&quot; title=&quot;what is Distributed Teams&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/guhgE9N0AGA/maxresdefault.jpg&quot; alt=&quot;what is Distributed Teams&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;theories&quot;&gt;Theories&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Social Identity Theory&lt;/h3&gt;
+&lt;p&gt;People are allocated to more one culture at a time, but different cultures are seen as being mutually exclusive. The theory predicts inter-group behavior on the basis of perceived group state differences, the perceived legitimacy and stability of those differences, and the perceived ability to move from one group to another.&lt;/p&gt;
+
+&lt;h3&gt;Technocracy&lt;/h3&gt;
+&lt;p&gt;The term was originally used to promote applying the scientific method to solving social problems, but is also an organizational structure of governance where decision-makers are selected on the basis of technological knowledge and merit. Technocrats are individuals with technical training and occupations who perceive many important social problems as being solvable, often while proposing technology-focused solutions. A technocrat is primarily driven by their cognitive “problem-solution mindset.”&lt;/p&gt;
+
+&lt;h3&gt;Swift Trust Theory&lt;/h3&gt;
+&lt;p&gt;Swift trust is a form of trust occurring in temporary organizational structures, which can include quick starting groups or teams. It was first explored by Debra Meyerson and colleagues in 1996. In swift trust theory, a group or team assumes trust initially, and later verifies and adjusts trust beliefs accordingly.
+Traditionally, trust has been examined in the context of long-term relationships. The establishment of trust has been thought to rely largely on the history of a group and the interactions between members. This traditional view of trust generally assumes that trust builds over time. However, this view is becoming problematic with the increase in globalization, change in technologies, and an increased reliance on temporary teams by organizations. Meyerson et al. propose that swift trust provides the necessary, initial, cognitive confidence for a temporary team to interact as if trust were present. However, swift trust requires an individual to verify that a team can manage vulnerabilities and expectations.&lt;/p&gt;
+
+&lt;h3&gt;Media Richness Theory (MRT)&lt;/h3&gt;
+&lt;p&gt;This theory is based on the work of Daft and Lengel (1984 and 1986) and Daft, Lengel and Trevino (1987). MRT is a theory that can be used to describe the ability of communication media to transfer information. It assumes that organisations process information to reduce uncertainty and equivocality (Weiman,P 2010).&lt;/p&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;principles&quot;&gt;Principles&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Building trust&lt;/h3&gt;
+&lt;p&gt;Nothing is more important than this crucial element of a hyper-productive team, and building trust is essential in the formation of cohesiveness between team members. Gaining trust is a challenge when team members are distributed across different time zones, cultures, and environments, and when they also face communication, language, technical alignment, and project management issues. When a team doesn’t possess a minimum level of trust, it’s more difficult to deal with challenges when they appear – it is often easy to blame and criticize the ‘other’ groups and the team can break down into competing tribes. When trust is strong, team members are able to work through the most difficult issues and they often create innovative solutions.&lt;/p&gt;
+
+&lt;h3&gt;Time zone, language, and cultural barriers&lt;/h3&gt;
+&lt;p&gt;It is vital to create overlapping office hours so that remote teams can communicate, resolve problems, and bridge time zones for other mission-critical tasks. More overlapping time during the day fosters better engagement and collaboration. When team members come from different cultural backgrounds, language and cultural differences can easily create misunderstanding and generate mistrust among team members. In addition, team members in different regions generally have varying degrees of skill and technology expertise, which can create a class system between the different remote teams and hinder collaboration. W H I T E PA P E R : Successful Distributed Agile Team Working Patterns&lt;/p&gt;
+
+&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.&lt;/p&gt;
+
+&lt;p&gt;Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
+
+&lt;h3&gt;Communication&lt;/h3&gt;
+&lt;p&gt;As outlined in the section above, different time zones create communication challenges for teams. Overlapping office hours facilitate periods for discussions, problem solving, remote pairing, and other activities that contribute to a project’s success. It is crucial to create as much overlapping time during the day as possible. Team members at different locations often fall back to using low bandwidth communication channels, such as emails or documents, which generates large amounts of lost or misunderstood information. Therefore, high bandwidth communication tools such as video conferencing or desktop sharing should be used as frequently as possible.&lt;/p&gt;
+
+&lt;h3&gt;Technical alignments&lt;/h3&gt;
+&lt;p&gt;Team members from different backgrounds and regions may have divergent preferences about technologies and tools. For example, team members in Redmond, Washington may have a bias towards Microsoft technologies, while members in China may prefer open-source technologies. Misalignment in engineering best practices can also create conflicts between the remote teams – for example, determining whether to use test first vs. test later development practices or when to do refactoring. Other typical misalignments are coding standards, tooling, and architectural design. Within a co-located team, these misalignments on values are generally resolved over time by day-to-day discussion and communication between team members, with team members gradually building mutual understanding.&lt;/p&gt;
+
+&lt;h3&gt;Project and process management&lt;/h3&gt;
+&lt;p&gt;In a co-located team, the need for online project and process management is minimal— most co-located teams prefer a physical task board, and BVCs (big visible charts) in the team area to help them stay current on progress and information-sharing with other members. In a distributed environment, transparency and visibility are essential for all remote teams. High-visibility, real-time online project tracking and process management (for example, next Sprint planning dates, CI monitoring) enables all teams to be fully engaged in the development process.&lt;/p&gt;
+
+&lt;p&gt;Related :
+https://www.mindtools.com/pages/article/newTMM_40.htm&lt;/p&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;practices&quot;&gt;Practices&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGg23p_ksp8&quot; title=&quot;Managing distributed teams!&quot;&gt;&lt;img src=&quot;https://i1.ytimg.com/vi/FGg23p_ksp8/maxresdefault.jpg&quot; alt=&quot;Managing distributed teams,5 golden rules &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Build “The A Team“&lt;/h3&gt;
+
+&lt;p&gt;In order to have the highest quality possible and better productivity, synergy within the team is very important. Often, there are various challenges but this is the most important factor. Team members on the same frequency usually leads to successful projects.&lt;/p&gt;
+
+&lt;h3&gt;Set Expectations/Roles within the team&lt;/h3&gt;
+&lt;p&gt;Team members should always work towards same goal. In our case, it is delivering the highest quality product. Team managers/leads should let each and every team member know what role they are going to play in the project and their responsibility.&lt;/p&gt;
+
+&lt;h3&gt;Be Transparent within the team&lt;/h3&gt;
+&lt;p&gt;Being transparent keeps all the team members on same page, which helps reach their goals collectively.&lt;/p&gt;
+
+&lt;h3&gt;Communicate often within the team&lt;/h3&gt;
+&lt;p&gt;Since the team is distributed, communication is a very important factor, such as having daily calls with leads and with team if required. It is always necessary within the team to have a willingness to learn, share and communicate with peers.&lt;/p&gt;
+
+&lt;h3&gt;Status Reporting to the team&lt;/h3&gt;
+&lt;p&gt;Each and every team should share their status reports to let distributed team members know the progress, which will help them to carry out the tasks remaining.&lt;/p&gt;
+
+&lt;h3&gt;Setting up Video conferences&lt;/h3&gt;
+&lt;p&gt;If not daily or weekly, there should be monthly video conferences to help team to know whom they are working with especially if the team is distributed.&lt;/p&gt;
+
+&lt;h3&gt; Having face to face meeting (if possible)&lt;/h3&gt;
+
+&lt;h3&gt; Usage of Tools&lt;/h3&gt;
+&lt;p&gt;Tools help the distributed team to often store data, collaborate adequately within the team. SharePoint, blog, WebEx, net meeting, Team Viewer, Req Pro, Quality Center, Perforce, MS project are some of the examples. It also increases the productivity and helps us to stay on top of things.&lt;/p&gt;
+
+&lt;p&gt;Related : https://www.linkedin.com/pulse/best-practices-managing-distributed-teams-mba-csm-lss-gb&lt;/p&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;resources&quot;&gt;Resources&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3&gt;Blogs&lt;/h3&gt;
+
+&lt;h4&gt;Getting most out your geographically distributed agile team &lt;/h4&gt;
+&lt;p&gt;Shane Hastie and Johanna Rothman explain the challenges that come with distance, be it cultural, social, linguistic, temporal, or geographic. If you work to reinforce your collaboration habits every day, your geographically distributed agile team will thank you.
+Related : https://www.agileconnection.com/article/getting-most-out-your-geographically-distributed-agile-team&lt;/p&gt;
+
+&lt;h4&gt;Virtual community of practice &lt;/h4&gt;
+&lt;p&gt;This Wikipedia page talks about what is online community of practice also called as virtual community of practice, current research, its advantages, disadvantages and some real world examples.&lt;/p&gt;
+
+&lt;p&gt;Related : https://en.wikipedia.org/wiki/Virtual_community_of_practice&lt;/p&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;references&quot;&gt;References&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Christopher P. Furner. 2013. Cultural Determinants of Information Processing Shortcuts in Computer Supported Groups: A Review, Research Agenda and Instrument Validation. Int. J. Inf. Syst. Soc. Chang. 4, 3 (July 2013), 17-32. DOI=http://dx.doi.org/10.4018/jissc.2013070102&lt;/p&gt;
+
+&lt;p&gt;Na Li and Mary Beth Rosson. 2014. Using annotations in online group chats. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14). ACM, New York, NY, USA, 863-866. DOI=http://dx.doi.org/10.1145/2556288.2557209&lt;/p&gt;
+
+&lt;p&gt;Bruce A. Reinig and Roberto J. Mejias. 2014. On the Measurement of Participation Equality. Int. J. e-Collab. 10, 4 (October 2014), 32-48. DOI=http://dx.doi.org/10.4018/ijec.2014100103&lt;/p&gt;
+
+&lt;p&gt;Daft, R.L., &amp;amp; Lengel, R.H. (1984) Information Richness: A New Approach to Managerial Behavior and Organizational Design. In L.L. Cummings, &amp;amp; B.M. Staw (Eds.), Research in Organizational Behavior (pp191-233). Homewood, IL: JAI Press.&lt;/p&gt;
+
+&lt;p&gt;Daft, R.L., &amp;amp; Lengel, R.H. (1986) Organizational Information Requirements, Media Richness and Structural Design. Management Science, Vol 32, No. 5, pp554-571.&lt;/p&gt;
+
+&lt;p&gt;Daft, R.L., Lengel, R.H., &amp;amp; Trevino, L. K. (1987) Message Equivocality, Media Selection, and Manager Performance Implications r Information Systems. MIS Quarterly, Vol 11, No. 3, pp354-366.&lt;/p&gt;
+
+&lt;p&gt;Fang Chen, Limin Zhang, and Joseph Latimer. 2014. How much has my co-worker contributed? The impact of anonymity and feedback on social loafing in asynchronous virtual collaboration. Int. J. Inf. Manag. 34, 5 (October 2014), 652-659. DOI=http://dx.doi.org/10.1016/j.ijinfomgt.2014.05.001&lt;/p&gt;
+
+&lt;p&gt;Timo O. A. Lehtinen, Risto Virtanen, Juha O. Viljanen, Mika V. Mäntylä, and Casper Lassenius. 2014. A tool supporting root cause analysis for synchronous retrospectives in distributed software teams. Inf. Softw. Technol. 56, 4 (April 2014), 408-437. DOI=http://dx.doi.org/10.1016/j.infsof.2014.01.004&lt;/p&gt;
+
+&lt;p&gt;Jennifer A. Nicholson, Darren B. Nicholson, Patrick Coyle, Andrew Hardin, and Anjala S. Krishen. 2014. Exploring the Use of Virtual World Technology for Idea-Generation Tasks. Int. J. e-Collab. 10, 3 (July 2014), 44-62. DOI=http://dx.doi.org/10.4018/ijec.2014070103&lt;/p&gt;
+
+&lt;p&gt;J. F. Nunamaker, Alan R. Dennis, Joseph S. Valacich, Douglas Vogel, and Joey F. George. 1991. Electronic meeting systems. Commun. ACM 34, 7 (July 1991), 40-61. DOI=http://dx.doi.org/10.1145/105783.105793&lt;/p&gt;
+
+&lt;p&gt;Gary Klein, James J. Jiang, and Debbie B. Tesch. 2002. Wanted:project teams with a blend of is professional orientations. Commun. ACM 45, 6 (June 2002), 81-87. DOI=http://dx.doi.org/10.1145/508448.508452&lt;/p&gt;
+
+&lt;p&gt;Barry W. Boehm. 1991. Software Risk Management: Principles and Practices. IEEE Softw. 8, 1 (January 1991), 32-41. DOI=http://dx.doi.org/10.1109/52.62930&lt;/p&gt;
+
+&lt;p&gt;N. Jonsson, D. Novosel, J. Lillieskold, and M. Eriksson. 2001. Successful Management of Complex, Multinational R&amp;amp;D Projects. In Proceedings of the 34th Annual Hawaii International Conference on System Sciences ( HICSS-34)-Volume 8 - Volume 8 (HICSS ‘01), Vol. 8. IEEE Computer Society, Washington, DC, USA, 8044-.&lt;/p&gt;
+
+&lt;p&gt;Catherine M. Beise. 2004. IT project management and virtual teams. In Proceedings of the 2004 SIGMIS conference on Computer personnel research: Careers, culture, and ethics in a networked environment (SIGMIS CPR ‘04). ACM, New York, NY, USA, 129-133. DOI=http://dx.doi.org/10.1145/982372.982405&lt;/p&gt;
+
+&lt;p&gt;Viviane Santos, Alfredo Goldman, and Cleidson R. B. De Souza. 2015. Fostering effective inter-team knowledge sharing in agile software development. Empirical Softw. Engg. 20, 4 (August 2015), 1006-1051. DOI=10.1007/s10664-014-9307-y http://dx.doi.org/10.1007/s10664-014-9307-y&lt;/p&gt;
+
+&lt;p&gt;Wikipedia. (2016, April 15). Swift trust theory. Retrieved from Wikipedia, the free encyclopedia: https://en.wikipedia.org/wiki/Swift_trust_theory&lt;/p&gt;
+
+&lt;p&gt;Weimann, P, Hinz, C, Scott, E and Pollock, M. “Changing the Communication Culture of Distributed Teams in a World Where Communication is Neither Perfect nor Complete” The Electronic Journal Information Systems Evaluation Volume 13 Issue 2 2010, (pp187 - 196), available online at www.ejise.com&lt;/p&gt;
+
+&lt;p&gt;Lori Anschuetz, Tec-Ed, Inc., “Managing Geographically Distributed Teams”, IPCC 98 Proceedings, the annual conference of the IEEE Professional Communication Society, 1998. 
+http://teced.com/wp-content/uploads/2011/06/ipcc98la-managing-geographically-distributed-teams.pdf&lt;/p&gt;
+
+&lt;p&gt;Monica Yap, Successful Distributed Agile Team Working Patterns,  SolutionsIQ, Inc. 2010
+https://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pdf&lt;/p&gt;
+
+&lt;p&gt;Back to &lt;a href=&quot;#content&quot;&gt;top&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/syllabus/2016/05/24/Managing_Distributed_Teams.html</link>
+        <guid isPermaLink="true">http://css566.github.io/syllabus/2016/05/24/Managing_Distributed_Teams.html</guid>
+        
+        
+        <category>syllabus</category>
+        
+      </item>
+    
+      <item>
+        <title>Agile Software Management Economic Unit Principles</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Working software as a minimum shippable product
+    &lt;ul&gt;
+      &lt;li&gt;Working software that is continuously delivered creates visibility into the process and helps eliminate wasted time and resources (i.e. money) [1]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Responding to Change
+    &lt;ul&gt;
+      &lt;li&gt;“If we built the wrong thing, we can stop wasting money on that path.” [3]&lt;/li&gt;
+      &lt;li&gt;Risk is reduced because business is more able to rapidly respond to change and adapt to changing competitive and technological landscape [1]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Customer collaboration [2]
+    &lt;ul&gt;
+      &lt;li&gt;Customers and business gets better product in the end with Agile because their needs are addressed continually. Happier customers = healthier business finances&lt;/li&gt;
+      &lt;li&gt;Customer collaboration creates transparency and trust with them, resulting in evangelists for the business/software and more demand for your software [3]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;People and interactions over processes and tools
+    &lt;ul&gt;
+      &lt;li&gt;Agile prefers small, cross-org teams over monolithic large teams, leading to faster decisions and mitigation of risks of bad decisions. [3]
+        &lt;ul&gt;
+          &lt;li&gt;This has an indirect financial impact that ties in with less wasted resources&lt;/li&gt;
+          &lt;li&gt;Focus on people, both internal and external (employees and customers), results in many social benefits such as sense of ownership, flexibility in approach, dynamic adaptability, and trust with customers. Happier people = better product = happier customers = better business value&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Customer-Focused-Approach.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 1. Agile focus on customers and people allows for rapid adaptation to customer expectations, as illustrated. Source: [11]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/agile_economic_syllabus.html&quot;&gt;Unit Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/19/agile_economic_principles.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_principles.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Agile Software Management Economic Unit Practices and Theories</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Build continual planning and customer feedback into the process
+    &lt;ul&gt;
+      &lt;li&gt;Value is maximized throughout the development process [1]&lt;/li&gt;
+      &lt;li&gt;“As a result of this iterative planning and feedback loop, teams are able to continuously align the delivered software with desired business needs, easily adapting to changing requirements throughout the process.” [1]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Early and frequent delivery of value to customers
+    &lt;ul&gt;
+      &lt;li&gt;Agile development “accelerates the delivery of initial business value” [1]
+        &lt;ul&gt;
+          &lt;li&gt;This can be empirically measured, such as the in-class penny exercise that proved that iterative small batches results in faster delivery of value to the customer&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Customers will reduce the value they place on something if they have to wait too long, so early delivery is better [4]&lt;/li&gt;
+      &lt;li&gt;Early delivery means early money to use for other business needs and investments [3]&lt;/li&gt;
+      &lt;li&gt;Continual cash flow is healthier for the business than waiting for money at the end of a project [3]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Iterative development
+    &lt;ul&gt;
+      &lt;li&gt;Ideas, concepts, and software features depreciate over time and have a “freshness window” before people place no value in them, so Agile development works within that 1-4 week timeframe to stay on top of customer needs and market demands [4&lt;/li&gt;
+      &lt;li&gt;Iterative software product produces less value more frequently and is able to achieve higher overall value before depreciating revenue-wise [4]&lt;/li&gt;
+      &lt;li&gt;Risk is “reset” every iteration due to iterative reevaluation of product [4]&lt;/li&gt;
+      &lt;li&gt;Bug cost is reduced because they are continually tested and squashed instead of looked at far after the code is written [4]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/agile_development_value_proposition.jpg&quot; alt=&quot;GitHub Logo&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 2. Charts showing value proposition of Agile Development (red) vs. Traditional Development (gray). Source: VersionOne Enterprise Agile Solutions [1]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Theory of constraints - “The chain is no stronger than its weakest link” [5]
+    &lt;ul&gt;
+      &lt;li&gt;Limiting amount of work that causes constraint or bottleneck&lt;/li&gt;
+      &lt;li&gt;Diverting work away from the bottleneck&lt;/li&gt;
+      &lt;li&gt;Increasing limitation of bottleneck by buying systems or hiring people&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use of agile methodology to reduce cost of failure [5]
+    &lt;ul&gt;
+      &lt;li&gt;Faster feedback from stakeholders&lt;/li&gt;
+      &lt;li&gt;Increasing flow of information within participating entities in a scrum&lt;/li&gt;
+      &lt;li&gt;Decreasing the risk of one person failing by reducing number of dependencies on that person and distributing work equally amongst everyone&lt;/li&gt;
+      &lt;li&gt;Focusing more on simplicity and reducing complication&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Importance of refactoring in agile [6]
+    &lt;ul&gt;
+      &lt;li&gt;More cost is incurred for adding features than the business benefits of adding these features if software system becomes dysfunctional and complicated&lt;/li&gt;
+      &lt;li&gt;Refactoring is safest and cheapest when done in many small chunks&lt;/li&gt;
+      &lt;li&gt;Use of business requests as catalysts for refactoring rather than call from technical teams&lt;/li&gt;
+      &lt;li&gt;Team cohesion in terms of communication and collaboration in regards to which tools, techniques, and practices to use in refactoring&lt;/li&gt;
+      &lt;li&gt;Team’s openness and honesty with all stakeholders about the cost of refactoring&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_1.jpg&quot; alt=&quot;GitHub Logo&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 3. Diagram illustrating how refactoring reduces complexity and costs in agile software development. Source: Richard Fridrich [5]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shorter feedback loops [7]
+    &lt;ul&gt;
+      &lt;li&gt;In agile, risks are cut down because of short releases in contrary to multi-year waterfall projects. Hence, feedback reduced to a smaller period&lt;/li&gt;
+      &lt;li&gt;Comparison of the opportunity cost of agile and waterfall results in identifying waste of money and missing opportunity of working on more profitable projects in waterfall&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;User satisfaction has value too and not just return on investment in the form of money&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/agile_economic_syllabus.html&quot;&gt;Unit Home&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/19/agile_economic_practices_theories.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_practices_theories.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Agile Software Management Economic Unit Case Studies</title>
+        <description>&lt;p&gt;1) &lt;strong&gt;“Mugshot.com” Website&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Case-study that shows how agile outperforms traditional techniques - by Chad Albrecht of Centare [4]
+In this video (cited in references [4]), Chad has demonstrated a side-by-side cost model of an Agile vs. Traditional project. This case study is about creating a simple website, “Mugshot.com”. This social network site allows users to connect with family and friends. The major requirement is the website must be up and running ASAP.&lt;/p&gt;
+
+&lt;p&gt;Some principles that they are going to use are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bugs cost more the longer we wait&lt;/li&gt;
+  &lt;li&gt;Requirements change&lt;/li&gt;
+  &lt;li&gt;Some requirements are wrong&lt;/li&gt;
+  &lt;li&gt;Software depreciates&lt;/li&gt;
+  &lt;li&gt;We can choose when to stop developing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_2.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 4. Team structure and budget planning for Mugshot website. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Figure 4 describes the structure of the team that is going to work on developing the website.&lt;/p&gt;
+
+&lt;p&gt;They have taken a team of 6 developers who will be working on developing the website. And they are going to include everybody on that team. They have four software engineers, a DBA and a QA. Each of them cost 2000/week. Total comes out to be $12000/week. There are 120 requirements to start with, given a requirement stack. Almost 20% of requirements are invalid. And they are getting approximately two changes a week. Each developer is putting four bugs per day in the code.  The longer the bug sticks around, the more it costs to fix. For the first 7 days, it takes 15 minutes. For first 30 days, it takes 30 minutes. Thereafter, they are gonna take 90 minutes to fix. The purpose of this is to model some of the things that we see in industry and try to compare short-cycle vs long-cycle that is, agile practices  vs more traditional long cycle practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_3.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 5. Traditional Approach - Cost Summary. Source of image: [4]&lt;/p&gt;
+
+&lt;p&gt;What this comes down when you plug all these numbers in is, its gonna cost them about almost half a million dollars to develop in a traditional sense (Refer figure 2), with discovery and estimation, implementation, fixing bugs. It is interesting to see that, the bug fixing phase cost them the most. Almost $330000 just to fix the bugs and stabilize for a total cost of half a million dollars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_4.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 6: Agile Approach - Cost Summary. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Figure 6 shows cost summary of agile approach. In agile approach, they ran 20 weeks, that is half the time as traditional approach. And it only cost them $240,000 from a cost standpoint. Moreover, they were keeping up with utility, they were matching utility, they were keeping features fresh, they were releasing more often, and they were adjusting to the two requirements that were changing every week on an on-going basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/revenue_comparison.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 7. Revenue Comparison of Agile vs. Traditioanl development for Mugshot website case study. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;From figure 7,  by looking at gross revenue from forecasting standpoint, it looked like they are going to make a lot of money in a traditional sense. But as we get through, all the waste generated costed a lot in traditional approach. And it turns out that our revenue less depreciation is significant on the agile approach.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/overall_comparison.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 8. Overall Comparison. Source: [4]&lt;/p&gt;
+
+&lt;p&gt;Overall comparison is shown in figure 8. They generated $87000 in waste in traditional sense and the net income if compared shows what economic impact agile is capable of producing. Conclusion is it can range anywhere from 2:1 to 10:1 improvement in agile.&lt;/p&gt;
+
+&lt;p&gt;2) &lt;strong&gt;SAFe [8]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This case study is about how SAFe applies lean-agile principles to give a broader economic view and to highlight key role economics plays in successful solution development. It talks about decentralizing decision making enabled by team’s knowledge on fundamental economic drivers for the solution. In particular, decision-making can happen in agreed-to financial context within the team.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/css566/css566.github.io/master/images/SM_Unit_Economic_CaseStudy_7.jpg&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 9. SAFe constructs for economic decision-making. Source: [8]&lt;/p&gt;
+
+&lt;p&gt;Figure 9 illustrates how economic framework decision rules are embedded in SAFe. The components are as following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lean agile budgeting: This is the very first decision and kind of an important one, as lean-agile enterprise moves from project-based cost-center accounting to a more streamlined budget process. In particular, cost for each program increment is largely fixed and scope is varied as necessary to stay within the PI budget.&lt;/li&gt;
+  &lt;li&gt;Epic funding and governance: Allocating funds to the value streams is all well and good, but what happens when there are substantial concerns such as significant local investment concerns? The empowerment of funding requires responsibility to communicate any investments that are beyond routine.&lt;/li&gt;
+  &lt;li&gt;Decentralize economic decision-making: With these elements of the framework in place, enterprise empowers people relevant context and knowledge to make content decisions at each level of the framework.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Job sequencing based on cost of delay: Every significant program has a host of new backlog features and capabilities just waiting to be implemented in order to increase efficacy of the solution. But SAFe is a flow-based system and flow-based system economics are optimized by job-sequencing rather than by theoretical job ROI. Picking the right next job is where the greatest benefit lies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/syllabus/2016/04/28/agile_economic_syllabus.html&quot;&gt;Unit Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/19/agile_economic_case_studies.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/19/agile_economic_case_studies.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Capability Maturity Model Integration</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Capability Maturity Model Integration (CMMI) is a process improvement training and appraisal program and service administered and marketed by Carnegie Mellon University (CMU) and required by many DoD and U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire organization.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cmmi_levels.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CMMI Levels&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Characteristics_of_Capability_Maturity_Model.svg/800px-Characteristics_of_Capability_Maturity_Model.svg.png&quot;&gt;Source: CMMI levels&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The process areas below and their maturity levels are listed for the CMMI for Services model:&lt;/p&gt;
+
+&lt;h3 id=&quot;maturity-level-2--managed&quot;&gt;Maturity Level 2  Managed&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CM Configuration Management&lt;/li&gt;
+  &lt;li&gt;MA Measurement and Analysis&lt;/li&gt;
+  &lt;li&gt;PPQA Process and Product Quality Assurance&lt;/li&gt;
+  &lt;li&gt;REQM Requirements Management&lt;/li&gt;
+  &lt;li&gt;SAM Supplier Agreement Management&lt;/li&gt;
+  &lt;li&gt;SD Service Delivery&lt;/li&gt;
+  &lt;li&gt;WMC Work Monitoring and Control&lt;/li&gt;
+  &lt;li&gt;WP Work Planning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-3--defined&quot;&gt;Maturity Level 3  Defined&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CAM Capacity and Availability Management&lt;/li&gt;
+  &lt;li&gt;DAR Decision Analysis and Resolution&lt;/li&gt;
+  &lt;li&gt;IRP Incident Resolution and Prevention&lt;/li&gt;
+  &lt;li&gt;IWM Integrated Work Managements&lt;/li&gt;
+  &lt;li&gt;OPD Organizational Process Definition&lt;/li&gt;
+  &lt;li&gt;OPF Organizational Process Focus&lt;/li&gt;
+  &lt;li&gt;OT Organizational Training&lt;/li&gt;
+  &lt;li&gt;RSKM Risk Management&lt;/li&gt;
+  &lt;li&gt;SCON Service Continuity&lt;/li&gt;
+  &lt;li&gt;SSD Service System Development&lt;/li&gt;
+  &lt;li&gt;SST Service System Transition&lt;/li&gt;
+  &lt;li&gt;STSM Strategic Service Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-4--quantitatively-managed&quot;&gt;Maturity Level 4  Quantitatively Managed&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OPP Organizational Process Performance&lt;/li&gt;
+  &lt;li&gt;QWM Quantitative Work Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maturity-level-5--optimizing&quot;&gt;Maturity Level 5  Optimizing&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CAR Causal Analysis and Resolution&lt;/li&gt;
+  &lt;li&gt;OPM Organizational Performance Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cmmi_wheel.png&quot; alt=&quot;GitHub Logo&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CMMI Cycle&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.webelite.com/images/cmmi_wheel.png&quot;&gt;Source: CMMI cycle&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;smbok-continuous-improvement20160526swbokhtmlcontinuousimprovement&quot;&gt;&lt;a href=&quot;/2016/05/26/SWBOK.html#continuousimprovement&quot;&gt;SMBOK Continuous Improvement&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/16/CMMI.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/16/CMMI.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lean Startups and Continuous Improvement</title>
+        <description>&lt;p&gt;&lt;a name=&quot;content&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is a Lean startup?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What are Lean and Continuous Improvement?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Continuous Improvement&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lean Manufacturing Vs. Continuous Improvement&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Extra Resources&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;References&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;what-is-a-lean-startup&quot;&gt;1. What is a Lean startup?&lt;/h2&gt;
+&lt;p&gt;Lean startup is a method for developing businesses and products first proposed in 2008 by Eric Ries. 
+   Based on his previous experience working in several U.S. startups, Ries claims that startups can shorten their product development cycles by adopting a combination of business-hypothesis-driven experimentation, iterative product releases, and what he calls validated learning. 
+   Ries’ overall claim is that if startups invest their time into iteratively building products or services to meet the needs of early customers, they can reduce the market risks and sidestep the need for large amounts of initial project funding and expensive product launches and failures. [4]&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/master/images/LeanStartupCyle.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fig 1: Illustrates the working of A Lean Startup Cycle[5]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-is-lean-and-continuous-improvement-3&quot;&gt;2. What is Lean and Continuous Improvement? [3]&lt;/h2&gt;
+&lt;p&gt;Lean manufacturing is a continuous improvement model that strives to eliminate non-value-added activities. Continuous improvement is an organizational mindset that focuses on an ongoing effort to improve. There are a number of continuous improvement-type approaches that firms can adopt. Manufacturers that embrace an attitude of continuous improvement can be transformed into agile, more competitive, and more profitable businesses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/gh-pages/images/Lean_CI.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;
+  &amp;gt; Fig 2: Explains Lean startup and Continuous Improvement&lt;/p&gt;
+
+&lt;h2 id=&quot;continuous-improvement-1&quot;&gt;3. Continuous Improvement [1]&lt;/h2&gt;
+&lt;p&gt;Continuous Improvement (commonly referred to by the Japanese word kaizen) is arguably the most critical principle of lean manufacturing. It should truly form the basis of your lean implementation. Without continuous improvement your progress will cease. As the name implies, Continuous Improvement promotes constant, necessary change toward achievement of a desired state. The changes can be big or small but must lend itself toward improvement (often many small changes are required to achieve the target). The process truly is continual as there is always room for improvement.
+  Continuous Improvement should be a mind-set throughout your whole organization. Do not get caught up in only trying to find the big ideas. Small ideas will often times lead to big improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/gh-pages/images/ContinuousImprov.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;
+  &amp;gt; Fig 3: The Management Process in Lean [2]&lt;/p&gt;
+
+&lt;h2 id=&quot;lean-manufacturing-vs-continuous-improvement-6&quot;&gt;4. Lean Manufacturing Vs. Continuous Improvement [6]&lt;/h2&gt;
+&lt;p&gt;Let’s start off by defining Lean manufacturing. Lean (as described on multiple on-line resources) is described as a production practice that focuses on the elimination of wasteful elements in all process to increase the value to the customer. Sounds great! What organization wouldn’t want to implement a program to eliminate waste? The problem is that some organizations misuse Lean Manufacturing to overwork and reduce headcount.
+  Sure reducing headcount will save money in the short term. Let me assure you, it comes at a higher cost.
+  Let’s say a manager forms a team of skilled individuals to rebalance processes on the line to remove operators. Soon, the operators who are left on the line will start noticing, leading to refusal to cooperate with any effort to make improvement. They will begin to resist changes due to the fact they are scared to lose their job or contribute to a co-worker loosing theirs. This causes stress, conflict, finger pointing and ultimately failure.
+  This is a sure fire way to pit management against the shop floor. It is due to this lack of understanding that Lean has left a bad taste in many shop floor employees’ mouths. This leads me to the opinion that maybe the word Lean needs to be eliminated from our vocabulary.
+  I think that when we focus strictly on Lean we inevitably pay more attention to the dollar numbers. I am not saying that the dollar numbers are not important. They are, but there are other elements within an organization that far outweigh the bottom dollar, create flexibility and opportunity for future growth.
+  It is my opinion that running an organization Lean is actually a by-product of Continuous Improvement philosophy. When we focus our sites on Lean and Lean alone we are really missing the bigger picture. Culture is the most important element to true organizational maturity. Continuous Improvement philosophy zeros in on culture and stimulates its development.
+  Continuous Improvement philosophy focuses on the people and the success of the organizational team. It requires everyone’s engagement, commitment and trust. It is therefore culture driven and will help the company grow for years.
+  Everyone should be trained on its ideals and philosophies. For a continuous improvement organization to thrive organizational leadership must dedicate 85% to development of other employees through training, influence and OJT. Once the majority of the organization understands the philosophy then, and only then is it time to move to the next step.
+  The remaining 15% then can be dedicated to implementing the actual tools and engaging the employees. The employees that own the process need to make the change and improve the organizations current state. Not only does this encourage them but it also increases the chance that the change will be sustained and standardized.
+  We must be careful as organizational leaders to not put the cart before the horse. Don’t expect significant, highly profitable changes too fast. Let the cake sit in the oven for a while, trust me in the end it will taste much sweeter.
+  Let’s get “Lean” out of our heads and start communicating CI. It’s broader, includes everyone (especially the operators) and will give us long term gains. Let’s train, empower and engage rather than cut time, rebalance and lay-off.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/css566/css566.github.io/blob/gh-pages/images/LeanManufacturing.PNG?raw=true&quot; alt=&quot;enter image description here&quot; /&gt;
+  &amp;gt; Fig 4: Describes the Lean Manufacturing Process [7]&lt;/p&gt;
+
+&lt;p&gt;##Extra Resources
+  Following is a list of Articles that talk about Lean Startups and Continuous Improvement:&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://theleanstartup.com/principles&quot;&gt;Lean Principles and how software development processes are engineered in Lean Startups.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://leankit.com/learn/kanban/continuous-improvement/&quot;&gt;Continuous Improvement strategy followed in Lean Startups&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://www.leanblog.org/2013/12/preview-of-my-lean-startup-conference-talk-engaging-your-team-in-continuous-improvement/&quot;&gt;A blog on ‘Engaging your Team in Continuous Improvement’.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://www.slideshare.net/LeanStartupConf/engaging-your-team-in-continuous-improvement&quot;&gt;A presentation on ‘Engaging your Team in Continuous Improvement’ by Mark Graban.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Following is a list of Videos that talk about Lean Startups and Continuous Improvement&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://leankit.com/product/&quot;&gt;Gives an overview of how to use the leankit tool.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Following is a list of Case Studies that talk about Lean Startups and Continuous Improvement&lt;/p&gt;
+
+&lt;p&gt;•	&lt;a href=&quot;http://theleanstartup.com/casestudies#dropbox&quot;&gt;The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;##References&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&quot;http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html&quot;&gt;Continuous Improvement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2]	&lt;a href=&quot;https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#imgrc=RQ1N4m6P0xm0eM%3A&quot;&gt;Management Process in Lean&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3]	&lt;a href=&quot;http://www.nist.gov/mep/services/continuous-improvement/&quot;&gt;Lean and Continuous Improvement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4]	&lt;a href=&quot;https://en.wikipedia.org/wiki/Lean_startup&quot;&gt;Lean startup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5]	&lt;a href=&quot;https://www.google.com/search?q=lean+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2tLGFhNXMAhUM8mMKHRvqCRYQ_AUIBygC#tbm=isch&amp;amp;q=lean+startups&amp;amp;imgrc=QvpG0vURNGrEUM%3A&quot;&gt;A Lean Startup Cycle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[6]	[Lean Manufacturing Vs. Continuous Improvement](https://www.isixsigma.com/community/blogs/leanci/) --&gt;&lt;/p&gt;
+
+&lt;p&gt;[7]	&lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A&quot;&gt;Manufacturing Process in Lean&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &lt;a href=&quot;https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&amp;amp;espv=2&amp;amp;biw=1366&amp;amp;bih=643&amp;amp;site=webhp&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&amp;amp;q=leading+daily+improvement+katie&quot;&gt;Lean startup and Continuous Improvement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#content&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Lean-Startups_and_CI.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Continuous Improvement case studies</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/#axzz48OPxDWwv&quot;&gt;Continuous Improvement as a Business Strategy – A corus case study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://businesscasestudies.co.uk/leyland-trucks/continuous-improvement-within-an-organisation/#axzz48OPxDWwv&quot;&gt;Continuous Improvement within an organization – A Leyland Truckscase study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.plm.automation.siemens.com/CaseStudyWeb/dispatch/viewResource.html?resourceId=16299&quot;&gt;Nissan Motor – Continuous improvement, design through delivery&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.moresteam.com/resources/download/kahiki-foods-case-study.pdf&quot;&gt;Reducing Biological Oxygen Demand at Kahiki Foods – A case study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.dnrec.delaware.gov/Air/Documents/ECOS%20LEAN%20Report.pdf&quot;&gt;Lean case studies: continuous improvement in state agencies&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</link>
+        <guid isPermaLink="true">http://css566.github.io/2016/05/12/Continous_Improvement_casestudies.html</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>

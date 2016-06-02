@@ -1,26 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
----
-
-<div class="home">
-{% for category in site.categories %}
-  <li>
-      <h2>
-        <a id="{{ category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-      </h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.title %}
-          <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-=======
 <!DOCTYPE html>
 <html>
 
@@ -29,11 +6,11 @@ layout: page
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="JQ8un6S5HeG3_zepr36-7mBfOPxfSW-OZnvHe6wmlHc" />
-  <title>Software Management</title>
-  <meta name="description" content="">
+  <title>Physical Unit Syllabus</title>
+  <meta name="description" content="INTRODUCTION">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/syllabus/2016/04/28/physical_syllabus.html">
   <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
 </head>
 
@@ -104,56 +81,56 @@ layout: page
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title" itemprop="name headline">Physical Unit Syllabus</h1>
+    <p class="post-meta">
+    
+    <time datetime="2016-04-28T00:00:00+00:00" itemprop="datePublished">Apr 28, 2016</time>
+    
+
+    </p>
   </header>
 
-  <div class="post-content">
-    <div class="home">
+  <div class="post-content" itemprop="articleBody">
+    <h2 id="introduction">INTRODUCTION</h2>
 
-  <li>
-      <h2>
-        <a id="syllabus" href="#syllabus">syllabus</a>
-      </h2>
-    <ul>
-    
-      
-        
-      
-    
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html">Continuous Improvement Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Managing_Distributed_Teams.html">Managing Distributed Teams</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/03/visual_maps.html">Visual Maps of Software Management</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/physical_syllabus.html">Physical Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/agile_economic_syllabus.html">Agile Software Management Economic Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/23/less_syllabus.html">LeSS Unit Syllabus</a></h3></li>
-        
-      
-    
-    </ul>
-  </li>
+<p>This syllabus aims to presents important take-aways from exploring the Physical aspect for different SM Frameworks/Methodologies. 
+The effort is oriented to understand the framework as well as be able to gauge the framework for Physical aspects in Physical-Cyber-Social Systems approach. 
+It deals with the different instances of a physical environment like organization of teams, the physical space in which the teams operate, workspaces etc.
+Understanding the physical environment is essential because it directly determines the successful outcome of the software development process.</p>
 
->>>>>>> 1e2026c1ab4f6bdfe4267a94a846fcf891cd8abf
-</div>
+<h2 id="learning-objectives">LEARNING OBJECTIVES</h2>
+
+<p>By the end of the unit, the student should be able to:</p>
+
+<ul>
+  <li>Understand the different dimensions of the Physical aspect.</li>
+  <li>Identify different physical environments needed for different SM Frameworks/Methodologies..</li>
+  <li>Identify the different ways in which teams can be organized to suit varying organizational needs.</li>
+  <li>Have a comprehensive idea of the physical aspect through the articles, case studies and videos.</li>
+  <li>Analyze the physical aspect for any given SM Frameworks/Methodologies.</li>
+</ul>
+
+<h2 id="organization">ORGANIZATION</h2>
+
+<ul>
+  <li><a href="/2016/05/05/physical-workspaces.html">Development Environments and Workspaces</a></li>
+  <li><a href="/2016/04/28/agile_physical.html">Physical Aspects of Agile/Scrum</a></li>
+  <li><a href="/2016/04/26/less_physical.html">Physical Aspects of LeSS</a></li>
+  <li><a href="/2016/04/28/agile_Kanban.html">Physical Aspects of Kanban</a></li>
+  <li><a href="/2016/05/03/waterfall_physical.html">Physical Aspects of Waterfall</a></li>
+</ul>
+
+<h2 id="additional-resources">Additional Resources</h2>
+
+<ul>
+  <li><a href="http://css566.github.io/2016/04/28/PhysicalAspects_Articles.html">Journal Articles</a></li>
+  <li><a href="https://css566.github.io/2016/04/28/PhysicalAspects_Videos.html">Videos</a></li>
+  <li><a href="http://css566.github.io/2016/04/28/PhysicalAspects_CaseStudies.html">Case Studies</a></li>
+</ul>
+
 
   </div>
 

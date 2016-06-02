@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="JQ8un6S5HeG3_zepr36-7mBfOPxfSW-OZnvHe6wmlHc" />
+  <title>Quality attributes and metrics for a Unit</title>
+  <meta name="description" content="Quality Attributes and Metrics for a Unit">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="/2016/04/21/QualityAttributesAndMetricsForAUnit.html">
+  <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <div>
+      <script>
+        (function() {
+          var cx = '011458794037413976864:shfrp9g2dja';
+          var gcse = document.createElement('script');
+          gcse.type = 'text/javascript';
+          gcse.async = true;
+          gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(gcse, s);
+        })();
+      </script>
+    <gcse:search></gcse:search>
+    </div>
+    <a class="site-title" href="/">Software Management</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/all_units.html">All units</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Quality attributes and metrics for a Unit</h1>
+    <p class="post-meta">
+    
+    <time datetime="2016-04-21T00:00:00+00:00" itemprop="datePublished">Apr 21, 2016</time>
+    
+
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <h1 id="quality-attributes-and-metrics-for-a-unit">Quality Attributes and Metrics for a Unit</h1>
+
+<h1 id="css-566-sprint-1">CSS 566: Sprint #1</h1>
+
+<h2 id="overview">Overview</h2>
+<p>In this document, we define quality attributes and metrics for a Unit.  A Unit is defined as an element of a course we are creating in CSS 566 (the “Product”). Quality attributes are the benchmarks that describe a Unit’s intended behavior within the environment for which it was built. It also provides the means for measuring the fitness and suitability of the Unit within the Product. While defining a Unit’s quality attributes and metrics, we outline generic guidelines that may be applied to any single Unit of the Product. These guidelines are designed to enable developers and other related stakeholders that are responsible for developing a Unit to measure its quality.</p>
+
+<p><strong>The objective is divided into 3 sub-tasks as follows:</strong></p>
+
+<ol>
+  <li>Define usability qualities for a Unit.</li>
+  <li>Define design qualities of the Unit’s structure.</li>
+  <li>Define what metrics need to be measured for a Unit’s quality.</li>
+</ol>
+
+<h2 id="define-usability-qualities-for-a-unit">1. Define Usability Qualities For a Unit</h2>
+
+<p>Usability of a Unit is a quality attribute that assesses how easy user interfaces are to use. An alternative definition of usability of a Unit is, methods for improving ease-of-use during the design process.</p>
+
+<p>a. <strong>Learnability</strong> - How easy is it for users to accomplish basic tasks the first time they encounter the design. [3]</p>
+
+<ul>
+  <li><em>Navigation-</em>
+    <ul>
+      <li>Easy to find the content in the unit.</li>
+      <li>Easy to navigate the structure in a unit.</li>
+      <li>Easy to comprehend your place in a unit.</li>
+      <li>Easily comprehensible or self-explanatory navigation menu.</li>
+    </ul>
+  </li>
+  <li><em>Intuitive interfaces [2] -</em>
+    <ul>
+      <li>Easy to use interfaces through use of previously developed similar systems.</li>
+      <li>Use of contrast in the Unit’s content to catch user’s eye.</li>
+      <li>Use of abbreviated terms only after introducing their elaborated form.</li>
+      <li>The homepage shall clearly state what the product offers and what users can do on the site. [1]</li>
+      <li>Visual cues using different fonts, colors, and images.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>b. <strong>Efficiency</strong> – Once users have learned about the Unit, how quickly can they perform tasks. [3]</p>
+
+<ul>
+  <li>Easy to learn structure of feedback system by observing. [2]</li>
+  <li>Easy to comprehend rating system that provides information on how each rating is defined as.</li>
+  <li>Use of text-boxes to accept open-ended suggestions
+to improve or add a unit.</li>
+</ul>
+
+<p>c. <strong>Memorability</strong> – When users return to the Unit after a period of not using it, how easy can they reestablish proficiency. [3]</p>
+
+<ul>
+  <li>Modularity in the structure of a Unit.</li>
+  <li>Clear distinction between different hierarchical levels in a Unit.</li>
+  <li>Use of selective colors that make the website look uniquely attractive.</li>
+</ul>
+
+<h2 id="define-design-qualities-of-the-units-structure">2. Define Design Qualities of the Unit’s Structure</h2>
+<p>Some of the design qualities for the Unit’s structure overlap with the qualities for its usability as outlined above, but there are fundamental differences. For instance, the Unit’s structure needs to be easily navigable and memorable as previously mentioned, but the actual direction for what goes into a Unit’s composition is governed by established practices around course and syllabus design. Thus, when defining how well a Unit’s structure is constructed, one needs to understand concepts relating to the content and how it influences the structure. This section defines design qualities for structure that are separate from Usability.</p>
+
+<p>a. <strong>Logical Flow</strong></p>
+
+<ul>
+  <li>Unit includes overview and description of its topics [4]</li>
+  <li>Unit topics are arranged in logical order of complexity and relevance [4]</li>
+  <li>Assignments, projects, and exams are woven in at appropriate    intervals [4]</li>
+  <li>These are clearly broken down into how much impact on
+the student’s grade they will have.</li>
+</ul>
+
+<p>b. <strong>Understandability</strong></p>
+
+<ul>
+  <li>Students can tell what they need to learn by the Unit’s structure [5]</li>
+  <li>Students can tell what they need to do to learn the Unit’s content [5]</li>
+  <li>Students can tell when they need to learn and perform work [5]</li>
+  <li>Students can tell how much time they need to spend on a Unit [5]</li>
+</ul>
+
+<p>c.  <strong>Conformance to Institution’s Organizational Requirements</strong></p>
+
+<ul>
+  <li>Length of Unit is appropriate to amount of time course has [5]</li>
+  <li>Amount of content in Unit is sufficient for curricular requirements  [5]</li>
+</ul>
+
+<p>d. <strong>Relevance to course level and difficulty [5]</strong></p>
+
+<ul>
+  <li>Product is a Software Management (SM) course at a graduate (500)   level, so each Unit must be structured towards a disciplined,  research-oriented approach.</li>
+  <li>Structure should be strong or loose as appropriate to professor’s teaching style
+    <ul>
+      <li>Loose is more apt for a SM course that is structured as an exercise in agile software management</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="define-what-metrics-need-to-be-measured-for-a-units-quality">3. Define What Metrics Need to be Measured For a Unit’s Quality</h2>
+<p>Metrics for a Unit’s quality are related to sections 1 and 2; rather than defining what needs to be defined for quality, we are defining how the Unit needs to be measured. This is difficult since the main measure of a course’s quality (which is naturally composed of various Units) is “if the learner’s performance improved as a direct result of taking the course.” [6]</p>
+
+<p>a. <strong>User Surveys</strong></p>
+
+<ul>
+  <li>Students fill out Unit evaluation that rates each of Section 1 and 2’s quality attribute definitions [7]</li>
+  <li>Students fill out Unit evaluation on relevance, quality, and variety of content [6]</li>
+  <li>Professor’s colleagues can peer evaluate the Unit on quality of content</li>
+  <li>Surveys are carried out regularly (i.e. at the end of every Unit) [7]</li>
+  <li>Survey findings are used to continuously improve the Unit [7]</li>
+</ul>
+
+<p>b. <strong>Aggregate student performance results</strong></p>
+
+<ul>
+  <li>Record and observe students’ performance on a Unit’s assessments to measure how effective the Unit was at presenting concepts
+    <ul>
+      <li>Combine performance results with student surveys to separate out structure effectiveness vs. content effectiveness</li>
+    </ul>
+  </li>
+</ul>
+
+<p>c. <strong>Unit relevance</strong></p>
+
+<ul>
+  <li>Unit is updated regularly and reflects current industry trends [7]</li>
+  <li>Unit is designed by a professor who has proper academic credentials [7]</li>
+</ul>
+
+<p>d. <strong>Technical measurements</strong></p>
+
+<ul>
+  <li>Interactive elements (i.e. audio and video) are high quality [6]</li>
+  <li>Look, feel, and overall visual design are consistent with other Units and the Product as a whole [6]</li>
+  <li>Unit content is presented in varied ways [6]</li>
+</ul>
+
+<h1 id="references">References</h1>
+<ol>
+  <li>http://www.softwarearchitectures.com/qa.html</li>
+  <li>https://en.wikipedia.org/wiki/Usability</li>
+  <li>https://www.nngroup.com/articles/usability-101-introduction-to-usability/</li>
+  <li>http://www.washington.edu/teaching/teaching-resources/preparing-to-teach/designing-your-course-and-syllabus/</li>
+  <li>http://www.tonybates.ca/2012/06/26/nine-steps-to-quality-online-learning-step-7-design-course-structure-and-learning-activities/</li>
+  <li>https://community.articulate.com/discussions/building-better-courses/how-to-measure-quality-of-a-course</li>
+  <li>http://publications.sreb.org/2006/06T05_Standards_quality_online_courses.pdf</li>
+</ol>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!--<h2 class="footer-heading">Software Management</h2>-->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <!--<ul class="contact-list">
+          <li>Contact : <a href="mailto:socha@uw.edu">socha@uw.edu</a></li>
+        </ul>-->
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
