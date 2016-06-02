@@ -19,6 +19,8 @@ The entire set of practices covered in this course is presented on the following
 
 
 
+
+
 # *Reference
 [1] These maps incoroporate the concept of the [Stacey matrix](http://www.gp-training.net/training/communication_skills/consultation/equipoise/complexity/stacey.htm)
 This is a useful map for navigating into complexity of concepts. It can help offering method to select the appropriate management actions in a complex adaptive system based on the degree of certainty and level of agreement on the issue in question.
