@@ -1,26 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
----
-
-<div class="home">
-{% for category in site.categories %}
-  <li>
-      <h2>
-        <a id="{{ category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-      </h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.title %}
-          <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-=======
 <!DOCTYPE html>
 <html>
 
@@ -29,11 +6,11 @@ layout: page
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="JQ8un6S5HeG3_zepr36-7mBfOPxfSW-OZnvHe6wmlHc" />
-  <title>Software Management</title>
-  <meta name="description" content="">
+  <title>Physical Unit - Related Articles</title>
+  <meta name="description" content="Journals - Physical Aspects of SMThis section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with Agile an...">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/2016/04/28/PhysicalAspects_Articles.html">
   <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
 </head>
 
@@ -104,56 +81,45 @@ layout: page
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title" itemprop="name headline">Physical Unit - Related Articles</h1>
+    <p class="post-meta">
+    
+    <time datetime="2016-04-28T00:00:00+00:00" itemprop="datePublished">Apr 28, 2016</time>
+    
+
+    </p>
   </header>
 
-  <div class="post-content">
-    <div class="home">
+  <div class="post-content" itemprop="articleBody">
+    <h1 id="journals---physical-aspects-of-sm">Journals - Physical Aspects of SM</h1>
+<p>This section deals with the Physical Aspect of SM, and it helps identify how the physical aspect can be linked with Agile and Kanban</p>
 
+<p>Following are the list of articles relating to the Physical aspect of Software Management.</p>
+
+<ol>
   <li>
-      <h2>
-        <a id="syllabus" href="#syllabus">syllabus</a>
-      </h2>
-    <ul>
-    
-      
-        
-      
-    
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html">Continuous Improvement Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Managing_Distributed_Teams.html">Managing Distributed Teams</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/03/visual_maps.html">Visual Maps of Software Management</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/physical_syllabus.html">Physical Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/agile_economic_syllabus.html">Agile Software Management Economic Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/23/less_syllabus.html">LeSS Unit Syllabus</a></h3></li>
-        
-      
-    
-    </ul>
+    <p><a href="https://less.works/less/structure/feature_teams.html">Teams in Lean Management</a>
+Teams play a very important role in defining the physical aspect for lean management. 
+The way in which teams are organized, how they are distributed and where they are located is also important.One such example is a ‘Feature Team’.</p>
   </li>
+  <li>
+    <p><a href="http://www.pipefy.com/best-practices/physical-vs-online-kanban-board/">Kanban boards</a>
+The physical aspect for Kanban can be understood in terms of a physical environment for managing tasks, it could be literal Kanban boards or Online boards.</p>
+  </li>
+  <li>
+    <p><a href="http://www.craiglarman.com/wiki/index.php?title=Environment_-_U_Shaped_Tables_Layout">Agile Modeling Design Workshop</a> well           illustrates the another dimension to the physical aspect.</p>
+  </li>
+  <li>
+    <p><a href="https://less.works/less/technical-excellence/continuous-integration.html#ScalingaCISystem">Continuous Integration (Scaling a CI system)</a> with respect to the LeSS framework includes some physical aspects as well.</p>
+  </li>
+  <li>
+    <p><a href="https://less.works/less/technical-excellence/architecture-design.html">The architecture and design of the system</a> is an important    area to address physical aspects. It is that area in project management that directly impacts software development.</p>
+  </li>
+</ol>
 
->>>>>>> 1e2026c1ab4f6bdfe4267a94a846fcf891cd8abf
-</div>
 
   </div>
 

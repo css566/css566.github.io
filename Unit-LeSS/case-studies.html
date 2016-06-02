@@ -1,26 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
----
-
-<div class="home">
-{% for category in site.categories %}
-  <li>
-      <h2>
-        <a id="{{ category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-      </h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.title %}
-          <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-=======
 <!DOCTYPE html>
 <html>
 
@@ -33,7 +10,7 @@ layout: page
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/Unit-LeSS/case-studies.html">
   <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
 </head>
 
@@ -104,56 +81,51 @@ layout: page
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title" itemprop="name headline"></h1>
+    <p class="post-meta">
+    
+
+    </p>
   </header>
 
-  <div class="post-content">
-    <div class="home">
+  <div class="post-content" itemprop="articleBody">
+    <h1 id="less-case-studies">LeSS Case Studies</h1>
 
-  <li>
-      <h2>
-        <a id="syllabus" href="#syllabus">syllabus</a>
-      </h2>
-    <ul>
-    
-      
-        
-      
-    
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html">Continuous Improvement Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Managing_Distributed_Teams.html">Managing Distributed Teams</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/03/visual_maps.html">Visual Maps of Software Management</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/physical_syllabus.html">Physical Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/agile_economic_syllabus.html">Agile Software Management Economic Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/23/less_syllabus.html">LeSS Unit Syllabus</a></h3></li>
-        
-      
-    
-    </ul>
-  </li>
+<p>[A Practical Approach to Large-Scale. Agile Development. An HP case study]
+(http://www.agileleadershipnetwork.org/wp-content/uploads/2012/12/Young-LargeScaleAgielDevelopment-2012-01-20.pdf)</p>
 
->>>>>>> 1e2026c1ab4f6bdfe4267a94a846fcf891cd8abf
-</div>
+<p>[Alcatel Lucent]
+(https://less.works/case-studies/alcatel-lucent.html)</p>
+
+<p>[John Deere]
+(https://less.works/case-studies/john-deere.html)</p>
+
+<p>[Agilix Consulting]
+(https://agilix.nl/resources/ScrumAtScaleAtPowerhouse.pdf)</p>
+
+<p>[Port of Rotterdam]
+(https://less.works/case-studies/port-of-rotterdam.html)</p>
+
+<p>[UBS]
+(https://less.works/case-studies/ubs.html)</p>
+
+<p>[JP Morgan Chase]
+(https://less.works/case-studies/jpmorgan.html)</p>
+
+<p>[Ericsson]
+(https://less.works/case-studies/ericson.html)</p>
+
+<p>[ION Trading]
+(https://less.works/case-studies/ion-trading.html)</p>
+
+<p>[BMW group]
+(https://less.works/case-studies/bmw-group.html)</p>
+
+<p>[Coordination in Large-Scale Agile Development - DiVA]
+(http://www.diva-portal.org/smash/get/diva2:751699/FULLTEXT01.pdf)</p>
 
   </div>
 

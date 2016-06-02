@@ -1,26 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
----
-
-<div class="home">
-{% for category in site.categories %}
-  <li>
-      <h2>
-        <a id="{{ category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-      </h2>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.title %}
-          <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-=======
 <!DOCTYPE html>
 <html>
 
@@ -33,7 +10,7 @@ layout: page
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/Unit-LeSS/LeSS_Unit_Syllabus.html">
   <link rel="alternate" type="application/rss+xml" title="Software Management" href="http://css566.github.io/feed.xml">
 </head>
 
@@ -104,56 +81,51 @@ layout: page
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title" itemprop="name headline"></h1>
+    <p class="post-meta">
+    
+
+    </p>
   </header>
 
-  <div class="post-content">
-    <div class="home">
+  <div class="post-content" itemprop="articleBody">
+    <h1 id="less-unit-syllabus">LeSS Unit Syllabus</h1>
 
-  <li>
-      <h2>
-        <a id="syllabus" href="#syllabus">syllabus</a>
-      </h2>
-    <ul>
-    
-      
-        
-      
-    
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Continuous_Improvement_Syllabus.html">Continuous Improvement Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/24/Managing_Distributed_Teams.html">Managing Distributed Teams</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/05/03/visual_maps.html">Visual Maps of Software Management</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/physical_syllabus.html">Physical Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/28/agile_economic_syllabus.html">Agile Software Management Economic Unit Syllabus</a></h3></li>
-        
-      
-        
-          <li><h3><a href="/syllabus/2016/04/23/less_syllabus.html">LeSS Unit Syllabus</a></h3></li>
-        
-      
-    
-    </ul>
-  </li>
+<p>#Unit Overview
+This unit is about “LeSS” – Large Scale Scrum, which is an agile approach that extends aspects of single team Scrum to larger teams.  This unit covers theories, principles, and practices of LeSS that are designed to enable project/product managers, developers, and other related stakeholders to guide software projects toward successful implementation, and to manage the highly complex software-enabled systems being built today using LeSS. This unit also considers the physical-cyber-social systems (PCSSs) aspects of LeSS.</p>
 
->>>>>>> 1e2026c1ab4f6bdfe4267a94a846fcf891cd8abf
-</div>
+<p>#Learning Objectives</p>
+
+<p>By the end of this unit, students should be able to:</p>
+
+<ul>
+  <li>Understand basic aspects of the theoretical frameworks, principles, and practices of LeSS.</li>
+  <li>Use experiments and discover what works for a given LeSS project</li>
+  <li>Observe LeSS from the viewpoint of LeSS as a Physical System, LeSS and a Cyber Systems, and LeSS as a Social System.</li>
+  <li>Understand tools and techniques defined by LeSS for managing a software project</li>
+</ul>
+
+<p>#LeSS Unit Organization</p>
+
+<ol>
+  <li>LeSS Framework</li>
+  <li>LeSS Theories</li>
+  <li>LeSS Principles</li>
+  <li>LeSS Practices</li>
+  <li>Cyber Aspects of LeSS</li>
+  <li>Social Aspects of LeSS</li>
+  <li>Software Management using LeSS</li>
+  <li>Student Assessment of LeSS Unit</li>
+</ol>
+
+<p>#Additional LeSS Resources
+- Journal Articles
+- Books
+- Videos
+- Case Studies</p>
 
   </div>
 
