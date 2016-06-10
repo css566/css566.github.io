@@ -31,6 +31,7 @@ title: Lean Startups and Continuous Improvement
   Lean manufacturing is a continuous improvement model that strives to eliminate non-value-added activities. Continuous improvement is an organizational mindset that focuses on an ongoing effort to improve. There are a number of continuous improvement-type approaches that firms can adopt. Manufacturers that embrace an attitude of continuous improvement can be transformed into agile, more competitive, and more profitable businesses.
   
   ![enter image description here](https://github.com/css566/css566.github.io/blob/gh-pages/images/Lean_CI.PNG?raw=true)
+  
   > Fig 2: Explains Lean startup and Continuous Improvement 
 
 ## 3. Continuous Improvement [1]
@@ -38,6 +39,7 @@ title: Lean Startups and Continuous Improvement
   Continuous Improvement should be a mind-set throughout your whole organization. Do not get caught up in only trying to find the big ideas. Small ideas will often times lead to big improvements.
 
   ![enter image description here](https://github.com/css566/css566.github.io/blob/gh-pages/images/ContinuousImprov.PNG?raw=true)
+  
   > Fig 3: The Management Process in Lean [2]
   
 ## 4. Lean Manufacturing Vs. Continuous Improvement [6]
@@ -54,9 +56,11 @@ title: Lean Startups and Continuous Improvement
   Let’s get “Lean” out of our heads and start communicating CI. It’s broader, includes everyone (especially the operators) and will give us long term gains. Let’s train, empower and engage rather than cut time, rebalance and lay-off.
 
   ![enter image description here](https://github.com/css566/css566.github.io/blob/gh-pages/images/LeanManufacturing.PNG?raw=true)
+  
   > Fig 4: Describes the Lean Manufacturing Process [7]
 
-##Extra Resources
+## Extra Resources
+
   Following is a list of Articles that talk about Lean Startups and Continuous Improvement:
   
   •	[Lean Principles and how software development processes are engineered in Lean Startups.](http://theleanstartup.com/principles)
@@ -78,7 +82,7 @@ title: Lean Startups and Continuous Improvement
   •	[The Lean Startup Movement- the different companies that adopted lean and how the business of these companies changed.](http://theleanstartup.com/casestudies#dropbox)
 
 
-##References
+## References
 
   [1] [Continuous Improvement](http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
   
@@ -92,8 +96,8 @@ title: Lean Startups and Continuous Improvement
   
   <!--[6]	[Lean Manufacturing Vs. Continuous Improvement](https://www.isixsigma.com/community/blogs/leanci/) -->
   
-  [7]	[Manufacturing Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
+  [6]	[Manufacturing Process in Lean](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3otX1i9XMAhUX4mMKHe4NDwMQ_AUIBygC#imgrc=hN06e3ttYFmkkM%3A)
   
-  [8] [Lean startup and Continuous Improvement](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&q=leading+daily+improvement+katie)
+  [7] [Lean startup and Continuous Improvement](https://www.google.com/search?q=lean+manufacturing+and+continuous+improvement&espv=2&biw=1366&bih=643&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjTiaawv9XMAhUU4GMKHUtjBtcQ_AUIBygC#tbm=isch&q=leading+daily+improvement+katie)
 
 [Back to top](#content)
